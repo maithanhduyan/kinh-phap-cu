@@ -1,0 +1,17 @@
+---
+date: 2020-06-12 04:10:19
+update: 2020-06-12 04:10:19
+
+title: Bài kệ 95 - Phẩm A La Hán
+category:
+  - pham-a-la-han
+  - Phẩm A-La-Hán
+tag:
+  - pham-a-la-han
+---
+
+# Bài kệ 95 - Pham A La Han
+
+![An image](/img/pham-a-la-han/pham-a-la-han-095.jpg)
+
+Như đất, không hiềm hận,<br>Như cột trụ, kiên trì,<br>Như hồ, không bùn nhơ,<br>Không luân hồi, vị ấy.<br>

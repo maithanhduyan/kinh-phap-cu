@@ -1,0 +1,17 @@
+---
+date: 2020-06-12 04:10:19
+update: 2020-06-12 04:10:19
+
+title: Bài kệ 60 - Phẩm Ngu
+category:
+  - pham-ngu
+  - Phẩm Ngu
+tag:
+  - pham-ngu
+---
+
+# Bài kệ 60 - Pham Ngu
+
+![An image](/img/pham-ngu/pham-ngu-060.jpg)
+
+Ðêm dài cho kẻ thức,<br>Ðường dài cho kẻ mệt,<br>Luân hồi dài, kẻ ngu,<br>Không biết chơn diệu pháp.<br>

@@ -1,0 +1,17 @@
+---
+date: 2020-06-12 04:10:19
+update: 2020-06-12 04:10:19
+
+title: Bài kệ 328 - Phẩm Voi
+category:
+  - pham-voi
+  - Phẩm Voi
+tag:
+  - pham-voi
+---
+
+# Bài kệ 328 - Pham Voi
+
+![An image](/img/pham-voi/pham-voi-328.jpg)
+
+Nếu được bạn hiền trí<br>Ðáng sống chung, hạnh lành,<br>Nhiếp phục mọi hiểm nguy<br>Hoan hỷ sống chánh niệm.<br>
