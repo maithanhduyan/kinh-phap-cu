@@ -7,6 +7,9 @@ import { sidebar } from './sidebar'
 import { head } from './head'
 
 export default defineUserConfig({
+  // Nếu ở chế độ production, base sẽ là '/repo-name/' (điều chỉnh theo tên repo của bạn)
+  // Nếu ở local (development), base sẽ là '/'
+  base: process.env.NODE_ENV === 'production' ? '/kinh-phap-cu/' : '/',
   lang: 'vi-VN',
 
   title: 'Kinh Pháp Cú',
