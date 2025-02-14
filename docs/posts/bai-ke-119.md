@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 119 - Phẩm Ác
+head:
+  - - meta
+    - name: Bài kệ 119 - Phẩm Ác
+      content: Người Ác Thấy Là Hiền.<Br>Khi Ác Chưa Chín Muồi,<Br>Khi Ác Nghiệp Chín Muồi,<Br>Người Ác Mới Thấy Ác.<Br>
 category:
-  - pham-ac
-  - Phẩm Ác
-tag:
   - pham-ac
 ---
 
-# Bài kệ 119 - Pham Ac
+# Bài kệ 119 - Phẩm Ác
 
 ![An image](/img/pham-ac/pham-ac-119.jpg)
 

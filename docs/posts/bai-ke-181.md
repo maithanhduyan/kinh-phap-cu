@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 181 - Phẩm Phật Đà
+head:
+  - - meta
+    - name: Bài kệ 181 - Phẩm Phật Đà
+      content: Người Trí Chuyên Thiền Định,<Br>Thích An Tịnh Viễn Ly,<Br>Chư Thiên Đều Ái Kính,<Br>Bậc Chánh Giác, Chánh Niệm.<Br>
 category:
-  - pham-phat-da
-  - Phẩm Phật Đà
-tag:
   - pham-phat-da
 ---
 
-# Bài kệ 181 - Pham Phat Da
+# Bài kệ 181 - Phẩm Phật Đà
 
 ![An image](/img/pham-phat-da/pham-phat-da-181.jpg)
 

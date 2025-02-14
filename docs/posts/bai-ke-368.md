@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 368 - Phẩm Tỳ Kheo
+head:
+  - - meta
+    - name: Bài kệ 368 - Phẩm Tỳ Kheo
+      content: Tỷ Kheo Trú Từ Bi,<Br>Tín Thành Giáo Pháp Phật,<Br>Chứng Cảnh Giới Tịch Tỉnh.<Br>Các Hạnh An Tịnh Lạc.<Br>
 category:
-  - pham-ty-kheo
-  - Phẩm Tỳ Kheo
-tag:
   - pham-ty-kheo
 ---
 
-# Bài kệ 368 - Pham Ty Kheo
+# Bài kệ 368 - Phẩm Tỳ Kheo
 
 ![An image](/img/pham-ty-kheo/pham-ty-kheo-368.jpg)
 

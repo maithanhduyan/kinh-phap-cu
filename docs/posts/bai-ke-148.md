@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 148 - Phẩm Già
+head:
+  - - meta
+    - name: Bài kệ 148 - Phẩm Già
+      content: Sắc Này Bị Suy Già,<Br>Ổ Tật Bệnh, Mỏng Manh,<Br>Nhóm Bất Tịnh, Đỗ Vỡ,<Br>Chết Chấm Dứt Mạng Sống.<Br>
 category:
-  - pham-gia
-  - Phẩm Già
-tag:
   - pham-gia
 ---
 
-# Bài kệ 148 - Pham Gia
+# Bài kệ 148 - Phẩm Già
 
 ![An image](/img/pham-gia/pham-gia-148.jpg)
 

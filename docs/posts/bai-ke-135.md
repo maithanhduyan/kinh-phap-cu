@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 135 - Phẩm Hình Phạt
+head:
+  - - meta
+    - name: Bài kệ 135 - Phẩm Hình Phạt
+      content: Với Gậy Người Chăn Bò,<Br>Lùa Bò Ra Bãi Cỏ;<Br>Cũng Vậy, Già Và Chết,<Br>Lùa Người Đến Mạng Chung.<Br>
 category:
-  - pham-hinh-phat
-  - Phẩm Hình Phạt
-tag:
   - pham-hinh-phat
 ---
 
-# Bài kệ 135 - Pham Hinh Phat
+# Bài kệ 135 - Phẩm Hình Phạt
 
 ![An image](/img/pham-hinh-phat/pham-hinh-phat-135.jpg)
 

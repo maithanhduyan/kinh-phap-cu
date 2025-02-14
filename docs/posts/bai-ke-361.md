@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 361 - Phẩm Tỳ Kheo
+head:
+  - - meta
+    - name: Bài kệ 361 - Phẩm Tỳ Kheo
+      content: Lành Thay,Phòng Hộ Thân!<Br>Lành Thay, Phòng Hộ Lời,<Br>Lành Thay, Phòng Hộ Ý.<Br>Lành Thay, Phòng Tất Cả.<Br>Tỷ Kheo Phòng Tất Cả.<Br>Thoát Được Mọi Khổ Đau.<Br>
 category:
-  - pham-ty-kheo
-  - Phẩm Tỳ Kheo
-tag:
   - pham-ty-kheo
 ---
 
-# Bài kệ 361 - Pham Ty Kheo
+# Bài kệ 361 - Phẩm Tỳ Kheo
 
 ![An image](/img/pham-ty-kheo/pham-ty-kheo-361.jpg)
 

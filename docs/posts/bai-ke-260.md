@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 260 - Phẩm Pháp Trụ
+head:
+  - - meta
+    - name: Bài kệ 260 - Phẩm Pháp Trụ
+      content: Không Phải Là Trưởng Lão,<Br>Dầu Cho Có Bạc Đầu.<Br>Người Chỉ Tuổi Tác Cao,<Br>Ðược Gọi Là  “Lão Ngu.<Br>
 category:
-  - pham-phap-tru
-  - Phẩm Pháp Trụ
-tag:
   - pham-phap-tru
 ---
 
-# Bài kệ 260 - Pham Phap Tru
+# Bài kệ 260 - Phẩm Pháp Trụ
 
 ![An image](/img/pham-phap-tru/pham-phap-tru-260.jpg)
 

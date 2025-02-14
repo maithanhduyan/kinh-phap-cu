@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 275 - Phẩm Đạo
+head:
+  - - meta
+    - name: Bài kệ 275 - Phẩm Đạo
+      content: Nếu Người Theo Đường Này,<Br>Ðau Khổ Được Đoạn Tận.<Br>Ta Dạy Người Con Đường.<Br>Với Trí, Gai Chướng Diệt.<Br>
 category:
-  - pham-dao
-  - Phẩm Đạo
-tag:
   - pham-dao
 ---
 
-# Bài kệ 275 - Pham Dao
+# Bài kệ 275 - Phẩm Đạo
 
 ![An image](/img/pham-dao/pham-dao-275.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 83 - Phẩm Hiền Trí
+head:
+  - - meta
+    - name: Bài kệ 83 - Phẩm Hiền Trí
+      content: Người Hiền Bỏ Tất Cả,<Br>Người Lành Không Bàn Dục,<Br>Dầu Cảm Thọ Lạc Khổ,<Br>Bậc Trí Không Vui Buồn.<Br>
 category:
-  - pham-hien-tri
-  - Phẩm Hiền Trí
-tag:
   - pham-hien-tri
 ---
 
-# Bài kệ 83 - Pham Hien Tri
+# Bài kệ 83 - Phẩm Hiền Trí
 
 ![An image](/img/pham-hien-tri/pham-hien-tri-083.jpg)
 

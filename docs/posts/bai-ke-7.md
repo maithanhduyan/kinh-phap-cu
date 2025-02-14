@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 7 - Phẩm Song Yếu
+head:
+  - - meta
+    - name: Bài kệ 7 - Phẩm Song Yếu
+      content: Ai Sống Nhìn Tịnh Tướng,<Br>Không Hộ Trì Các Căn,<Br>Ăn Uống Thiếu Tiết Độ,<Br>Biếng Nhác, Chẳng Tinh Cần.<Br>Ma Uy Hiếp Kẻ Ấy,<Br>Như Cây Yếu Trước Gió.<Br>
 category:
-  - pham-song-yeu
-  - Phẩm Song Yếu
-tag:
   - pham-song-yeu
 ---
 
-# Bài kệ 7 - Pham Song Yeu
+# Bài kệ 7 - Phẩm Song Yếu
 
 ![An image](/img/pham-song-yeu/pham-song-yeu-007.jpg)
 

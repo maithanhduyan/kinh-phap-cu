@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 339 - Phẩm Tham Ái
+head:
+  - - meta
+    - name: Bài kệ 339 - Phẩm Tham Ái
+      content: Ba Mươi Sáu Dòng Ái ,<Br>Trôi Người Đốn Khả Ái.<Br>Các Tư Tưởng Tham Ái.<Br>Cuốn Trôi Người Tà Kiến.<Br>
 category:
-  - pham-tham-ai
-  - Phẩm Tham Ái
-tag:
   - pham-tham-ai
 ---
 
-# Bài kệ 339 - Pham Tham Ai
+# Bài kệ 339 - Phẩm Tham Ái
 
 ![An image](/img/pham-tham-ai/pham-tham-ai-339.jpg)
 

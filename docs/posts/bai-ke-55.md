@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 55 - Phẩm Hoa
+head:
+  - - meta
+    - name: Bài kệ 55 - Phẩm Hoa
+      content: Hoa Chiên Đàn, Già La,<Br>Hoa Sen, Hoa Vũ Quý,<Br>Giữa Những Hương Hoa Ấy,<Br>Giới Hương Là Vô Thượng.<Br>
 category:
-  - pham-hoa
-  - Phẩm Hoa
-tag:
   - pham-hoa
 ---
 
-# Bài kệ 55 - Pham Hoa
+# Bài kệ 55 - Phẩm Hoa
 
 ![An image](/img/pham-hoa/pham-hoa-055.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 270 - Phẩm Pháp Trụ
+head:
+  - - meta
+    - name: Bài kệ 270 - Phẩm Pháp Trụ
+      content: Còn Sát Hại Sinh Linh,<Br>Ðâu Được Gọi Hiền Thánh.<Br>Không Hại Mọi Hữu Tình,<Br>Mới Được Gọi Hiền Thánh.<Br>
 category:
-  - pham-phap-tru
-  - Phẩm Pháp Trụ
-tag:
   - pham-phap-tru
 ---
 
-# Bài kệ 270 - Pham Phap Tru
+# Bài kệ 270 - Phẩm Pháp Trụ
 
 ![An image](/img/pham-phap-tru/pham-phap-tru-270.jpg)
 

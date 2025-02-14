@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 336 - Phẩm Tham Ái
+head:
+  - - meta
+    - name: Bài kệ 336 - Phẩm Tham Ái
+      content: Ai Sống Trong Đời Này<Br>Ái Dục Được Hàng Phục<Br>Sầu Rơi Khỏi Người Ấy<Br>Như Giọt Nước Lá Sen.<Br>
 category:
-  - pham-tham-ai
-  - Phẩm Tham Ái
-tag:
   - pham-tham-ai
 ---
 
-# Bài kệ 336 - Pham Tham Ai
+# Bài kệ 336 - Phẩm Tham Ái
 
 ![An image](/img/pham-tham-ai/pham-tham-ai-336.jpg)
 

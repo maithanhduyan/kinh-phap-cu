@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 86 - Phẩm Hiền Trí
+head:
+  - - meta
+    - name: Bài kệ 86 - Phẩm Hiền Trí
+      content: Những Ai Hành Trì Pháp,<Br>Theo Chánh Pháp Khéo Dạy,<Br>Sẽ Đến Bờ Bên Kia,<Br>Vượt Ma Lực Khó Thoát.<Br>
 category:
-  - pham-hien-tri
-  - Phẩm Hiền Trí
-tag:
   - pham-hien-tri
 ---
 
-# Bài kệ 86 - Pham Hien Tri
+# Bài kệ 86 - Phẩm Hiền Trí
 
 ![An image](/img/pham-hien-tri/pham-hien-tri-086.jpg)
 

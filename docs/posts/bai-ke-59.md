@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 59 - Phẩm Hoa
+head:
+  - - meta
+    - name: Bài kệ 59 - Phẩm Hoa
+      content: Cũng Vậy Giữa Quần Sanh,<Br>Uế Nhiễm, Mù, Phàm Tục,<Br>Ðệ Tử Bậc Chánh Giác,<Br>Sáng Ngời Với Tuệ Trí.<Br>
 category:
-  - pham-hoa
-  - Phẩm Hoa
-tag:
   - pham-hoa
 ---
 
-# Bài kệ 59 - Pham Hoa
+# Bài kệ 59 - Phẩm Hoa
 
 ![An image](/img/pham-hoa/pham-hoa-059.jpg)
 

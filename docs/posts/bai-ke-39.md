@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 39 - Phẩm Tâm
+head:
+  - - meta
+    - name: Bài kệ 39 - Phẩm Tâm
+      content: Tâm Không Đầy Tràn Dục,<Br>Tâm Không (Hận) Công Phá,<Br>Ðoạn Tuyệt Mọi Thiện Ác,<Br>Kẻ Tỉnh Không Sợ Hãi.<Br>
 category:
-  - pham-tam
-  - Phẩm Tâm
-tag:
   - pham-tam
 ---
 
-# Bài kệ 39 - Pham Tam
+# Bài kệ 39 - Phẩm Tâm
 
 ![An image](/img/pham-tam/pham-tam-039.jpg)
 

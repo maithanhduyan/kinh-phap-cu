@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 31 - Phẩm Không Phóng Dật
+head:
+  - - meta
+    - name: Bài kệ 31 - Phẩm Không Phóng Dật
+      content: Vui Thích Không Phóng Dật,<Br>Tỷ Kheo Sợ Phóng Dật,<Br>Bước Tới Như Lửa Hừng,<Br>Thiêu Kiết Sử Lớn Nhỏ.<Br>
 category:
-  - pham-khong-phong-dat
-  - Phẩm Không Phóng Dật
-tag:
   - pham-khong-phong-dat
 ---
 
-# Bài kệ 31 - Pham Khong Phong Dat
+# Bài kệ 31 - Phẩm Không Phóng Dật
 
 ![An image](/img/pham-khong-phong-dat/pham-khong-phong-dat-031.jpg)
 

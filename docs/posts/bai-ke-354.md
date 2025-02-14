@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 354 - Phẩm Tham Ái
+head:
+  - - meta
+    - name: Bài kệ 354 - Phẩm Tham Ái
+      content: Pháp Thí, Thắng Mọi Thí!<Br>Pháp Vị, Thắng Mọi Vị!<Br>Pháp Hỷ, Thắng Mọi Hỷ!<Br>Ái Diệt, Dứt Mọi Khổ!<Br>
 category:
-  - pham-tham-ai
-  - Phẩm Tham Ái
-tag:
   - pham-tham-ai
 ---
 
-# Bài kệ 354 - Pham Tham Ai
+# Bài kệ 354 - Phẩm Tham Ái
 
 ![An image](/img/pham-tham-ai/pham-tham-ai-354.jpg)
 

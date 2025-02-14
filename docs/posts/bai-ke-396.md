@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 396 - Phẩm Bà La Môn
+head:
+  - - meta
+    - name: Bài kệ 396 - Phẩm Bà La Môn
+      content: Ta Không Gọi Phạm Chí,<Br>Vì Chỗ Sanh, Mẹ Sanh.<Br>Chỉ Được Gọi Tên Suông<Br>Nếu Tâm Còn Phiền Não.<Br>Không Phiền Não, Chấp Trước<Br>Ta Gọi Bà-La-Môn.<Br>
 category:
-  - pham-ba-la-mon
-  - Phẩm Bà La Môn
-tag:
   - pham-ba-la-mon
 ---
 
-# Bài kệ 396 - Pham Ba La Mon
+# Bài kệ 396 - Phẩm Bà La Môn
 
 ![An image](/img/pham-ba-la-mon/pham-ba-la-mon-396.jpg)
 

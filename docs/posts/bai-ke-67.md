@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 67 - Phẩm Ngu
+head:
+  - - meta
+    - name: Bài kệ 67 - Phẩm Ngu
+      content: Nghiệp Làm Không Chánh Thiện,<Br>Làm Rồi Sanh Ăn Năn,<Br>Mặt Nhuốm Lệ, Khóc Than,<Br>Lãnh Chịu Quả Dị Thục.<Br>
 category:
-  - pham-ngu
-  - Phẩm Ngu
-tag:
   - pham-ngu
 ---
 
-# Bài kệ 67 - Pham Ngu
+# Bài kệ 67 - Phẩm Ngu
 
 ![An image](/img/pham-ngu/pham-ngu-067.jpg)
 

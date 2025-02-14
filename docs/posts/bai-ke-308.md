@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 308 - Phẩm Địa Ngục
+head:
+  - - meta
+    - name: Bài kệ 308 - Phẩm Địa Ngục
+      content: Tốt Hơn Nuốt Hòn Sắt<Br>Cháy Đỏ Như Than Hồng,<Br>Hơn Ác Giới, Buông Lung<Br>Ăn Đồ Ăn Quốc Độ.<Br>
 category:
-  - pham-dia-nguc
-  - Phẩm Địa Ngục
-tag:
   - pham-dia-nguc
 ---
 
-# Bài kệ 308 - Pham Dia Nguc
+# Bài kệ 308 - Phẩm Địa Ngục
 
 ![An image](/img/pham-dia-nguc/pham-dia-nguc-308.jpg)
 

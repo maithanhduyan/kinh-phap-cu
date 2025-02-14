@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 312 - Phẩm Địa Ngục
+head:
+  - - meta
+    - name: Bài kệ 312 - Phẩm Địa Ngục
+      content: Sống Phóng Đãng Buông Lung,<Br>Theo Giới Cấm Ô Nhiễm,<Br>Sống Phạm Hạnh Đáng Nghi<Br>Sao Chứng Được Quả Lớn?<Br>
 category:
-  - pham-dia-nguc
-  - Phẩm Địa Ngục
-tag:
   - pham-dia-nguc
 ---
 
-# Bài kệ 312 - Pham Dia Nguc
+# Bài kệ 312 - Phẩm Địa Ngục
 
 ![An image](/img/pham-dia-nguc/pham-dia-nguc-312.jpg)
 

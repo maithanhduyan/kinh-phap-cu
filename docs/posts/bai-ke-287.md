@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 287 - Phẩm Đạo
+head:
+  - - meta
+    - name: Bài kệ 287 - Phẩm Đạo
+      content: Người Tâm Ý Đắm Say<Br>Con Cái Và Súc Vật,<Br>Tử Thần Bắt Người Ấy,<Br>Như Lụt Trôi Làng Ngủ.<Br>
 category:
-  - pham-dao
-  - Phẩm Đạo
-tag:
   - pham-dao
 ---
 
-# Bài kệ 287 - Pham Dao
+# Bài kệ 287 - Phẩm Đạo
 
 ![An image](/img/pham-dao/pham-dao-287.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 16 - Phẩm Song Yếu
+head:
+  - - meta
+    - name: Bài kệ 16 - Phẩm Song Yếu
+      content: Nay Vui, Đời Sau Vui,<Br>Làm Phước, Hai Đời Vui,<Br>Nó Vui, Nó An Vui,<Br>Thấy Nghiệp Tịnh Mình Làm.<Br>
 category:
-  - pham-song-yeu
-  - Phẩm Song Yếu
-tag:
   - pham-song-yeu
 ---
 
-# Bài kệ 16 - Pham Song Yeu
+# Bài kệ 16 - Phẩm Song Yếu
 
 ![An image](/img/pham-song-yeu/pham-song-yeu-016.jpg)
 

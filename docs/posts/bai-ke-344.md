@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 344 - Phẩm Tham Ái
+head:
+  - - meta
+    - name: Bài kệ 344 - Phẩm Tham Ái
+      content: Lìa Rừng Lại Hướng Rừng <Br>Thoát Rừng Chạy Theo Rừng.<Br>Nên Xem Người Như Vậy,<Br>Ðược Thoát Khỏi Buộc Ràng.<Br>Lại Chạy Theo Ràng Buộc.<Br>
 category:
-  - pham-tham-ai
-  - Phẩm Tham Ái
-tag:
   - pham-tham-ai
 ---
 
-# Bài kệ 344 - Pham Tham Ai
+# Bài kệ 344 - Phẩm Tham Ái
 
 ![An image](/img/pham-tham-ai/pham-tham-ai-344.jpg)
 

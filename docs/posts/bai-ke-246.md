@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 246 - Phẩm Cấu Uế
+head:
+  - - meta
+    - name: Bài kệ 246 - Phẩm Cấu Uế
+      content: Ai Ở Đời Sát Sinh,<Br>Nói Láo Không Chân Thật,<Br>Ở Đời Lấy Không Cho,<Br>Qua Lại Với Vợ Người.<Br>
 category:
-  - pham-cau-ue
-  - Phẩm Cấu Uế
-tag:
   - pham-cau-ue
 ---
 
-# Bài kệ 246 - Pham Cau Ue
+# Bài kệ 246 - Phẩm Cấu Uế
 
 ![An image](/img/pham-cau-ue/pham-cau-ue-246.jpg)
 

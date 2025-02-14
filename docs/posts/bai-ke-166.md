@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 166 - Phẩm Tự Ngã
+head:
+  - - meta
+    - name: Bài kệ 166 - Phẩm Tự Ngã
+      content: Chớ Theo Pháp Hạ Liệt.<Br>Chớ Sống Mặc, Buông Lung;<Br>Chớ Tin Theo Tà Kiến,<Br>Chớ Tăng Trưởng Tục Trần.<Br>
 category:
-  - pham-tu-nga
-  - Phẩm Tự Ngã
-tag:
   - pham-tu-nga
 ---
 
-# Bài kệ 166 - Pham Tu Nga
+# Bài kệ 166 - Phẩm Tự Ngã
 
 ![An image](/img/pham-tu-nga/pham-tu-nga-166.jpg)
 

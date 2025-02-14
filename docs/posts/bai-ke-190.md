@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 190 - Phẩm Phật Đà
+head:
+  - - meta
+    - name: Bài kệ 190 - Phẩm Phật Đà
+      content: Ai Quy Y Ðức Phật,<Br>Chánh Pháp Và Chư Tăng,<Br>Ai Dùng Chánh Tri Kiến,<Br>Thấy Được Bốn Thánh Đế.<Br>
 category:
-  - pham-phat-da
-  - Phẩm Phật Đà
-tag:
   - pham-phat-da
 ---
 
-# Bài kệ 190 - Pham Phat Da
+# Bài kệ 190 - Phẩm Phật Đà
 
 ![An image](/img/pham-phat-da/pham-phat-da-190.jpg)
 

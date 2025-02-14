@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 239 - Phẩm Cấu Uế
+head:
+  - - meta
+    - name: Bài kệ 239 - Phẩm Cấu Uế
+      content: Bậc Trí Theo Tuần Tự.<Br>Từng Sát Na Trừ Dần.<Br>Như Thợ Vàng Lọc Bụi<Br>Trừ Cấu Uế Nơi Mình.<Br>
 category:
-  - pham-cau-ue
-  - Phẩm Cấu Uế
-tag:
   - pham-cau-ue
 ---
 
-# Bài kệ 239 - Pham Cau Ue
+# Bài kệ 239 - Phẩm Cấu Uế
 
 ![An image](/img/pham-cau-ue/pham-cau-ue-239.jpg)
 

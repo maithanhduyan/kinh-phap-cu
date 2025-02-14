@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 381 - Phẩm Tỳ Kheo
+head:
+  - - meta
+    - name: Bài kệ 381 - Phẩm Tỳ Kheo
+      content: Tỷ Kheo Nhiều Hân Hoan,<Br>Tịnh Tín Giáo Pháp Phật,<Br>Chứng Cảnh Giới Tịch Tịnh,<Br>Các Hạnh An Tịnh Lạc.<Br>
 category:
-  - pham-ty-kheo
-  - Phẩm Tỳ Kheo
-tag:
   - pham-ty-kheo
 ---
 
-# Bài kệ 381 - Pham Ty Kheo
+# Bài kệ 381 - Phẩm Tỳ Kheo
 
 ![An image](/img/pham-ty-kheo/pham-ty-kheo-381.jpg)
 

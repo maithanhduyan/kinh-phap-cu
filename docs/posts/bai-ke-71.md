@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 71 - Phẩm Ngu
+head:
+  - - meta
+    - name: Bài kệ 71 - Phẩm Ngu
+      content: Nghiệp Ác Đã Được Làm,<Br>Như Sữa, Không Đông Ngay,<Br>Cháy Ngầm Theo Kẻ Ngu,<Br>Như Lửa Tro Che Đậy.<Br>
 category:
-  - pham-ngu
-  - Phẩm Ngu
-tag:
   - pham-ngu
 ---
 
-# Bài kệ 71 - Pham Ngu
+# Bài kệ 71 - Phẩm Ngu
 
 ![An image](/img/pham-ngu/pham-ngu-071.jpg)
 

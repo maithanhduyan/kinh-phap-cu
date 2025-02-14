@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 378 - Phẩm Tỳ Kheo
+head:
+  - - meta
+    - name: Bài kệ 378 - Phẩm Tỳ Kheo
+      content: Thân Tịnh, Lời An Tịnh,<Br>An Tịnh, Khéo Thiền Tịnh.<Br>Tỷ Kheo Bỏ Thế Vật,<Br>Xứng Danh “Bậc Tịch Tịnh.<Br>
 category:
-  - pham-ty-kheo
-  - Phẩm Tỳ Kheo
-tag:
   - pham-ty-kheo
 ---
 
-# Bài kệ 378 - Pham Ty Kheo
+# Bài kệ 378 - Phẩm Tỳ Kheo
 
 ![An image](/img/pham-ty-kheo/pham-ty-kheo-378.jpg)
 

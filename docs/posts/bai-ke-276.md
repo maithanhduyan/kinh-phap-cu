@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 276 - Phẩm Đạo
+head:
+  - - meta
+    - name: Bài kệ 276 - Phẩm Đạo
+      content: Người Hãy Nhiệt Tình Làm,<Br>Như Lai Chỉ Thuyết Dạy.<Br>Người Hành Trì Thiền Định<Br>Thoát Trói Buộc Ác Ma.<Br>
 category:
-  - pham-dao
-  - Phẩm Đạo
-tag:
   - pham-dao
 ---
 
-# Bài kệ 276 - Pham Dao
+# Bài kệ 276 - Phẩm Đạo
 
 ![An image](/img/pham-dao/pham-dao-276.jpg)
 

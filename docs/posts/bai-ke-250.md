@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 250 - Phẩm Cấu Uế
+head:
+  - - meta
+    - name: Bài kệ 250 - Phẩm Cấu Uế
+      content: Ai Cắt Được, Phá Được,<Br>Tận Gốc Nhổ Tâm Ấy.<Br>Người Ấy Ngày Hoặc Đêm,<Br>Ðạt Được Tâm Thiền Định.<Br>
 category:
-  - pham-cau-ue
-  - Phẩm Cấu Uế
-tag:
   - pham-cau-ue
 ---
 
-# Bài kệ 250 - Pham Cau Ue
+# Bài kệ 250 - Phẩm Cấu Uế
 
 ![An image](/img/pham-cau-ue/pham-cau-ue-250.jpg)
 

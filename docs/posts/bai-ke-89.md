@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 89 - Phẩm Hiền Trí
+head:
+  - - meta
+    - name: Bài kệ 89 - Phẩm Hiền Trí
+      content: Những Ai Với Chánh Tâm,<Br>Khéo Tu Tập Giác Chi,<Br>Từ Bỏ Mọi Ái Nhiễm,<Br>Hoan Hỷ Không Chấp Thủ.<Br>Không Lậu Hoặc, Sáng Chói,<Br>Sống Tịch Tịnh Ở Đời.<Br>
 category:
-  - pham-hien-tri
-  - Phẩm Hiền Trí
-tag:
   - pham-hien-tri
 ---
 
-# Bài kệ 89 - Pham Hien Tri
+# Bài kệ 89 - Phẩm Hiền Trí
 
 ![An image](/img/pham-hien-tri/pham-hien-tri-089.jpg)
 

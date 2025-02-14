@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 36 - Phẩm Tâm
+head:
+  - - meta
+    - name: Bài kệ 36 - Phẩm Tâm
+      content: Tâm Khó Thấy, Tế Nhị,<Br>Theo Các Dục Quay Cuồng.<Br>Người Trí Phòng Hộ Tâm,<Br>Tâm Hộ, An Lạc Đến.<Br>
 category:
-  - pham-tam
-  - Phẩm Tâm
-tag:
   - pham-tam
 ---
 
-# Bài kệ 36 - Pham Tam
+# Bài kệ 36 - Phẩm Tâm
 
 ![An image](/img/pham-tam/pham-tam-036.jpg)
 

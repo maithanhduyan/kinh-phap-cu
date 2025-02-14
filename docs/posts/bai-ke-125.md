@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 125 - Phẩm Ác
+head:
+  - - meta
+    - name: Bài kệ 125 - Phẩm Ác
+      content: Hại Người Không Ác Tâm,<Br>Người Thanh Tịnh, Không Uế,<Br>Tội Ác Đến Kẻ Ngu,<Br>Như Ngược Gió Tung Bụi.<Br>
 category:
-  - pham-ac
-  - Phẩm Ác
-tag:
   - pham-ac
 ---
 
-# Bài kệ 125 - Pham Ac
+# Bài kệ 125 - Phẩm Ác
 
 ![An image](/img/pham-ac/pham-ac-125.jpg)
 

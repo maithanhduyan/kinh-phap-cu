@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 66 - Phẩm Ngu
+head:
+  - - meta
+    - name: Bài kệ 66 - Phẩm Ngu
+      content: Người Ngu Si Thiếu Trí,<Br>Tự Ngã Thành Kẻ Thù.<Br>Làm Các Nghiệp Không Thiện,<Br>Phải Chịu Quả Đắng Cay.<Br>
 category:
-  - pham-ngu
-  - Phẩm Ngu
-tag:
   - pham-ngu
 ---
 
-# Bài kệ 66 - Pham Ngu
+# Bài kệ 66 - Phẩm Ngu
 
 ![An image](/img/pham-ngu/pham-ngu-066.jpg)
 

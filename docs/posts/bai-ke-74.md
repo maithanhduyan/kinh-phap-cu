@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 74 - Phẩm Ngu
+head:
+  - - meta
+    - name: Bài kệ 74 - Phẩm Ngu
+      content: Mong Cả Hai Tăng, Tục,<Br>Nghĩ Rằng (Chính Ta Làm).<Br>Trong Mọi Việc Lớn Nhỏ,<Br>Phải Theo Mệnh Lệnh Ta ”<Br>Người Ngu Nghĩ Như Vậy<Br>Dục Và Mạn Tăng Trưởng.<Br>
 category:
-  - pham-ngu
-  - Phẩm Ngu
-tag:
   - pham-ngu
 ---
 
-# Bài kệ 74 - Pham Ngu
+# Bài kệ 74 - Phẩm Ngu
 
 ![An image](/img/pham-ngu/pham-ngu-074.jpg)
 

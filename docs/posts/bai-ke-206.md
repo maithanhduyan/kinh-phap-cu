@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 206 - Phẩm An Lạc
+head:
+  - - meta
+    - name: Bài kệ 206 - Phẩm An Lạc
+      content: Lành Thay, Thấy Thánh Nhân,<Br>Sống Chung Thường Hưởng Lạc.<Br>Không Thấy Những Người Ngu,<Br>Thường Thường Được An Lạc.<Br>
 category:
-  - pham-an-lac
-  - Phẩm An Lạc
-tag:
   - pham-an-lac
 ---
 
-# Bài kệ 206 - Pham An Lac
+# Bài kệ 206 - Phẩm An Lạc
 
 ![An image](/img/pham-an-lac/pham-an-lac-206.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 112 - Phẩm Ngàn
+head:
+  - - meta
+    - name: Bài kệ 112 - Phẩm Ngàn
+      content: Ai Sống Một Trăm Năm,<Br>Lười Nhác Không Tinh Tấn,<Br>Tốt Hơn Sống Một Ngày<Br>Tinh Tấn Tận Sức Mình.<Br>
 category:
-  - pham-ngan
-  - Phẩm Ngàn
-tag:
   - pham-ngan
 ---
 
-# Bài kệ 112 - Pham Ngan
+# Bài kệ 112 - Phẩm Ngàn
 
 ![An image](/img/pham-ngan/pham-ngan-112.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 349 - Phẩm Tham Ái
+head:
+  - - meta
+    - name: Bài kệ 349 - Phẩm Tham Ái
+      content: Người Tà Ý Nhiếp Phục,<Br>Tham Sắc Bén Nhìn Tịnh,<Br>Người Ấy Ái Tăng Trưởng,<Br>Làm Giây Trói Mình Chặt.<Br>
 category:
-  - pham-tham-ai
-  - Phẩm Tham Ái
-tag:
   - pham-tham-ai
 ---
 
-# Bài kệ 349 - Pham Tham Ai
+# Bài kệ 349 - Phẩm Tham Ái
 
 ![An image](/img/pham-tham-ai/pham-tham-ai-349.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 110 - Phẩm Ngàn
+head:
+  - - meta
+    - name: Bài kệ 110 - Phẩm Ngàn
+      content: Dầu Sống Một Trăm Năm<Br>Ác Giới, Không Thiền Định,<Br>Tốt Hơn Sống Một Ngày,<Br>Trì Giới, Tu Thiền Định.<Br>
 category:
-  - pham-ngan
-  - Phẩm Ngàn
-tag:
   - pham-ngan
 ---
 
-# Bài kệ 110 - Pham Ngan
+# Bài kệ 110 - Phẩm Ngàn
 
 ![An image](/img/pham-ngan/pham-ngan-110.jpg)
 

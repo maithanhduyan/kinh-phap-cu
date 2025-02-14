@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 248 - Phẩm Cấu Uế
+head:
+  - - meta
+    - name: Bài kệ 248 - Phẩm Cấu Uế
+      content: Vậy Người, Hãy Nên Biết,<Br>Không Chế Ngự Là Ác.<Br>Chớ Để Tham Phi Pháp,<Br>Làm Người Đau Khổ Dài.<Br>
 category:
-  - pham-cau-ue
-  - Phẩm Cấu Uế
-tag:
   - pham-cau-ue
 ---
 
-# Bài kệ 248 - Pham Cau Ue
+# Bài kệ 248 - Phẩm Cấu Uế
 
 ![An image](/img/pham-cau-ue/pham-cau-ue-248.jpg)
 

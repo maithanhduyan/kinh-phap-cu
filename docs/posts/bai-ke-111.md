@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 111 - Phẩm Ngàn
+head:
+  - - meta
+    - name: Bài kệ 111 - Phẩm Ngàn
+      content: Ai Sống Một Trăm Năm,<Br>Ác Tuệ, Không Thiền Định.<Br>Tốt Hơn Sống Một Ngày,<Br>Có Tuệ, Tu Thiền Định.<Br>
 category:
-  - pham-ngan
-  - Phẩm Ngàn
-tag:
   - pham-ngan
 ---
 
-# Bài kệ 111 - Pham Ngan
+# Bài kệ 111 - Phẩm Ngàn
 
 ![An image](/img/pham-ngan/pham-ngan-111.jpg)
 

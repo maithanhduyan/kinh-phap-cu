@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 48 - Phẩm Hoa
+head:
+  - - meta
+    - name: Bài kệ 48 - Phẩm Hoa
+      content: Người Nhặt Các Loại Hoa,<Br>Ý Đắm Say Tham Nhiễm,<Br>Các Dục Chưa Thỏa Mãn,<Br>Ðã Bị Chết Chinh Phục.<Br>
 category:
-  - pham-hoa
-  - Phẩm Hoa
-tag:
   - pham-hoa
 ---
 
-# Bài kệ 48 - Pham Hoa
+# Bài kệ 48 - Phẩm Hoa
 
 ![An image](/img/pham-hoa/pham-hoa-048.jpg)
 

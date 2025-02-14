@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 355 - Phẩm Tham Ái
+head:
+  - - meta
+    - name: Bài kệ 355 - Phẩm Tham Ái
+      content: Tài Sản Hại Người Ngu.<Br>Không Người Tìm Bờ Kia<Br>Kẻ Ngu Vì Tham Giàu,<Br>Hại Mình Và Hại Người.<Br>
 category:
-  - pham-tham-ai
-  - Phẩm Tham Ái
-tag:
   - pham-tham-ai
 ---
 
-# Bài kệ 355 - Pham Tham Ai
+# Bài kệ 355 - Phẩm Tham Ái
 
 ![An image](/img/pham-tham-ai/pham-tham-ai-355.jpg)
 

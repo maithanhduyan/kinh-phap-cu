@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 193 - Phẩm Phật Đà
+head:
+  - - meta
+    - name: Bài kệ 193 - Phẩm Phật Đà
+      content: Khó Gặp Bậc Thánh Nhơn,<Br>Không Phải Đâu Cũng Có.<Br>Chỗ Nào Bậc Trí Sanh,<Br>Gia Đình Tất An Lạc.<Br>
 category:
-  - pham-phat-da
-  - Phẩm Phật Đà
-tag:
   - pham-phat-da
 ---
 
-# Bài kệ 193 - Pham Phat Da
+# Bài kệ 193 - Phẩm Phật Đà
 
 ![An image](/img/pham-phat-da/pham-phat-da-193.jpg)
 

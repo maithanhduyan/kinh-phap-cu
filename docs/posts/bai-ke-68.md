@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 68 - Phẩm Ngu
+head:
+  - - meta
+    - name: Bài kệ 68 - Phẩm Ngu
+      content: Và Nghiệp Làm Chánh Thiện,<Br>Làm Rồi Không Ăn Năn,<Br>Hoan Hỷ, Ý Đẹp Lòng,<Br>Hưởng Thọ Quả Dị Thục.<Br>
 category:
-  - pham-ngu
-  - Phẩm Ngu
-tag:
   - pham-ngu
 ---
 
-# Bài kệ 68 - Pham Ngu
+# Bài kệ 68 - Phẩm Ngu
 
 ![An image](/img/pham-ngu/pham-ngu-068.jpg)
 

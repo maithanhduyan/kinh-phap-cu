@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 321 - Phẩm Voi
+head:
+  - - meta
+    - name: Bài kệ 321 - Phẩm Voi
+      content: Voi Luyện, Đưa Dự Hội,<Br>Ngựa Luyện, Được Vua Cưỡi,<Br>Người Luyện, Bậc Tối Thượng<Br>Chịu Đựng Mọi Phỉ Báng.<Br>
 category:
-  - pham-voi
-  - Phẩm Voi
-tag:
   - pham-voi
 ---
 
-# Bài kệ 321 - Pham Voi
+# Bài kệ 321 - Phẩm Voi
 
 ![An image](/img/pham-voi/pham-voi-321.jpg)
 

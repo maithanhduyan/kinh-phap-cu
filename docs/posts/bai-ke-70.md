@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 70 - Phẩm Ngu
+head:
+  - - meta
+    - name: Bài kệ 70 - Phẩm Ngu
+      content: Tháng Tháng Với Ngọn Cỏ,<Br>Người Ngu Có Ăn Uống<Br>Không Bằng Phần Mười Sáu<Br>Người Hiểu Pháp Hữu Vi.<Br>
 category:
-  - pham-ngu
-  - Phẩm Ngu
-tag:
   - pham-ngu
 ---
 
-# Bài kệ 70 - Pham Ngu
+# Bài kệ 70 - Phẩm Ngu
 
 ![An image](/img/pham-ngu/pham-ngu-070.jpg)
 

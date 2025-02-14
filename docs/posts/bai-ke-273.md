@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 273 - Phẩm Đạo
+head:
+  - - meta
+    - name: Bài kệ 273 - Phẩm Đạo
+      content: Tám Chánh, Đường Thù Thắng,<Br>Bốn Câu, Lý Thù Thắng.<Br>Ly Tham, Pháp Thù Thắng,<Br>Giữa Các Loài Hai Chân,<Br>Pháp Nhãn, Người Thù Thắng.<Br>
 category:
-  - pham-dao
-  - Phẩm Đạo
-tag:
   - pham-dao
 ---
 
-# Bài kệ 273 - Pham Dao
+# Bài kệ 273 - Phẩm Đạo
 
 ![An image](/img/pham-dao/pham-dao-273.jpg)
 

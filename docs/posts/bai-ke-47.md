@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 47 - Phẩm Hoa
+head:
+  - - meta
+    - name: Bài kệ 47 - Phẩm Hoa
+      content: Người Nhặt Các Loại Hoa,<Br>Ý Đắm Say, Tham Nhiễm,<Br>Bị Thần Chết Mang Đi,<Br>Như Lụt Trôi Làng Ngủ.<Br>
 category:
-  - pham-hoa
-  - Phẩm Hoa
-tag:
   - pham-hoa
 ---
 
-# Bài kệ 47 - Pham Hoa
+# Bài kệ 47 - Phẩm Hoa
 
 ![An image](/img/pham-hoa/pham-hoa-047.jpg)
 

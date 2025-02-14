@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 170 - Phẩm Thế Gian
+head:
+  - - meta
+    - name: Bài kệ 170 - Phẩm Thế Gian
+      content: Hãy Nhìn Như Bọt Nước,<Br>Hãy Nhìn Như Cảnh Huyễn!<Br>Quán Nhìn Đời Như Vậy,<Br>Thần Chết Không Bắt Gặp.<Br>
 category:
-  - pham-the-gian
-  - Phẩm Thế Gian
-tag:
   - pham-the-gian
 ---
 
-# Bài kệ 170 - Pham The Gian
+# Bài kệ 170 - Phẩm Thế Gian
 
 ![An image](/img/pham-the-gian/pham-the-gian-170.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 145 - Phẩm Hình Phạt
+head:
+  - - meta
+    - name: Bài kệ 145 - Phẩm Hình Phạt
+      content: Người Trị Thủy Dẫn Nước,<Br>Kẻ Làm Tên Nắn Tên,<Br>Người Thợ Mộc Uốn Ván,<Br>Bậc Tự Điều, Điều Thân.<Br>
 category:
-  - pham-hinh-phat
-  - Phẩm Hình Phạt
-tag:
   - pham-hinh-phat
 ---
 
-# Bài kệ 145 - Pham Hinh Phat
+# Bài kệ 145 - Phẩm Hình Phạt
 
 ![An image](/img/pham-hinh-phat/pham-hinh-phat-145.jpg)
 

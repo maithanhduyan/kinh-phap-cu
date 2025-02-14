@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 320 - Phẩm Voi
+head:
+  - - meta
+    - name: Bài kệ 320 - Phẩm Voi
+      content: Ta Như Voi Giữa Trận,<Br>Hứng Chịu Cung Tên Rơi,<Br>Chịu Đựng Mọi Phỉ Báng.<Br>Ác Giới Rất Nhiều Người.<Br>
 category:
-  - pham-voi
-  - Phẩm Voi
-tag:
   - pham-voi
 ---
 
-# Bài kệ 320 - Pham Voi
+# Bài kệ 320 - Phẩm Voi
 
 ![An image](/img/pham-voi/pham-voi-320.jpg)
 

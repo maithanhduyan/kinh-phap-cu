@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 23 - Phẩm Không Phóng Dật
+head:
+  - - meta
+    - name: Bài kệ 23 - Phẩm Không Phóng Dật
+      content: Người Hằng Tu Thiền Định,<Br>Thường Kiên Trì Tinh Tấn.<Br>Bậc Trí Hưởng Niết Bàn,<Br>Ðạt An Tịnh Vô Thượng.<Br>
 category:
-  - pham-khong-phong-dat
-  - Phẩm Không Phóng Dật
-tag:
   - pham-khong-phong-dat
 ---
 
-# Bài kệ 23 - Pham Khong Phong Dat
+# Bài kệ 23 - Phẩm Không Phóng Dật
 
 ![An image](/img/pham-khong-phong-dat/pham-khong-phong-dat-023.jpg)
 

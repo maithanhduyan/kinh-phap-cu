@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 157 - Phẩm Tự Ngã
+head:
+  - - meta
+    - name: Bài kệ 157 - Phẩm Tự Ngã
+      content: Nếu Biết Yêu Tự Ngã,<Br>Phải Khéo Bảo Vệ Mình,<Br>Người Trí Trong Ba Canh,<Br>Phải Luôn Luôn Tỉnh Thức.<Br>
 category:
-  - pham-tu-nga
-  - Phẩm Tự Ngã
-tag:
   - pham-tu-nga
 ---
 
-# Bài kệ 157 - Pham Tu Nga
+# Bài kệ 157 - Phẩm Tự Ngã
 
 ![An image](/img/pham-tu-nga/pham-tu-nga-157.jpg)
 

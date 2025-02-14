@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 106 - Phẩm Ngàn
+head:
+  - - meta
+    - name: Bài kệ 106 - Phẩm Ngàn
+      content: Tháng Tháng Bỏ Ngàn Vàng,<Br>Tế Tự Cả Trăm Năm,<Br>Chẳng Bằng Trong Giây Lát,<Br>Cúng Dường Bậc Tự Tu.<Br>Cúng Dường Vậy Tốt Hơn,<Br>Hơn Trăm Năm Tế Tự.<Br>
 category:
-  - pham-ngan
-  - Phẩm Ngàn
-tag:
   - pham-ngan
 ---
 
-# Bài kệ 106 - Pham Ngan
+# Bài kệ 106 - Phẩm Ngàn
 
 ![An image](/img/pham-ngan/pham-ngan-106.jpg)
 

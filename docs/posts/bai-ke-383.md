@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 383 - Phẩm Bà La Môn
+head:
+  - - meta
+    - name: Bài kệ 383 - Phẩm Bà La Môn
+      content: Hỡi Này Bà Là Môn,<Br>Hãy Tinh Tấn Đoạn Dòng,<Br>Từ Bỏ Các Dục Lạc,<Br>Biết Được Hành Đoạn Diệt,<Br>Người Là Bậc Vô Vi.<Br>
 category:
-  - pham-ba-la-mon
-  - Phẩm Bà La Môn
-tag:
   - pham-ba-la-mon
 ---
 
-# Bài kệ 383 - Pham Ba La Mon
+# Bài kệ 383 - Phẩm Bà La Môn
 
 ![An image](/img/pham-ba-la-mon/pham-ba-la-mon-383.jpg)
 

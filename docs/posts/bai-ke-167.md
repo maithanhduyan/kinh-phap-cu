@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 167 - Phẩm Thế Gian
+head:
+  - - meta
+    - name: Bài kệ 167 - Phẩm Thế Gian
+      content: Dầu Lợi Người Bao Nhiêu,<Br>Chớ Quên Phần Tư Lợi,<Br>Nhờ Thắng Trí Tư Lợi.<Br>Hãy Chuyên Tâm Lợi Mình.<Br>
 category:
-  - pham-the-gian
-  - Phẩm Thế Gian
-tag:
   - pham-the-gian
 ---
 
-# Bài kệ 167 - Pham The Gian
+# Bài kệ 167 - Phẩm Thế Gian
 
 ![An image](/img/pham-the-gian/pham-the-gian-167.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 255 - Phẩm Cấu Uế
+head:
+  - - meta
+    - name: Bài kệ 255 - Phẩm Cấu Uế
+      content: Hư Không, Không Dấu Chân,<Br>Ngoài Đây, Không Sa Môn.<Br>Các Hành Không Thường Trú,<Br>Chư Phật Không Giao Động.<Br>
 category:
-  - pham-cau-ue
-  - Phẩm Cấu Uế
-tag:
   - pham-cau-ue
 ---
 
-# Bài kệ 255 - Pham Cau Ue
+# Bài kệ 255 - Phẩm Cấu Uế
 
 ![An image](/img/pham-cau-ue/pham-cau-ue-255.jpg)
 

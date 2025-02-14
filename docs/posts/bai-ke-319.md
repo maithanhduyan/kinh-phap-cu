@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 319 - Phẩm Địa Ngục
+head:
+  - - meta
+    - name: Bài kệ 319 - Phẩm Địa Ngục
+      content: Có Lỗi, Biết Có Lỗi,<Br>Không Lỗi, Biết Là Không,<Br>Do Chấp Nhận Chánh Kiến,<Br>Chúng Sanh Đi Cõi Lành.<Br>
 category:
-  - pham-dia-nguc
-  - Phẩm Địa Ngục
-tag:
   - pham-dia-nguc
 ---
 
-# Bài kệ 319 - Pham Dia Nguc
+# Bài kệ 319 - Phẩm Địa Ngục
 
 ![An image](/img/pham-dia-nguc/pham-dia-nguc-319.jpg)
 

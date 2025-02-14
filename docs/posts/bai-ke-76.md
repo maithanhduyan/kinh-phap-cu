@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 76 - Phẩm Hiền Trí
+head:
+  - - meta
+    - name: Bài kệ 76 - Phẩm Hiền Trí
+      content: Nếu Thấy Bậc Hiền Trí,<Br>Chỉ Lỗi Và Khiển Trách,<Br>Như Chỉ Chỗ Chôn Vàng<Br>Hãy Thân Cận Người Trí!<Br>Thân Cận Người Như Vậy,<Br>Chỉ Tốt Hơn, Không Xấu.<Br>
 category:
-  - pham-hien-tri
-  - Phẩm Hiền Trí
-tag:
   - pham-hien-tri
 ---
 
-# Bài kệ 76 - Pham Hien Tri
+# Bài kệ 76 - Phẩm Hiền Trí
 
 ![An image](/img/pham-hien-tri/pham-hien-tri-076.jpg)
 

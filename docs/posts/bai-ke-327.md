@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 327 - Phẩm Voi
+head:
+  - - meta
+    - name: Bài kệ 327 - Phẩm Voi
+      content: Hãy Vui Không Phóng Dật,<Br>Khéo Phòng Hộ Tâm Ý.<Br>Kéo Mình Khỏi Ác Đạo,<Br>Như Voi Bị Sa Lầy.<Br>
 category:
-  - pham-voi
-  - Phẩm Voi
-tag:
   - pham-voi
 ---
 
-# Bài kệ 327 - Pham Voi
+# Bài kệ 327 - Phẩm Voi
 
 ![An image](/img/pham-voi/pham-voi-327.jpg)
 

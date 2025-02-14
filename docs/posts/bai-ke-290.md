@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 290 - Phẩm Tạp Lục
+head:
+  - - meta
+    - name: Bài kệ 290 - Phẩm Tạp Lục
+      content: Nhờ Từ Bỏ Lạc Nhỏ,<Br>Thấy Được Lạc Lớn Hơn,<Br>Bậc Trí Bỏ Lạc Nhỏ,<Br>Thấy Được Lạc Lớn Hơn.<Br>
 category:
-  - pham-tap-luc
-  - Phẩm Tạp Lục
-tag:
   - pham-tap-luc
 ---
 
-# Bài kệ 290 - Pham Tap Luc
+# Bài kệ 290 - Phẩm Tạp Lục
 
 ![An image](/img/pham-tap-luc/pham-tap-luc-290.jpg)
 

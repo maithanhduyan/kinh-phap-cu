@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 259 - Phẩm Pháp Trụ
+head:
+  - - meta
+    - name: Bài kệ 259 - Phẩm Pháp Trụ
+      content: Không Phải Vì Nói Nhiều,<Br>Mới Xứng Danh Trì Pháp,<Br>Những Ai Tuy Nghe Ít,<Br>Nhưng Thân Hành Đúng Pháp,<Br>Không Phóng Túng Chánh Pháp,<Br>Mới Xứng Danh Trì Pháp.<Br>
 category:
-  - pham-phap-tru
-  - Phẩm Pháp Trụ
-tag:
   - pham-phap-tru
 ---
 
-# Bài kệ 259 - Pham Phap Tru
+# Bài kệ 259 - Phẩm Pháp Trụ
 
 ![An image](/img/pham-phap-tru/pham-phap-tru-259.jpg)
 

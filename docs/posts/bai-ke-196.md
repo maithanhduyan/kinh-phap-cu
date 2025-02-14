@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 196 - Phẩm Phật Đà
+head:
+  - - meta
+    - name: Bài kệ 196 - Phẩm Phật Đà
+      content: Cúng Dường Bậc Như Vậy,<Br>Tịch Tịnh, Không Sợ Hãi,<Br>Các Công Đức Như Vậy,<Br>Không Ai Ước Lường Được.<Br>
 category:
-  - pham-phat-da
-  - Phẩm Phật Đà
-tag:
   - pham-phat-da
 ---
 
-# Bài kệ 196 - Pham Phat Da
+# Bài kệ 196 - Phẩm Phật Đà
 
 ![An image](/img/pham-phat-da/pham-phat-da-196.jpg)
 

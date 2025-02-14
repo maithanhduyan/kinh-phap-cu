@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 330 - Phẩm Voi
+head:
+  - - meta
+    - name: Bài kệ 330 - Phẩm Voi
+      content: Tốt Hơn Sống Một Mình,<Br>Không Kết Bạn Người Ngu.<Br>Ðộc Thân, Không Ác Hạnh<Br>Sống Vô Tư Vô Lự,<Br>Như Voi Sống Rừng Voi.<Br>
 category:
-  - pham-voi
-  - Phẩm Voi
-tag:
   - pham-voi
 ---
 
-# Bài kệ 330 - Pham Voi
+# Bài kệ 330 - Phẩm Voi
 
 ![An image](/img/pham-voi/pham-voi-330.jpg)
 

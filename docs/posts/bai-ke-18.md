@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 18 - Phẩm Song Yếu
+head:
+  - - meta
+    - name: Bài kệ 18 - Phẩm Song Yếu
+      content: Nay Sướng, Đời Sau Sướng,<Br>Làm Phước, Hai Đời Sướng.<Br>Nó Sướng  ‘Ta Làm Thiện’,<Br>Sanh Cõi Lành, Sướng Hơn.<Br>
 category:
-  - pham-song-yeu
-  - Phẩm Song Yếu
-tag:
   - pham-song-yeu
 ---
 
-# Bài kệ 18 - Pham Song Yeu
+# Bài kệ 18 - Phẩm Song Yếu
 
 ![An image](/img/pham-song-yeu/pham-song-yeu-018.jpg)
 

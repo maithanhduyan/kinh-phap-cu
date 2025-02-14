@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 105 - Phẩm Ngàn
+head:
+  - - meta
+    - name: Bài kệ 105 - Phẩm Ngàn
+      content: Dầu Thiên Thần, Thát Bà,<Br>Dầu Ma Vương, Phạm Thiên<Br>Không Ai Chiến Thắng Nổi,<Br>Người Tự Thắng Như Vậy.<Br>
 category:
-  - pham-ngan
-  - Phẩm Ngàn
-tag:
   - pham-ngan
 ---
 
-# Bài kệ 105 - Pham Ngan
+# Bài kệ 105 - Phẩm Ngàn
 
 ![An image](/img/pham-ngan/pham-ngan-105.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 284 - Phẩm Đạo
+head:
+  - - meta
+    - name: Bài kệ 284 - Phẩm Đạo
+      content: Khi Nào Chưa Cắt Tiệt,<Br>Ái Dục Giữa Gái Trai,<Br>Tâm Ý Vẫn Buộc Ràng,<Br>Như Bò Con Vú Mẹ.<Br>
 category:
-  - pham-dao
-  - Phẩm Đạo
-tag:
   - pham-dao
 ---
 
-# Bài kệ 284 - Pham Dao
+# Bài kệ 284 - Phẩm Đạo
 
 ![An image](/img/pham-dao/pham-dao-284.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 240 - Phẩm Cấu Uế
+head:
+  - - meta
+    - name: Bài kệ 240 - Phẩm Cấu Uế
+      content: Như Sét Từ Sắt Sanh,<Br>Sắt Sanh Lại Ăn Sắt,<Br>Cũng Vậy, Quá Lợi Dưỡng<Br>Tự Nghiệp Dẫn Cõi Ác.<Br>
 category:
-  - pham-cau-ue
-  - Phẩm Cấu Uế
-tag:
   - pham-cau-ue
 ---
 
-# Bài kệ 240 - Pham Cau Ue
+# Bài kệ 240 - Phẩm Cấu Uế
 
 ![An image](/img/pham-cau-ue/pham-cau-ue-240.jpg)
 

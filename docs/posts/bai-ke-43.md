@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 43 - Phẩm Tâm
+head:
+  - - meta
+    - name: Bài kệ 43 - Phẩm Tâm
+      content: Ðiều Mẹ Cha Bà Con,<Br>Không Có Thể Làm Được,<Br>Tâm Hướng Chánh Làm Được<Br>Làm Được Tốt Đẹp Hơn.<Br>
 category:
-  - pham-tam
-  - Phẩm Tâm
-tag:
   - pham-tam
 ---
 
-# Bài kệ 43 - Pham Tam
+# Bài kệ 43 - Phẩm Tâm
 
 ![An image](/img/pham-tam/pham-tam-043.jpg)
 

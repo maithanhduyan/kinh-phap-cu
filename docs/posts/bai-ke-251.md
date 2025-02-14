@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 251 - Phẩm Cấu Uế
+head:
+  - - meta
+    - name: Bài kệ 251 - Phẩm Cấu Uế
+      content: Lửa Nào Bằng Lửa Tham!<Br>Chấp Nào Bằng Sân Hận!<Br>Lưới Nào Bằng Lưới Si!<Br>Sông Nào Bằng Sông Ái!<Br>
 category:
-  - pham-cau-ue
-  - Phẩm Cấu Uế
-tag:
   - pham-cau-ue
 ---
 
-# Bài kệ 251 - Pham Cau Ue
+# Bài kệ 251 - Phẩm Cấu Uế
 
 ![An image](/img/pham-cau-ue/pham-cau-ue-251.jpg)
 

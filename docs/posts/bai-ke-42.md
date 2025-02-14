@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 42 - Phẩm Tâm
+head:
+  - - meta
+    - name: Bài kệ 42 - Phẩm Tâm
+      content: Kẻ Thù Hại Kẻ Thù,<Br>Oan Gia Hại Oan Gia,<Br>Không Bằng Tâm Hướng Tà, [5]<Br>Gây Ác Cho Tự Thân.<Br>
 category:
-  - pham-tam
-  - Phẩm Tâm
-tag:
   - pham-tam
 ---
 
-# Bài kệ 42 - Pham Tam
+# Bài kệ 42 - Phẩm Tâm
 
 ![An image](/img/pham-tam/pham-tam-042.jpg)
 

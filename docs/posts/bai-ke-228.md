@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 228 - Phẩm Phẩn Nộ
+head:
+  - - meta
+    - name: Bài kệ 228 - Phẩm Phẩn Nộ
+      content: Xưa, Vị Lai, Và Nay,<Br>Ðâu Có Sự Kiện Này,<Br>Người Hoàn Toàn Bị Chê,<Br>Người Trọn Vẹn Được Khen.<Br>
 category:
-  - pham-phan-no
-  - Phẩm Phẩn Nộ
-tag:
   - pham-phan-no
 ---
 
-# Bài kệ 228 - Pham Phan No
+# Bài kệ 228 - Phẩm Phẩn Nộ
 
 ![An image](/img/pham-phan-no/pham-phan-no-228.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 268 - Phẩm Pháp Trụ
+head:
+  - - meta
+    - name: Bài kệ 268 - Phẩm Pháp Trụ
+      content: Im Lặng Nhưng Ngu Si,<Br>Ðâu Được Gọi Ẩn Sĩ?<Br>Như Người Cầm Cán Cân,<Br>Bậc Trí Chọn Điều Lành.<Br>
 category:
-  - pham-phap-tru
-  - Phẩm Pháp Trụ
-tag:
   - pham-phap-tru
 ---
 
-# Bài kệ 268 - Pham Phap Tru
+# Bài kệ 268 - Phẩm Pháp Trụ
 
 ![An image](/img/pham-phap-tru/pham-phap-tru-268.jpg)
 

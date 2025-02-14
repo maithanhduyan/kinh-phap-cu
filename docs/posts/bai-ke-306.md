@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 306 - Phẩm Địa Ngục
+head:
+  - - meta
+    - name: Bài kệ 306 - Phẩm Địa Ngục
+      content: Nói Láo Đọa Địa Ngục<Br>Có Làm Nói Không Làm,<Br>Cả Hai Chết Đồng Đẳng,<Br>Làm Người, Nghiệp Hạ Liệt.<Br>
 category:
-  - pham-dia-nguc
-  - Phẩm Địa Ngục
-tag:
   - pham-dia-nguc
 ---
 
-# Bài kệ 306 - Pham Dia Nguc
+# Bài kệ 306 - Phẩm Địa Ngục
 
 ![An image](/img/pham-dia-nguc/pham-dia-nguc-306.jpg)
 

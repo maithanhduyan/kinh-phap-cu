@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 136 - Phẩm Hình Phạt
+head:
+  - - meta
+    - name: Bài kệ 136 - Phẩm Hình Phạt
+      content: Người Ngu Làm Điều Ác,<Br>Không Ý Thức Việc Làm.<Br>Do Tự Nghiệp, Người Ngu<Br>Bị Nung Nấu, Như Lửa.<Br>
 category:
-  - pham-hinh-phat
-  - Phẩm Hình Phạt
-tag:
   - pham-hinh-phat
 ---
 
-# Bài kệ 136 - Pham Hinh Phat
+# Bài kệ 136 - Phẩm Hình Phạt
 
 ![An image](/img/pham-hinh-phat/pham-hinh-phat-136.jpg)
 

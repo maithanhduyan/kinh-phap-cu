@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 245 - Phẩm Cấu Uế
+head:
+  - - meta
+    - name: Bài kệ 245 - Phẩm Cấu Uế
+      content: Khó Thay, Sống Xấu Hổ,<Br>Thường Thường Cầu Thanh Tịnh.<Br>Sống Vô Tư, Khiêm Tốn,<Br>Trong Sạch Và Sáng Suốt.<Br>
 category:
-  - pham-cau-ue
-  - Phẩm Cấu Uế
-tag:
   - pham-cau-ue
 ---
 
-# Bài kệ 245 - Pham Cau Ue
+# Bài kệ 245 - Phẩm Cấu Uế
 
 ![An image](/img/pham-cau-ue/pham-cau-ue-245.jpg)
 

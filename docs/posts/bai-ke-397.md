@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 397 - Phẩm Bà La Môn
+head:
+  - - meta
+    - name: Bài kệ 397 - Phẩm Bà La Môn
+      content: Ðoạn Hết Các Kiết Sử,<Br>Không Còn Gì Lo Sợ<Br>Không Đắm Trước Buộc Ràng<Br>Ta Gọi Bà-La-Môn.<Br>
 category:
-  - pham-ba-la-mon
-  - Phẩm Bà La Môn
-tag:
   - pham-ba-la-mon
 ---
 
-# Bài kệ 397 - Pham Ba La Mon
+# Bài kệ 397 - Phẩm Bà La Môn
 
 ![An image](/img/pham-ba-la-mon/pham-ba-la-mon-397.jpg)
 

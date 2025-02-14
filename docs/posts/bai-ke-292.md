@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 292 - Phẩm Tạp Lục
+head:
+  - - meta
+    - name: Bài kệ 292 - Phẩm Tạp Lục
+      content: Việc Đáng Làm, Không Làm,<Br>Không Đáng Làm, Lại Làm,<Br>Người Ngạo Mạn, Phóng Dật,<Br>Lậu Hoặc Ắt Tăng Trưởng.<Br>
 category:
-  - pham-tap-luc
-  - Phẩm Tạp Lục
-tag:
   - pham-tap-luc
 ---
 
-# Bài kệ 292 - Pham Tap Luc
+# Bài kệ 292 - Phẩm Tạp Lục
 
 ![An image](/img/pham-tap-luc/pham-tap-luc-292.jpg)
 

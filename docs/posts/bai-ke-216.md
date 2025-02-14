@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 216 - Phẩm Hỷ Ái
+head:
+  - - meta
+    - name: Bài kệ 216 - Phẩm Hỷ Ái
+      content: Tham Ái Sinh Sầu Ưu,<Br>Tham Ái Sinh Sợ Hãi.<Br>Ai Thoát Khỏi Tham Ái,<Br>Không Sầu, Đâu Sợ Hãi.<Br>
 category:
-  - pham-hy-ai
-  - Phẩm Hỷ Ái
-tag:
   - pham-hy-ai
 ---
 
-# Bài kệ 216 - Pham Hy Ai
+# Bài kệ 216 - Phẩm Hỷ Ái
 
 ![An image](/img/pham-hy-ai/pham-hy-ai-216.jpg)
 

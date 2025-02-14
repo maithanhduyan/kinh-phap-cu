@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 241 - Phẩm Cấu Uế
+head:
+  - - meta
+    - name: Bài kệ 241 - Phẩm Cấu Uế
+      content: Không Tụng Làm Nhớp Kinh,<Br>Không Đứng Dậy, Bẩn Nhà,<Br>Biếng Nhác Làm Nhơ Sắc,<Br>Phóng Dật Uế Người Canh.<Br>
 category:
-  - pham-cau-ue
-  - Phẩm Cấu Uế
-tag:
   - pham-cau-ue
 ---
 
-# Bài kệ 241 - Pham Cau Ue
+# Bài kệ 241 - Phẩm Cấu Uế
 
 ![An image](/img/pham-cau-ue/pham-cau-ue-241.jpg)
 

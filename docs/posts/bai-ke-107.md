@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 107 - Phẩm Ngàn
+head:
+  - - meta
+    - name: Bài kệ 107 - Phẩm Ngàn
+      content: Dầu Trải Một Trăm Năm,<Br>Thờ Lửa Tại Rừng Sâu,<Br>Chẳng Bằng Trong Giây Lát,<Br>Cúng Dường Bậc Tự Tu.<Br>Cúng Dường Vậy Tốt Hơn,<Br>Hơn Trăm Năm Tế Tự.<Br>
 category:
-  - pham-ngan
-  - Phẩm Ngàn
-tag:
   - pham-ngan
 ---
 
-# Bài kệ 107 - Pham Ngan
+# Bài kệ 107 - Phẩm Ngàn
 
 ![An image](/img/pham-ngan/pham-ngan-107.jpg)
 

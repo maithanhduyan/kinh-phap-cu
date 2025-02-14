@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 384 - Phẩm Bà La Môn
+head:
+  - - meta
+    - name: Bài kệ 384 - Phẩm Bà La Môn
+      content: Nhờ Thường Trú Hai Pháp <Br>Ðến Được Bờ Bên Kia.<Br>Bà-La-Môn Có Trí,<Br>Mọi Kiết Sử Dứt Sạch.<Br>
 category:
-  - pham-ba-la-mon
-  - Phẩm Bà La Môn
-tag:
   - pham-ba-la-mon
 ---
 
-# Bài kệ 384 - Pham Ba La Mon
+# Bài kệ 384 - Phẩm Bà La Môn
 
 ![An image](/img/pham-ba-la-mon/pham-ba-la-mon-384.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 160 - Phẩm Tự Ngã
+head:
+  - - meta
+    - name: Bài kệ 160 - Phẩm Tự Ngã
+      content: Tự Mình Y Chỉ Mình,<Br>Nào Có Y Chỉ Khác.<Br>Nhờ Khéo Điều Phục Mình,<Br>Ðược Y Chỉ Khó Được.<Br>
 category:
-  - pham-tu-nga
-  - Phẩm Tự Ngã
-tag:
   - pham-tu-nga
 ---
 
-# Bài kệ 160 - Pham Tu Nga
+# Bài kệ 160 - Phẩm Tự Ngã
 
 ![An image](/img/pham-tu-nga/pham-tu-nga-160.jpg)
 

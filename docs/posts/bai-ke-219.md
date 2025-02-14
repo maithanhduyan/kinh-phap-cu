@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 219 - Phẩm Hỷ Ái
+head:
+  - - meta
+    - name: Bài kệ 219 - Phẩm Hỷ Ái
+      content: Khách Lâu Ngày Ly Hương,<Br>An Toàn Từ Xa Về,<Br>Bà Con Cùng Thân Hữu,<Br>Hân Hoan Đón Chào Mừng.<Br>
 category:
-  - pham-hy-ai
-  - Phẩm Hỷ Ái
-tag:
   - pham-hy-ai
 ---
 
-# Bài kệ 219 - Pham Hy Ai
+# Bài kệ 219 - Phẩm Hỷ Ái
 
 ![An image](/img/pham-hy-ai/pham-hy-ai-219.jpg)
 

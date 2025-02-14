@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 87 - Phẩm Hiền Trí
+head:
+  - - meta
+    - name: Bài kệ 87 - Phẩm Hiền Trí
+      content: Kẻ Trí Bỏ Pháp Đen,<Br>Tu Tập Theo Pháp Trắng.<Br>Bỏ Nhà, Sống Không Nhà,<Br>Sống Viễn Ly Khổ Lạc.<Br>
 category:
-  - pham-hien-tri
-  - Phẩm Hiền Trí
-tag:
   - pham-hien-tri
 ---
 
-# Bài kệ 87 - Pham Hien Tri
+# Bài kệ 87 - Phẩm Hiền Trí
 
 ![An image](/img/pham-hien-tri/pham-hien-tri-087.jpg)
 

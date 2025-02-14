@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 84 - Phẩm Hiền Trí
+head:
+  - - meta
+    - name: Bài kệ 84 - Phẩm Hiền Trí
+      content: Không Vì Mình, Vì Người.<Br>Không Cầu Được Con Cái,<Br>Không Tài Sản Quốc Độ,<Br>Không Cầu Mình Thành Tựu,<Br>Với Việc Làm Phi Pháp.<Br>Vị Ấy Thật Trì Giới,<Br>Có Trí Tuệ, Đúng Pháp.<Br>
 category:
-  - pham-hien-tri
-  - Phẩm Hiền Trí
-tag:
   - pham-hien-tri
 ---
 
-# Bài kệ 84 - Pham Hien Tri
+# Bài kệ 84 - Phẩm Hiền Trí
 
 ![An image](/img/pham-hien-tri/pham-hien-tri-084.jpg)
 

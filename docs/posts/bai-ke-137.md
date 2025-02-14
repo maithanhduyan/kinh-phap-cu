@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 137 - Phẩm Hình Phạt
+head:
+  - - meta
+    - name: Bài kệ 137 - Phẩm Hình Phạt
+      content: Dùng Trượng Phạt Không Trượng,<Br>Làm Ác Người Không Ác.<Br>Trong Mười Loại Khổ Đau,<Br>Chịu Gấp Một Loại Khổ.<Br>
 category:
-  - pham-hinh-phat
-  - Phẩm Hình Phạt
-tag:
   - pham-hinh-phat
 ---
 
-# Bài kệ 137 - Pham Hinh Phat
+# Bài kệ 137 - Phẩm Hình Phạt
 
 ![An image](/img/pham-hinh-phat/pham-hinh-phat-137.jpg)
 

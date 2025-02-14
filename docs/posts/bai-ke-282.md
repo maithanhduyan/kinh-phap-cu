@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 282 - Phẩm Đạo
+head:
+  - - meta
+    - name: Bài kệ 282 - Phẩm Đạo
+      content: Tu Thiền, Trí Tuệ Sanh,<Br>Bỏ Thiền, Trí Tuệ Diệt.<Br>Biết Con Đường Hai Ngả<Br>Ðưa Đến Hữu, Phi Hữu,<Br>Hãy Tự Mình Nỗ Lực,<Br>Khiến Trí Tuệ Tăng Trưởng.<Br>
 category:
-  - pham-dao
-  - Phẩm Đạo
-tag:
   - pham-dao
 ---
 
-# Bài kệ 282 - Pham Dao
+# Bài kệ 282 - Phẩm Đạo
 
 ![An image](/img/pham-dao/pham-dao-282.jpg)
 

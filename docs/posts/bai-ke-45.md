@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 45 - Phẩm Hoa
+head:
+  - - meta
+    - name: Bài kệ 45 - Phẩm Hoa
+      content: Hữu Học Chinh Phục Đất,<Br>Dạ Ma, Thiên Giới Này.<Br>Hữu Học Giảng Pháp Cú,<Br>Như Người Khéo Hái Hoa.<Br>
 category:
-  - pham-hoa
-  - Phẩm Hoa
-tag:
   - pham-hoa
 ---
 
-# Bài kệ 45 - Pham Hoa
+# Bài kệ 45 - Phẩm Hoa
 
 ![An image](/img/pham-hoa/pham-hoa-045.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 301 - Phẩm Tạp Lục
+head:
+  - - meta
+    - name: Bài kệ 301 - Phẩm Tạp Lục
+      content: Ðệ Tử Gotama,<Br>Luôn Luôn Tự Tỉnh Giác,<Br>Vô Luận Ngày Hay Đêm,<Br>Ý Vui Tu Thiền Quán.<Br>
 category:
-  - pham-tap-luc
-  - Phẩm Tạp Lục
-tag:
   - pham-tap-luc
 ---
 
-# Bài kệ 301 - Pham Tap Luc
+# Bài kệ 301 - Phẩm Tạp Lục
 
 ![An image](/img/pham-tap-luc/pham-tap-luc-301.jpg)
 

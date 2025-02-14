@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 360 - Phẩm Tỳ Kheo
+head:
+  - - meta
+    - name: Bài kệ 360 - Phẩm Tỳ Kheo
+      content: Lành Thay, Phòng Hộ Mắt!<Br>Lành Thay, Phòng Hộ Tai.<Br>Lành Thay, Phòng Hộ Mũi,<Br>Lành Thay, Phòng Hộ Lưỡi.<Br>
 category:
-  - pham-ty-kheo
-  - Phẩm Tỳ Kheo
-tag:
   - pham-ty-kheo
 ---
 
-# Bài kệ 360 - Pham Ty Kheo
+# Bài kệ 360 - Phẩm Tỳ Kheo
 
 ![An image](/img/pham-ty-kheo/pham-ty-kheo-360.jpg)
 

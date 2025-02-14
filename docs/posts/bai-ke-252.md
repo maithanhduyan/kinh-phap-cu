@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 252 - Phẩm Cấu Uế
+head:
+  - - meta
+    - name: Bài kệ 252 - Phẩm Cấu Uế
+      content: Dễ Thay Thấy Lỗi Người,<Br>Lỗi Mình Thấy Mới Khó.<Br>Lỗi Người Ta Phanh Tìm,<Br>Như Sàng Trấu Trong Gạo,<Br>Còn Lỗi Mình, Che Đậy,<Br>Như Kẻ Gian Dấu Bài.<Br>
 category:
-  - pham-cau-ue
-  - Phẩm Cấu Uế
-tag:
   - pham-cau-ue
 ---
 
-# Bài kệ 252 - Pham Cau Ue
+# Bài kệ 252 - Phẩm Cấu Uế
 
 ![An image](/img/pham-cau-ue/pham-cau-ue-252.jpg)
 

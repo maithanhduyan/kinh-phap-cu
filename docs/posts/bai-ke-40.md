@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 40 - Phẩm Tâm
+head:
+  - - meta
+    - name: Bài kệ 40 - Phẩm Tâm
+      content: Biết Thân Như Đồ Gốm,<Br>Trú Tâm Như Thành Trì,<Br>Chống Ma Với Gươm Trí ;<Br>Giữ Chiến Thắng [3] Không Tham [4]<Br>
 category:
-  - pham-tam
-  - Phẩm Tâm
-tag:
   - pham-tam
 ---
 
-# Bài kệ 40 - Pham Tam
+# Bài kệ 40 - Phẩm Tâm
 
 ![An image](/img/pham-tam/pham-tam-040.jpg)
 

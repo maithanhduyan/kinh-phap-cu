@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 162 - Phẩm Tự Ngã
+head:
+  - - meta
+    - name: Bài kệ 162 - Phẩm Tự Ngã
+      content: Phá Giới Quá Trầm Trọng,<Br>Như Dây Leo Bám Cây<Br>Gieo Hại Cho Tự Thân,<Br>Như Kẻ Thù Mong Ước.<Br>
 category:
-  - pham-tu-nga
-  - Phẩm Tự Ngã
-tag:
   - pham-tu-nga
 ---
 
-# Bài kệ 162 - Pham Tu Nga
+# Bài kệ 162 - Phẩm Tự Ngã
 
 ![An image](/img/pham-tu-nga/pham-tu-nga-162.jpg)
 

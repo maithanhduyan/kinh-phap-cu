@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 24 - Phẩm Không Phóng Dật
+head:
+  - - meta
+    - name: Bài kệ 24 - Phẩm Không Phóng Dật
+      content: Nỗ Lực, Giữ Chánh Niệm,<Br>Tịnh Hạnh, Hành Thận Trọng<Br>Tự Điều, Sống Theo Pháp,<Br>Ai Sống Không Phóng Dật,<Br>Tiếng Lành Ngày Tăng Trưởng.<Br>
 category:
-  - pham-khong-phong-dat
-  - Phẩm Không Phóng Dật
-tag:
   - pham-khong-phong-dat
 ---
 
-# Bài kệ 24 - Pham Khong Phong Dat
+# Bài kệ 24 - Phẩm Không Phóng Dật
 
 ![An image](/img/pham-khong-phong-dat/pham-khong-phong-dat-024.jpg)
 

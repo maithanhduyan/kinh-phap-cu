@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 91 - Phẩm A La Hán
+head:
+  - - meta
+    - name: Bài kệ 91 - Phẩm A La Hán
+      content: Tự Sách Tấn, Chánh Niệm,<Br>Không Thích Cư Xá Nào,<Br>Như Ngỗng Trời Rời Ao,<Br>Bỏ Sau Mọi Trú Ẩn.<Br>
 category:
-  - pham-a-la-han
-  - Phẩm A-La-Hán
-tag:
   - pham-a-la-han
 ---
 
-# Bài kệ 91 - Pham A La Han
+# Bài kệ 91 - Phẩm A La Hán
 
 ![An image](/img/pham-a-la-han/pham-a-la-han-091.jpg)
 

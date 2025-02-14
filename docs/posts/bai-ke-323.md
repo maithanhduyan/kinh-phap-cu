@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 323 - Phẩm Voi
+head:
+  - - meta
+    - name: Bài kệ 323 - Phẩm Voi
+      content: Chẳng Phải Loài Cưỡi Ấy,<Br>Ðưa Người Đến Niết-Bàn,<Br>Chỉ Có Người Tự Điều,<Br>Ðến Đích, Nhờ Điều Phục.<Br>
 category:
-  - pham-voi
-  - Phẩm Voi
-tag:
   - pham-voi
 ---
 
-# Bài kệ 323 - Pham Voi
+# Bài kệ 323 - Phẩm Voi
 
 ![An image](/img/pham-voi/pham-voi-323.jpg)
 

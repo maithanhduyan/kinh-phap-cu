@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 192 - Phẩm Phật Đà
+head:
+  - - meta
+    - name: Bài kệ 192 - Phẩm Phật Đà
+      content: Thật Quy Y An Ổn,<Br>Thật Quy Y Tối Thượng,<Br>Có Quy Y Như Vậy,<Br>Mới Thoát Mọi Khổ Đau.<Br>
 category:
-  - pham-phat-da
-  - Phẩm Phật Đà
-tag:
   - pham-phat-da
 ---
 
-# Bài kệ 192 - Pham Phat Da
+# Bài kệ 192 - Phẩm Phật Đà
 
 ![An image](/img/pham-phat-da/pham-phat-da-192.jpg)
 

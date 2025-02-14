@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 197 - Phẩm An Lạc
+head:
+  - - meta
+    - name: Bài kệ 197 - Phẩm An Lạc
+      content: Vui Thay, Chúng Ta Sống,<Br>Không Hận, Giữa Hận Thù!<Br>Giữa Những Người Thù Hận,<Br>Ta Sống, Không Hận Thù!<Br>
 category:
-  - pham-an-lac
-  - Phẩm An Lạc
-tag:
   - pham-an-lac
 ---
 
-# Bài kệ 197 - Pham An Lac
+# Bài kệ 197 - Phẩm An Lạc
 
 ![An image](/img/pham-an-lac/pham-an-lac-197.jpg)
 

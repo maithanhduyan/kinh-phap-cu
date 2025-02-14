@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 116 - Phẩm Ác
+head:
+  - - meta
+    - name: Bài kệ 116 - Phẩm Ác
+      content: Hãy Gấp Làm Điều Lành,<Br>Ngăn Tâm Làm Điều Ác.<Br>Ai Chậm Làm Việc Lành,<Br>Ý Ưa Thích Việc Ác.<Br>
 category:
-  - pham-ac
-  - Phẩm Ác
-tag:
   - pham-ac
 ---
 
-# Bài kệ 116 - Pham Ac
+# Bài kệ 116 - Phẩm Ác
 
 ![An image](/img/pham-ac/pham-ac-116.jpg)
 

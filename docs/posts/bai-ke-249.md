@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 249 - Phẩm Cấu Uế
+head:
+  - - meta
+    - name: Bài kệ 249 - Phẩm Cấu Uế
+      content: Do Tín Tâm, Hỷ Tâm<Br>Loài Người Mới Bố Thí.<Br>Ở Đây Ai Bất Mãn<Br>Người Khác Được Ăn Uống,<Br>Người Ấy Ngày Hoặc Đêm,<Br>Không Đạt Được Tâm Định?<Br>
 category:
-  - pham-cau-ue
-  - Phẩm Cấu Uế
-tag:
   - pham-cau-ue
 ---
 
-# Bài kệ 249 - Pham Cau Ue
+# Bài kệ 249 - Phẩm Cấu Uế
 
 ![An image](/img/pham-cau-ue/pham-cau-ue-249.jpg)
 

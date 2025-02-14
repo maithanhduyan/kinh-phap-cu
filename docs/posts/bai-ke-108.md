@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 108 - Phẩm Ngàn
+head:
+  - - meta
+    - name: Bài kệ 108 - Phẩm Ngàn
+      content: Suốt Năm Cúng Tế Vật,<Br>Ðể Cầu Phước Ở Đời.<Br>Không Bằng Một Phần Tư<Br>Kính Lễ Bậc Chánh Trực.<Br>
 category:
-  - pham-ngan
-  - Phẩm Ngàn
-tag:
   - pham-ngan
 ---
 
-# Bài kệ 108 - Pham Ngan
+# Bài kệ 108 - Phẩm Ngàn
 
 ![An image](/img/pham-ngan/pham-ngan-108.jpg)
 

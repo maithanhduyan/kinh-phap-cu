@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 331 - Phẩm Voi
+head:
+  - - meta
+    - name: Bài kệ 331 - Phẩm Voi
+      content: Vui Thay, Bạn Lúc Cần!<Br>Vui Thay, Sống Biết Đủ,<Br>Vui Thay, Chết Có Đức!<Br>Vui Thay, Mọi Khổ Đoạn.<Br>
 category:
-  - pham-voi
-  - Phẩm Voi
-tag:
   - pham-voi
 ---
 
-# Bài kệ 331 - Pham Voi
+# Bài kệ 331 - Phẩm Voi
 
 ![An image](/img/pham-voi/pham-voi-331.jpg)
 

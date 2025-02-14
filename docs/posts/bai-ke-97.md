@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 97 - Phẩm A La Hán
+head:
+  - - meta
+    - name: Bài kệ 97 - Phẩm A La Hán
+      content: Không Tin, Hiểu Vô Vi.<Br>Người Cắt Mọi Hệ Lụy<Br>Cơ Hội Tận, Xả Ly<Br>Vị Ấy Thật Tối Thượng.<Br>
 category:
-  - pham-a-la-han
-  - Phẩm A-La-Hán
-tag:
   - pham-a-la-han
 ---
 
-# Bài kệ 97 - Pham A La Han
+# Bài kệ 97 - Phẩm A La Hán
 
 ![An image](/img/pham-a-la-han/pham-a-la-han-097.jpg)
 

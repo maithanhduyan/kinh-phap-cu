@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 348 - Phẩm Tham Ái
+head:
+  - - meta
+    - name: Bài kệ 348 - Phẩm Tham Ái
+      content: Bỏ Quá, Hiện, Vị Lai,<Br>Ðến Bờ Kia Cuộc Đời,<Br>Ý Giải Thoát Tất Cả,<Br>Chớ Vướng Lại Sanh Già.<Br>
 category:
-  - pham-tham-ai
-  - Phẩm Tham Ái
-tag:
   - pham-tham-ai
 ---
 
-# Bài kệ 348 - Pham Tham Ai
+# Bài kệ 348 - Phẩm Tham Ái
 
 ![An image](/img/pham-tham-ai/pham-tham-ai-348.jpg)
 

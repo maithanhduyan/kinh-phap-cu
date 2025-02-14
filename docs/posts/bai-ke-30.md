@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 30 - Phẩm Không Phóng Dật
+head:
+  - - meta
+    - name: Bài kệ 30 - Phẩm Không Phóng Dật
+      content: Ðế Thích Không Phóng Dật,<Br>Ðạt Ngôi Vị Thiên Chủ.<Br>Không Phóng Dật, Được Khen ;<Br>Phóng Dật, Thường Bị Trách.<Br>
 category:
-  - pham-khong-phong-dat
-  - Phẩm Không Phóng Dật
-tag:
   - pham-khong-phong-dat
 ---
 
-# Bài kệ 30 - Pham Khong Phong Dat
+# Bài kệ 30 - Phẩm Không Phóng Dật
 
 ![An image](/img/pham-khong-phong-dat/pham-khong-phong-dat-030.jpg)
 

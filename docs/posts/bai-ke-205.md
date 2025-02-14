@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 205 - Phẩm An Lạc
+head:
+  - - meta
+    - name: Bài kệ 205 - Phẩm An Lạc
+      content: Ðã Nếm Vị Độc Cư,<Br>Ðược Hưởng Vị Nhàn Tịnh,<Br>Không Sợ Hải, Không Ác,<Br>Nếm Được Vị Pháp Hỷ.<Br>
 category:
-  - pham-an-lac
-  - Phẩm An Lạc
-tag:
   - pham-an-lac
 ---
 
-# Bài kệ 205 - Pham An Lac
+# Bài kệ 205 - Phẩm An Lạc
 
 ![An image](/img/pham-an-lac/pham-an-lac-205.jpg)
 

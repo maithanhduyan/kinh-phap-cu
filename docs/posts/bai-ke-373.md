@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 373 - Phẩm Tỳ Kheo
+head:
+  - - meta
+    - name: Bài kệ 373 - Phẩm Tỳ Kheo
+      content: Bước Vào Ngôi Nhà Trống,<Br>Tỷ Kheo Tâm An Tịnh,<Br>Thọ Hưởng Vui Siêu Nhân<Br>Tịnh Quán Theo Chánh Pháp.<Br>
 category:
-  - pham-ty-kheo
-  - Phẩm Tỳ Kheo
-tag:
   - pham-ty-kheo
 ---
 
-# Bài kệ 373 - Pham Ty Kheo
+# Bài kệ 373 - Phẩm Tỳ Kheo
 
 ![An image](/img/pham-ty-kheo/pham-ty-kheo-373.jpg)
 

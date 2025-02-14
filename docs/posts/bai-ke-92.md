@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 92 - Phẩm A La Hán
+head:
+  - - meta
+    - name: Bài kệ 92 - Phẩm A La Hán
+      content: Tài Sản Không Chất Chứa,<Br>Ăn Uống Biết Liễu Tri,<Br>Tự Tại Trong Hành Xứ,<Br>“Không Vô Tướng, Giải Thoát, ”<Br>Như Chim Giữa Hư Không,<Br>Hướng Chúng Đi Khó Tìm.<Br>
 category:
-  - pham-a-la-han
-  - Phẩm A-La-Hán
-tag:
   - pham-a-la-han
 ---
 
-# Bài kệ 92 - Pham A La Han
+# Bài kệ 92 - Phẩm A La Hán
 
 ![An image](/img/pham-a-la-han/pham-a-la-han-092.jpg)
 

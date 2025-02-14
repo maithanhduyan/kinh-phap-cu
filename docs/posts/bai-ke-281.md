@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 281 - Phẩm Đạo
+head:
+  - - meta
+    - name: Bài kệ 281 - Phẩm Đạo
+      content: Lời Nói Được Thận Trọng,<Br>Tâm Tư Khéo Hộ Phòng,<Br>Thân Chớ Làm Điều Ác,<Br>Hãy Giữ Ba Nghiệp Tịnh,<Br>Chứng Đạo Thánh Nhân Dạy.<Br>
 category:
-  - pham-dao
-  - Phẩm Đạo
-tag:
   - pham-dao
 ---
 
-# Bài kệ 281 - Pham Dao
+# Bài kệ 281 - Phẩm Đạo
 
 ![An image](/img/pham-dao/pham-dao-281.jpg)
 

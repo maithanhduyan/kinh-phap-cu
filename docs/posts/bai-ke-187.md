@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 187 - Phẩm Phật Đà
+head:
+  - - meta
+    - name: Bài kệ 187 - Phẩm Phật Đà
+      content: Ðệ Tử Bậc Chánh Giác,<Br>Không Tìm Cầu Dục Lạc,<Br>Dầu Là Dục Chư Thiên,<Br>Chỉ Ưa Thích Ái Diệt.<Br>
 category:
-  - pham-phat-da
-  - Phẩm Phật Đà
-tag:
   - pham-phat-da
 ---
 
-# Bài kệ 187 - Pham Phat Da
+# Bài kệ 187 - Phẩm Phật Đà
 
 ![An image](/img/pham-phat-da/pham-phat-da-187.jpg)
 

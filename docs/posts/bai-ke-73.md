@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 73 - Phẩm Ngu
+head:
+  - - meta
+    - name: Bài kệ 73 - Phẩm Ngu
+      content: Ưa Danh Không Tương Xứng,<Br>Muốn Ngồi Trước Tỷ Kheo,<Br>Ưa Quyền Tại Tịnh Xá,<Br>Muốn Mọi Người Lễ Kính.<Br>
 category:
-  - pham-ngu
-  - Phẩm Ngu
-tag:
   - pham-ngu
 ---
 
-# Bài kệ 73 - Pham Ngu
+# Bài kệ 73 - Phẩm Ngu
 
 ![An image](/img/pham-ngu/pham-ngu-073.jpg)
 

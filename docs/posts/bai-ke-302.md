@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 302 - Phẩm Tạp Lục
+head:
+  - - meta
+    - name: Bài kệ 302 - Phẩm Tạp Lục
+      content: Vui Hạnh Xuất Gia Khó,<Br>Tại Gia Sinh Hoạt Khó,<Br>Sống Bạn Không Đồng, Khổ,<Br>Trôi Lăn Luân Hồi, Khổ,<Br>Vậy Chớ Sống Luân Hồi,<Br>Chớ Chạy Theo Đau Khổ.<Br>
 category:
-  - pham-tap-luc
-  - Phẩm Tạp Lục
-tag:
   - pham-tap-luc
 ---
 
-# Bài kệ 302 - Pham Tap Luc
+# Bài kệ 302 - Phẩm Tạp Lục
 
 ![An image](/img/pham-tap-luc/pham-tap-luc-302.jpg)
 

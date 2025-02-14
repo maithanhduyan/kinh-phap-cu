@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 168 - Phẩm Thế Gian
+head:
+  - - meta
+    - name: Bài kệ 168 - Phẩm Thế Gian
+      content: Nỗ Lực, Chớ Phóng Dật!<Br>Hãy Sống Theo Chánh Hạnh;<Br>Người Chánh Hạnh Hưởng Lạc,<Br>Cả Đời Này, Đời Sau.<Br>
 category:
-  - pham-the-gian
-  - Phẩm Thế Gian
-tag:
   - pham-the-gian
 ---
 
-# Bài kệ 168 - Pham The Gian
+# Bài kệ 168 - Phẩm Thế Gian
 
 ![An image](/img/pham-the-gian/pham-the-gian-168.jpg)
 

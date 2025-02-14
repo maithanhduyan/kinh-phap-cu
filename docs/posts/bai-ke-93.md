@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 93 - Phẩm A La Hán
+head:
+  - - meta
+    - name: Bài kệ 93 - Phẩm A La Hán
+      content: Ai Lậu Hoặc Đoạn Sạch,<Br>Ăn Uống Không Tham Đắm,<Br>Tự Tại Trong Hành Xứ,<Br>“Không, Vô Tướng Giải Thoát. ”<Br>Như Chim Giữa Hư Không,<Br>Dấu Chân Thật Khó Tìm.<Br>
 category:
-  - pham-a-la-han
-  - Phẩm A-La-Hán
-tag:
   - pham-a-la-han
 ---
 
-# Bài kệ 93 - Pham A La Han
+# Bài kệ 93 - Phẩm A La Hán
 
 ![An image](/img/pham-a-la-han/pham-a-la-han-093.jpg)
 

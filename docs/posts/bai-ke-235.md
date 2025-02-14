@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 235 - Phẩm Cấu Uế
+head:
+  - - meta
+    - name: Bài kệ 235 - Phẩm Cấu Uế
+      content: Ngươi Nay Giống Lá Héo,<Br>Diêm Sứ Đang Chờ Ngươi,<Br>Ngươi Đứng Trước Cửa Chết,<Br>Ðường Trường Thiếu Tư Lương.<Br>
 category:
-  - pham-cau-ue
-  - Phẩm Cấu Uế
-tag:
   - pham-cau-ue
 ---
 
-# Bài kệ 235 - Pham Cau Ue
+# Bài kệ 235 - Phẩm Cấu Uế
 
 ![An image](/img/pham-cau-ue/pham-cau-ue-235.jpg)
 

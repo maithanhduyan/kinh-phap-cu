@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 172 - Phẩm Thế Gian
+head:
+  - - meta
+    - name: Bài kệ 172 - Phẩm Thế Gian
+      content: Ai Sống Trước Buông Lung,<Br>Sau Sống Không Phóng Dật,<Br>Chói Sáng Rực Đời Này.<Br>Như Trăng Thoát Mây Che.<Br>
 category:
-  - pham-the-gian
-  - Phẩm Thế Gian
-tag:
   - pham-the-gian
 ---
 
-# Bài kệ 172 - Pham The Gian
+# Bài kệ 172 - Phẩm Thế Gian
 
 ![An image](/img/pham-the-gian/pham-the-gian-172.jpg)
 

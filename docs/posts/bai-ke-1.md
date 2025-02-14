@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 1 - Phẩm Song Yếu
+head:
+  - - meta
+    - name: Bài kệ 1 - Phẩm Song Yếu
+      content: Ý Dẫn Đầu Các Pháp,<Br>Ý Làm Chủ, Ý Tạo;<Br>Nếu Với Ý Ô Nhiễm,<Br>Nói Lên Hay Hành Động,<Br>Khổ Não Bước Theo Sau,<Br> Như Xe, Chân Vật Kéo.<Br>
 category:
-  - pham-song-yeu
-  - Phẩm Song Yếu
-tag:
   - pham-song-yeu
 ---
 
-# Bài kệ 1 - Pham Song Yeu
+# Bài kệ 1 - Phẩm Song Yếu
 
 ![An image](/img/pham-song-yeu/pham-song-yeu-001.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 316 - Phẩm Địa Ngục
+head:
+  - - meta
+    - name: Bài kệ 316 - Phẩm Địa Ngục
+      content: Không Đáng Hổ, Lại Hổ.<Br>Việc Đáng Hổ, Lại Không.<Br>Do Chấp Nhận Tà Kiến,<Br>Chúng Sanh Đi Ác Thú.<Br>
 category:
-  - pham-dia-nguc
-  - Phẩm Địa Ngục
-tag:
   - pham-dia-nguc
 ---
 
-# Bài kệ 316 - Pham Dia Nguc
+# Bài kệ 316 - Phẩm Địa Ngục
 
 ![An image](/img/pham-dia-nguc/pham-dia-nguc-316.jpg)
 

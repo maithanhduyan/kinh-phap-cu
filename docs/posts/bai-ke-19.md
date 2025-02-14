@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 19 - Phẩm Song Yếu
+head:
+  - - meta
+    - name: Bài kệ 19 - Phẩm Song Yếu
+      content: Nếu Người Nói Nhiều Kinh,<Br>Không Hành Trì, Phóng Dật;<Br>Như Kẻ Chăn Bò Người,<Br>Không Phần Sa Môn Hạnh.<Br>
 category:
-  - pham-song-yeu
-  - Phẩm Song Yếu
-tag:
   - pham-song-yeu
 ---
 
-# Bài kệ 19 - Pham Song Yeu
+# Bài kệ 19 - Phẩm Song Yếu
 
 ![An image](/img/pham-song-yeu/pham-song-yeu-019.jpg)
 

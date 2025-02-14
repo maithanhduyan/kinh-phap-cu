@@ -67,14 +67,6 @@ export default defineUserConfig({
           getter: (page) => page.frontmatter.category || [],
           layout: 'Category',
           itemLayout: 'Category',
-          frontmatter: () => ({
-            title: 'Categories',
-            sidebar: true,
-          }),
-          itemFrontmatter: (name) => ({
-            title: `Category ${name}`,
-            sidebar: true,
-          }),
           sorter: (pageA, pageB) => {
             const titleA = pageA.frontmatter.title || pageA.title || ''
             const titleB = pageB.frontmatter.title || pageB.title || ''
@@ -84,42 +76,9 @@ export default defineUserConfig({
 
       ],
 
-      // type: [
-      //   {
-      //     key: 'article',
-      //     // Remove archive articles
-      //     filter: (page) => !page.frontmatter.archive,
-      //     layout: 'Article',
-      //     frontmatter: () => ({
-      //       title: 'Article',
-      //       sidebar: true,
-      //     }),
-      //     // Sort pages with time and sticky
-      //     sorter: (pageA, pageB) => {
-      //       if (pageA.frontmatter.sticky && pageB.frontmatter.sticky)
-      //         return pageB.frontmatter.sticky - pageA.frontmatter.sticky
-
-      //       if (pageA.frontmatter.sticky && !pageB.frontmatter.sticky) return -1
-
-      //       if (!pageA.frontmatter.sticky && pageB.frontmatter.sticky) return 1
-
-      //       if (!pageB.frontmatter.date) return 1
-      //       if (!pageA.frontmatter.date) return -1
-
-      //       return (
-      //         new Date(pageB.frontmatter.date).getTime() -
-      //         new Date(pageA.frontmatter.date).getTime()
-      //       )
-      //     },
-      //   },
-
-      // ],
       hotReload: true,
     }),
   ],
 
-  bundler: viteBundler({
-    // viteOptions: {},
-    // vuePluginOptions: {},
-  }),
+  bundler: viteBundler(),
 })

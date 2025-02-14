@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 8 - Phẩm Song Yếu
+head:
+  - - meta
+    - name: Bài kệ 8 - Phẩm Song Yếu
+      content: Ai Sống Quán Bất Tịnh,<Br>Khéo Hộ Trì Các Căn,<Br>Ăn Uống Có Tiết Độ,<Br>Có Lòng Tin, Tinh Cần,<Br>Ma Không Uy Hiếp Được,<Br>Như Núi Đá, Trước Gió.<Br>
 category:
-  - pham-song-yeu
-  - Phẩm Song Yếu
-tag:
   - pham-song-yeu
 ---
 
-# Bài kệ 8 - Pham Song Yeu
+# Bài kệ 8 - Phẩm Song Yếu
 
 ![An image](/img/pham-song-yeu/pham-song-yeu-008.jpg)
 

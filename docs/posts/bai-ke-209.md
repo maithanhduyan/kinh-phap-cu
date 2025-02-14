@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 209 - Phẩm Hỷ Ái
+head:
+  - - meta
+    - name: Bài kệ 209 - Phẩm Hỷ Ái
+      content: Tự Chuyên, Không Đáng Chuyên<Br>Không Chuyên, Việc Đáng Chuyên.<Br>Bỏ Đích, Theo Hỷ Ái,<Br>Ganh Tị Bậc Tự Chuyên.<Br>
 category:
-  - pham-hy-ai
-  - Phẩm Hỷ Ái
-tag:
   - pham-hy-ai
 ---
 
-# Bài kệ 209 - Pham Hy Ai
+# Bài kệ 209 - Phẩm Hỷ Ái
 
 ![An image](/img/pham-hy-ai/pham-hy-ai-209.jpg)
 

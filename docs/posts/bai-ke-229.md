@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 229 - Phẩm Phẩn Nộ
+head:
+  - - meta
+    - name: Bài kệ 229 - Phẩm Phẩn Nộ
+      content: Sáng Sáng, Thẩm Xét Kỹ.<Br>Bậc Có Trí Tán Thán.<Br>Bậc Trí Không Tỳ Vết,<Br>Ðầy Đủ Giới Định Tuệ.<Br>
 category:
-  - pham-phan-no
-  - Phẩm Phẩn Nộ
-tag:
   - pham-phan-no
 ---
 
-# Bài kệ 229 - Pham Phan No
+# Bài kệ 229 - Phẩm Phẩn Nộ
 
 ![An image](/img/pham-phan-no/pham-phan-no-229.jpg)
 

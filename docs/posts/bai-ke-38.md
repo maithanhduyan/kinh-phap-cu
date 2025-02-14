@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 38 - Phẩm Tâm
+head:
+  - - meta
+    - name: Bài kệ 38 - Phẩm Tâm
+      content: Ai Tâm Không An Trú,<Br>Không Biết Chân Diệu Pháp,<Br>Tịnh Tín Bị Rúng Động,<Br>Trí Tuệ Không Viên Thành.<Br>
 category:
-  - pham-tam
-  - Phẩm Tâm
-tag:
   - pham-tam
 ---
 
-# Bài kệ 38 - Pham Tam
+# Bài kệ 38 - Phẩm Tâm
 
 ![An image](/img/pham-tam/pham-tam-038.jpg)
 

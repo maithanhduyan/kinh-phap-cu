@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 342 - Phẩm Tham Ái
+head:
+  - - meta
+    - name: Bài kệ 342 - Phẩm Tham Ái
+      content: Người Bị Ái Buộc Ràng,<Br>Vùng Vẫy Và Hoảng Sợ,<Br>Như Thỏ Bị Sa Lưới.<Br>Họ Sanh Ái Trói Buộc,<Br>Chịu Khổ Đau Dài Dài.<Br>
 category:
-  - pham-tham-ai
-  - Phẩm Tham Ái
-tag:
   - pham-tham-ai
 ---
 
-# Bài kệ 342 - Pham Tham Ai
+# Bài kệ 342 - Phẩm Tham Ái
 
 ![An image](/img/pham-tham-ai/pham-tham-ai-342.jpg)
 

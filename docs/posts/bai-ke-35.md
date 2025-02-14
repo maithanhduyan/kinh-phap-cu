@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 35 - Phẩm Tâm
+head:
+  - - meta
+    - name: Bài kệ 35 - Phẩm Tâm
+      content: Khó Nắm Giữ, Khinh Động,<Br>Theo Các Dục Quay Cuồng.<Br>Lành Thay, Điều Phục Tâm;<Br>Tâm Điều, An Lạc Đến.<Br>
 category:
-  - pham-tam
-  - Phẩm Tâm
-tag:
   - pham-tam
 ---
 
-# Bài kệ 35 - Pham Tam
+# Bài kệ 35 - Phẩm Tâm
 
 ![An image](/img/pham-tam/pham-tam-035.jpg)
 

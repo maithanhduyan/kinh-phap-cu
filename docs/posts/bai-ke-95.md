@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 95 - Phẩm A La Hán
+head:
+  - - meta
+    - name: Bài kệ 95 - Phẩm A La Hán
+      content: Như Đất, Không Hiềm Hận,<Br>Như Cột Trụ, Kiên Trì,<Br>Như Hồ, Không Bùn Nhơ,<Br>Không Luân Hồi, Vị Ấy.<Br>
 category:
-  - pham-a-la-han
-  - Phẩm A-La-Hán
-tag:
   - pham-a-la-han
 ---
 
-# Bài kệ 95 - Pham A La Han
+# Bài kệ 95 - Phẩm A La Hán
 
 ![An image](/img/pham-a-la-han/pham-a-la-han-095.jpg)
 

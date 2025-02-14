@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 322 - Phẩm Voi
+head:
+  - - meta
+    - name: Bài kệ 322 - Phẩm Voi
+      content: Tốt Thay, Con La Thuần,<Br>Thuần Chủng Loài Ngựa Xinh.<Br>Ðại Tượng, Voi Có Ngà.<Br>Tự Điều Mới Tối Thượng.<Br>
 category:
-  - pham-voi
-  - Phẩm Voi
-tag:
   - pham-voi
 ---
 
-# Bài kệ 322 - Pham Voi
+# Bài kệ 322 - Phẩm Voi
 
 ![An image](/img/pham-voi/pham-voi-322.jpg)
 

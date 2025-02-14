@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 185 - Phẩm Phật Đà
+head:
+  - - meta
+    - name: Bài kệ 185 - Phẩm Phật Đà
+      content: Không Phỉ Báng, Phá Hoại,<Br>Hộ Trì Giới Căn Bản,<Br>Ăn Uống Có Tiết Độ,<Br>Sàng Tọa Chỗ Nhàn Tịnh<Br>Chuyên Chú Tăng Thượng Tâm,<Br>Chính Lời Chư Phật Dạy.<Br>
 category:
-  - pham-phat-da
-  - Phẩm Phật Đà
-tag:
   - pham-phat-da
 ---
 
-# Bài kệ 185 - Pham Phat Da
+# Bài kệ 185 - Phẩm Phật Đà
 
 ![An image](/img/pham-phat-da/pham-phat-da-185.jpg)
 

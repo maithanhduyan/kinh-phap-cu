@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 394 - Phẩm Bà La Môn
+head:
+  - - meta
+    - name: Bài kệ 394 - Phẩm Bà La Môn
+      content: Kẻ Ngu, Có Ích Gì<Br>Bện Tóc Với Da Dê,<Br>Nội Tâm Toàn Phiền Não,<Br>Ngoài Mặt Đánh Bóng Suông.<Br>
 category:
-  - pham-ba-la-mon
-  - Phẩm Bà La Môn
-tag:
   - pham-ba-la-mon
 ---
 
-# Bài kệ 394 - Pham Ba La Mon
+# Bài kệ 394 - Phẩm Bà La Môn
 
 ![An image](/img/pham-ba-la-mon/pham-ba-la-mon-394.jpg)
 

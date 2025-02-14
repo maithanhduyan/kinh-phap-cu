@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 180 - Phẩm Phật Đà
+head:
+  - - meta
+    - name: Bài kệ 180 - Phẩm Phật Đà
+      content: Ai Giải Tỏa Lưới Tham,<Br>Ái Phược Hết Dắt Dẫn,<Br>Phật Giới Rộng Mênh Mông,<Br>Ai Dùng Chân Theo Dõi,<Br>Bậc Không Để Dấu Tích?<Br>
 category:
-  - pham-phat-da
-  - Phẩm Phật Đà
-tag:
   - pham-phat-da
 ---
 
-# Bài kệ 180 - Pham Phat Da
+# Bài kệ 180 - Phẩm Phật Đà
 
 ![An image](/img/pham-phat-da/pham-phat-da-180.jpg)
 

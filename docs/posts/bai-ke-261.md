@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 261 - Phẩm Pháp Trụ
+head:
+  - - meta
+    - name: Bài kệ 261 - Phẩm Pháp Trụ
+      content: Ai Chân Thật, Đúng Pháp,<Br>Không Hại, Biết Chế Phục,<Br>Bậc Trí Không Cấu Uế,<Br>Mới Xứng Danh Trưởng Lão.<Br>
 category:
-  - pham-phap-tru
-  - Phẩm Pháp Trụ
-tag:
   - pham-phap-tru
 ---
 
-# Bài kệ 261 - Pham Phap Tru
+# Bài kệ 261 - Phẩm Pháp Trụ
 
 ![An image](/img/pham-phap-tru/pham-phap-tru-261.jpg)
 

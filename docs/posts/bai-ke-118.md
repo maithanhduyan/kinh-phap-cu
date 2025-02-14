@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 118 - Phẩm Ác
+head:
+  - - meta
+    - name: Bài kệ 118 - Phẩm Ác
+      content: Nếu Người Làm Điều Thiện,<Br>Nên Tiếp Tục Làm Thêm.<Br>Hãy Ước Muốn Điều Thiện,<Br>Chứa Thiện, Được An Lạc.<Br>
 category:
-  - pham-ac
-  - Phẩm Ác
-tag:
   - pham-ac
 ---
 
-# Bài kệ 118 - Pham Ac
+# Bài kệ 118 - Phẩm Ác
 
 ![An image](/img/pham-ac/pham-ac-118.jpg)
 

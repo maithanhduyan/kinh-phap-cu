@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 144 - Phẩm Hình Phạt
+head:
+  - - meta
+    - name: Bài kệ 144 - Phẩm Hình Phạt
+      content: Như Ngựa Hiền Chạm Roi,<Br>Hãy Nhiệt Tâm, Hăng Hái,<Br>Với Tín, Giới, Tinh Tấn,<Br>Thiền Định Cùng Trạch Pháp.<Br>Minh Hạnh Đủ, Chánh Niệm,<Br>Ðoạn Khổ Này Vô Lượng.<Br>
 category:
-  - pham-hinh-phat
-  - Phẩm Hình Phạt
-tag:
   - pham-hinh-phat
 ---
 
-# Bài kệ 144 - Pham Hinh Phat
+# Bài kệ 144 - Phẩm Hình Phạt
 
 ![An image](/img/pham-hinh-phat/pham-hinh-phat-144.jpg)
 

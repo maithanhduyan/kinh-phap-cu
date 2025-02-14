@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 380 - Phẩm Tỳ Kheo
+head:
+  - - meta
+    - name: Bài kệ 380 - Phẩm Tỳ Kheo
+      content: Tự Mình Y Chỉ Mình,<Br>Tự Mình Đi Đến Mình,<Br>Vậy Hãy Tự Điều Phục,<Br>Như Khách Buôn Ngựa Hiền.<Br>
 category:
-  - pham-ty-kheo
-  - Phẩm Tỳ Kheo
-tag:
   - pham-ty-kheo
 ---
 
-# Bài kệ 380 - Pham Ty Kheo
+# Bài kệ 380 - Phẩm Tỳ Kheo
 
 ![An image](/img/pham-ty-kheo/pham-ty-kheo-380.jpg)
 

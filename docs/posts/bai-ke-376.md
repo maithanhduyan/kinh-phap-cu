@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 376 - Phẩm Tỳ Kheo
+head:
+  - - meta
+    - name: Bài kệ 376 - Phẩm Tỳ Kheo
+      content: Giao Thiệp Khéo Thân Thiện,<Br>Cử Chỉ Mực Đoan Trang.<Br>Do Vậy Hưởng Vui Nhiều,<Br>Sẽ Dứt Mọi Khổ Đau.<Br>
 category:
-  - pham-ty-kheo
-  - Phẩm Tỳ Kheo
-tag:
   - pham-ty-kheo
 ---
 
-# Bài kệ 376 - Pham Ty Kheo
+# Bài kệ 376 - Phẩm Tỳ Kheo
 
 ![An image](/img/pham-ty-kheo/pham-ty-kheo-376.jpg)
 

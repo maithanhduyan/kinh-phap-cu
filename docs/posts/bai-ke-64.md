@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 64 - Phẩm Ngu
+head:
+  - - meta
+    - name: Bài kệ 64 - Phẩm Ngu
+      content: Người Ngu, Dầu Trọn Đời,<Br>Thân Cận Người Có Trí,<Br>Không Biết Được Chánh Pháp,<Br>Như Muỗng Với Vị Canh.<Br>
 category:
-  - pham-ngu
-  - Phẩm Ngu
-tag:
   - pham-ngu
 ---
 
-# Bài kệ 64 - Pham Ngu
+# Bài kệ 64 - Phẩm Ngu
 
 ![An image](/img/pham-ngu/pham-ngu-064.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 404 - Phẩm Bà La Môn
+head:
+  - - meta
+    - name: Bài kệ 404 - Phẩm Bà La Môn
+      content: Không Liên Hệ Cả Hai,<Br>Xuất Gia Và Thế Tục,<Br>Sống Độc Thân, Ít Dục,<Br>Ta Gọi Bà-La-Môn.<Br>
 category:
-  - pham-ba-la-mon
-  - Phẩm Bà La Môn
-tag:
   - pham-ba-la-mon
 ---
 
-# Bài kệ 404 - Pham Ba La Mon
+# Bài kệ 404 - Phẩm Bà La Môn
 
 ![An image](/img/pham-ba-la-mon/pham-ba-la-mon-404.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 50 - Phẩm Hoa
+head:
+  - - meta
+    - name: Bài kệ 50 - Phẩm Hoa
+      content: Không Nên Nhìn Lỗi Người,<Br>Người Làm Hay Không Làm.<Br>Nên Nhìn Tự Chính Mình.<Br>Có Làm Hay Không Làm.<Br>
 category:
-  - pham-hoa
-  - Phẩm Hoa
-tag:
   - pham-hoa
 ---
 
-# Bài kệ 50 - Pham Hoa
+# Bài kệ 50 - Phẩm Hoa
 
 ![An image](/img/pham-hoa/pham-hoa-050.jpg)
 

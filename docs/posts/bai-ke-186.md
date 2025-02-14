@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 186 - Phẩm Phật Đà
+head:
+  - - meta
+    - name: Bài kệ 186 - Phẩm Phật Đà
+      content: Dầu Mưa Bằng Tiền Vàng,<Br>Các Dục Khó Thỏa Mãn.<Br>Dục Đắng Nhiều Ngọt Ít,<Br>Biết Vậy Là Bậc Trí.<Br>
 category:
-  - pham-phat-da
-  - Phẩm Phật Đà
-tag:
   - pham-phat-da
 ---
 
-# Bài kệ 186 - Pham Phat Da
+# Bài kệ 186 - Phẩm Phật Đà
 
 ![An image](/img/pham-phat-da/pham-phat-da-186.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 356 - Phẩm Tham Ái
+head:
+  - - meta
+    - name: Bài kệ 356 - Phẩm Tham Ái
+      content: Cỏ Làm Hại Ruộng Vườn,<Br>Tham Làm Hại Người Đời.<Br>Bố Thí Người Ly Tham,<Br>Do Vậy Được Quả Lớn.<Br>
 category:
-  - pham-tham-ai
-  - Phẩm Tham Ái
-tag:
   - pham-tham-ai
 ---
 
-# Bài kệ 356 - Pham Tham Ai
+# Bài kệ 356 - Phẩm Tham Ái
 
 ![An image](/img/pham-tham-ai/pham-tham-ai-356.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 124 - Phẩm Ác
+head:
+  - - meta
+    - name: Bài kệ 124 - Phẩm Ác
+      content: Bàn Tay Không Thương Tích,<Br>Có Thể Cầm Thuốc Độc.<Br>Không Thương Tích, Tránh Độc,<Br>Không Làm, Không Có Ác.<Br>
 category:
-  - pham-ac
-  - Phẩm Ác
-tag:
   - pham-ac
 ---
 
-# Bài kệ 124 - Pham Ac
+# Bài kệ 124 - Phẩm Ác
 
 ![An image](/img/pham-ac/pham-ac-124.jpg)
 

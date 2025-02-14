@@ -65,7 +65,7 @@ defineProps({
   border-radius: 0.4rem;
   color: var(--c-text);
 
-  // text-align: start;
+  text-align: center;
 
   @media (max-width: 419px) {
     border-radius: 0;

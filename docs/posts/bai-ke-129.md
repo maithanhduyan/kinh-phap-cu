@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 129 - Phẩm Hình Phạt
+head:
+  - - meta
+    - name: Bài kệ 129 - Phẩm Hình Phạt
+      content: Mọi Người Sợ Hình Phạt,<Br>Mọi Người Sợ Tử Vong.<Br>Lấy Mình Làm Ví Dụ<Br>Không Giết, Không Bảo Giết.<Br>
 category:
-  - pham-hinh-phat
-  - Phẩm Hình Phạt
-tag:
   - pham-hinh-phat
 ---
 
-# Bài kệ 129 - Pham Hinh Phat
+# Bài kệ 129 - Phẩm Hình Phạt
 
 ![An image](/img/pham-hinh-phat/pham-hinh-phat-129.jpg)
 

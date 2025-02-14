@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 79 - Phẩm Hiền Trí
+head:
+  - - meta
+    - name: Bài kệ 79 - Phẩm Hiền Trí
+      content: Pháp Hỷ Đem An Lạc,<Br>Với Tâm Tư Thuần Tịnh;<Br>Người Trí Thường Hoan Hỷ,<Br>Với Pháp Bậc Thánh Thuyết.<Br>
 category:
-  - pham-hien-tri
-  - Phẩm Hiền Trí
-tag:
   - pham-hien-tri
 ---
 
-# Bài kệ 79 - Pham Hien Tri
+# Bài kệ 79 - Phẩm Hiền Trí
 
 ![An image](/img/pham-hien-tri/pham-hien-tri-079.jpg)
 

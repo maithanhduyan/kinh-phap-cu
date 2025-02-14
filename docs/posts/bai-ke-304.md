@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 304 - Phẩm Tạp Lục
+head:
+  - - meta
+    - name: Bài kệ 304 - Phẩm Tạp Lục
+      content: Người Lành Dầu Ở Xa<Br>Sáng Tỏ Như Núi Tuyết,<Br>Người Ác Dầu Ở Gần<Br>Như Tên Bắn Đêm Đen.<Br>
 category:
-  - pham-tap-luc
-  - Phẩm Tạp Lục
-tag:
   - pham-tap-luc
 ---
 
-# Bài kệ 304 - Pham Tap Luc
+# Bài kệ 304 - Phẩm Tạp Lục
 
 ![An image](/img/pham-tap-luc/pham-tap-luc-304.jpg)
 

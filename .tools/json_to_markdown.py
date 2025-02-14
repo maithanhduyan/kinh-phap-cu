@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 def json_to_markdown(json_data, output_dir="../docs/posts/"):
     os.makedirs(output_dir, exist_ok=True)
@@ -8,19 +9,21 @@ def json_to_markdown(json_data, output_dir="../docs/posts/"):
         file_name = f"bai-ke-{item['number']}.md"
         file_path = os.path.join(output_dir, file_name)
 
+        meta_item_content = re.sub(r'[:]', ' ',item['content'])
         markdown_content = f"""---
 date: {item['created_at']}
 update: {item['updated_at']}
 
 title: Bài kệ {item['number']} - {item['category_name'].replace('-', ' ').title()}
+head:
+  - - meta
+    - name: Bài kệ {item['number']} - {item['category_name'].replace('-', ' ').title()}
+      content: {item['content'].replace(':', ' ').title()}
 category:
-  - {item['pham']}
-  - {item['category_name']}
-tag:
   - {item['pham']}
 ---
 
-# Bài kệ {item['number']} - {item['pham'].replace('-', ' ').title()}
+# Bài kệ {item['number']} - {item['category_name'].replace('-', ' ').title()}
 
 ![An image](/{item['img_url']})
 

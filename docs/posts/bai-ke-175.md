@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 175 - Phẩm Thế Gian
+head:
+  - - meta
+    - name: Bài kệ 175 - Phẩm Thế Gian
+      content: Như Chim Thiên Nga Bay,<Br>Thần Thông Liệng Giữa Trời;<Br>Chiến Thắng Ma, Ma Quân,<Br>Kẻ Trí Thoát Đời Này.<Br>
 category:
-  - pham-the-gian
-  - Phẩm Thế Gian
-tag:
   - pham-the-gian
 ---
 
-# Bài kệ 175 - Pham The Gian
+# Bài kệ 175 - Phẩm Thế Gian
 
 ![An image](/img/pham-the-gian/pham-the-gian-175.jpg)
 

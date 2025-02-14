@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 346 - Phẩm Tham Ái
+head:
+  - - meta
+    - name: Bài kệ 346 - Phẩm Tham Ái
+      content: Người Có Trí Nói Rằng <Br>“Trói Buộc Này Thật Bền.<Br>Rì Kéo Xuống, Lún Xuống,<Br>Nhưng Thật Sự Khó Thoát.<Br>Người Trí Cắt Trừ Nó,<Br>Bỏ Dục Lạc, Không Màng.<Br>
 category:
-  - pham-tham-ai
-  - Phẩm Tham Ái
-tag:
   - pham-tham-ai
 ---
 
-# Bài kệ 346 - Pham Tham Ai
+# Bài kệ 346 - Phẩm Tham Ái
 
 ![An image](/img/pham-tham-ai/pham-tham-ai-346.jpg)
 

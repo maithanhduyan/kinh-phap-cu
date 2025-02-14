@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 151 - Phẩm Già
+head:
+  - - meta
+    - name: Bài kệ 151 - Phẩm Già
+      content: Xe Vua Đẹp Cũng Già.<Br>Thân Này Rồi Sẽ Già,<Br>Pháp Bậc Thiện, Không Già.<Br>Như Vậy Bậc Chí Thiện<Br>Nói Lên Cho Bậc Thiện.<Br>
 category:
-  - pham-gia
-  - Phẩm Già
-tag:
   - pham-gia
 ---
 
-# Bài kệ 151 - Pham Gia
+# Bài kệ 151 - Phẩm Già
 
 ![An image](/img/pham-gia/pham-gia-151.jpg)
 

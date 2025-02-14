@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 362 - Phẩm Tỳ Kheo
+head:
+  - - meta
+    - name: Bài kệ 362 - Phẩm Tỳ Kheo
+      content: Người Chế Ngự Tay Chân,<Br>Chế Ngự Lời Và Đầu,<Br>Vui Thích Nội Thiền Định.<Br>Ðộc Thân, Biết Vừa Đủ,<Br>Thật Xứng Gọi Tỷ Kheo.<Br>
 category:
-  - pham-ty-kheo
-  - Phẩm Tỳ Kheo
-tag:
   - pham-ty-kheo
 ---
 
-# Bài kệ 362 - Pham Ty Kheo
+# Bài kệ 362 - Phẩm Tỳ Kheo
 
 ![An image](/img/pham-ty-kheo/pham-ty-kheo-362.jpg)
 

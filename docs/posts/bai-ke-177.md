@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 177 - Phẩm Thế Gian
+head:
+  - - meta
+    - name: Bài kệ 177 - Phẩm Thế Gian
+      content: Keo Kiết Không Sanh Thiên,<Br>Kẻ Ngu Ghét Bố Thí,<Br>Người Trí Thích Bố Thí,<Br>Ðời Sau, Được Hưởng Lạc.<Br>
 category:
-  - pham-the-gian
-  - Phẩm Thế Gian
-tag:
   - pham-the-gian
 ---
 
-# Bài kệ 177 - Pham The Gian
+# Bài kệ 177 - Phẩm Thế Gian
 
 ![An image](/img/pham-the-gian/pham-the-gian-177.jpg)
 

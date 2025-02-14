@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 333 - Phẩm Voi
+head:
+  - - meta
+    - name: Bài kệ 333 - Phẩm Voi
+      content: Vui Thay, Già Có Giới!<Br>Vui Thay, Tín An Trú!<Br>Vui Thay, Được Trí Tuệ,<Br>Vui Thay, Ác Không Làm.<Br>
 category:
-  - pham-voi
-  - Phẩm Voi
-tag:
   - pham-voi
 ---
 
-# Bài kệ 333 - Pham Voi
+# Bài kệ 333 - Phẩm Voi
 
 ![An image](/img/pham-voi/pham-voi-333.jpg)
 

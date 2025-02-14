@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 353 - Phẩm Tham Ái
+head:
+  - - meta
+    - name: Bài kệ 353 - Phẩm Tham Ái
+      content: Ta Hàng Phục Tất Cả,<Br>Ta Rõ Biết Tất Cả,<Br>Không Bị Nhiễm Pháp Nào.<Br>Ta Từ Bỏ Tất Cả<Br>Ái Diệt, Tự Giải Thoát.<Br>Ðã Tự Mình Thắng Trí,<Br>Ta Gọi Ai Thầy Ta?<Br>
 category:
-  - pham-tham-ai
-  - Phẩm Tham Ái
-tag:
   - pham-tham-ai
 ---
 
-# Bài kệ 353 - Pham Tham Ai
+# Bài kệ 353 - Phẩm Tham Ái
 
 ![An image](/img/pham-tham-ai/pham-tham-ai-353.jpg)
 

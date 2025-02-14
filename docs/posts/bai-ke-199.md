@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 199 - Phẩm An Lạc
+head:
+  - - meta
+    - name: Bài kệ 199 - Phẩm An Lạc
+      content: Vui Thay, Chúng Ta Sống,<Br>Không Rộn Giữa Rộn Ràng;<Br>Giữa Những Người Rộn Ràng,<Br>Ta Sống, Không Rộn Ràng.<Br>
 category:
-  - pham-an-lac
-  - Phẩm An Lạc
-tag:
   - pham-an-lac
 ---
 
-# Bài kệ 199 - Pham An Lac
+# Bài kệ 199 - Phẩm An Lạc
 
 ![An image](/img/pham-an-lac/pham-an-lac-199.jpg)
 

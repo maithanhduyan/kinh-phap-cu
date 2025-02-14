@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 99 - Phẩm A La Hán
+head:
+  - - meta
+    - name: Bài kệ 99 - Phẩm A La Hán
+      content: Khả Ái Thay Núi Rừng,<Br>Chỗ Người Phàm Không Ưa,<Br>Vị Ly Tham Ưa Thích,<Br>Vì Không Tìm Dục Lạc.<Br>
 category:
-  - pham-a-la-han
-  - Phẩm A-La-Hán
-tag:
   - pham-a-la-han
 ---
 
-# Bài kệ 99 - Pham A La Han
+# Bài kệ 99 - Phẩm A La Hán
 
 ![An image](/img/pham-a-la-han/pham-a-la-han-099.jpg)
 

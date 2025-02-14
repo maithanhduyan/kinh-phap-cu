@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 371 - Phẩm Tỳ Kheo
+head:
+  - - meta
+    - name: Bài kệ 371 - Phẩm Tỳ Kheo
+      content: Tỷ Kheo, Hãy Tu Thiền,<Br>Chớ Buông Lung Phóng Dật,<Br>Tâm Chớ Đắm Say Dục,<Br>Phóng Dật, Nuốt Sắt Nóng<Br>Bị Đốt, Chớ Than Khổ!<Br>
 category:
-  - pham-ty-kheo
-  - Phẩm Tỳ Kheo
-tag:
   - pham-ty-kheo
 ---
 
-# Bài kệ 371 - Pham Ty Kheo
+# Bài kệ 371 - Phẩm Tỳ Kheo
 
 ![An image](/img/pham-ty-kheo/pham-ty-kheo-371.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 299 - Phẩm Tạp Lục
+head:
+  - - meta
+    - name: Bài kệ 299 - Phẩm Tạp Lục
+      content: Ðệ Tử Gotama,<Br>Luôn Luôn Tự Tỉnh Giác,<Br>Vô Luận Ngày Hay Đêm,<Br>Tưởng Sắc Thân Thường Niệm.<Br>
 category:
-  - pham-tap-luc
-  - Phẩm Tạp Lục
-tag:
   - pham-tap-luc
 ---
 
-# Bài kệ 299 - Pham Tap Luc
+# Bài kệ 299 - Phẩm Tạp Lục
 
 ![An image](/img/pham-tap-luc/pham-tap-luc-299.jpg)
 

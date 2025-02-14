@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 75 - Phẩm Ngu
+head:
+  - - meta
+    - name: Bài kệ 75 - Phẩm Ngu
+      content: Khác Thay Duyên Thế Lợi,<Br>Khác Thay Đường Niết Bàn.<Br>Tỷ Kheo, Đệ Tử Phật,<Br>Hãy Như Vậy Thắng Tri.<Br>Chớ Ưa Thích Cung Kính,<Br>Hãy Tu Hạnh Viễn Ly.<Br>
 category:
-  - pham-ngu
-  - Phẩm Ngu
-tag:
   - pham-ngu
 ---
 
-# Bài kệ 75 - Pham Ngu
+# Bài kệ 75 - Phẩm Ngu
 
 ![An image](/img/pham-ngu/pham-ngu-075.jpg)
 

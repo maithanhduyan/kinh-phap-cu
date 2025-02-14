@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 152 - Phẩm Già
+head:
+  - - meta
+    - name: Bài kệ 152 - Phẩm Già
+      content: Người Ít Nghe Kém Học,<Br>Lớn Già Như Trâu Đực.<Br>Thịt Nó Tuy Lớn Lên,<Br>Nhưng Tuệ Không Tăng Trưởng.<Br>
 category:
-  - pham-gia
-  - Phẩm Già
-tag:
   - pham-gia
 ---
 
-# Bài kệ 152 - Pham Gia
+# Bài kệ 152 - Phẩm Già
 
 ![An image](/img/pham-gia/pham-gia-152.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 182 - Phẩm Phật Đà
+head:
+  - - meta
+    - name: Bài kệ 182 - Phẩm Phật Đà
+      content: Khó Thay, Được Làm Người,<Br>Khó Thay, Được Sống Còn,<Br>Khó Thay, Nghe Diệu Pháp,<Br>Khó Thay, Phật Ra Đời!<Br>
 category:
-  - pham-phat-da
-  - Phẩm Phật Đà
-tag:
   - pham-phat-da
 ---
 
-# Bài kệ 182 - Pham Phat Da
+# Bài kệ 182 - Phẩm Phật Đà
 
 ![An image](/img/pham-phat-da/pham-phat-da-182.jpg)
 

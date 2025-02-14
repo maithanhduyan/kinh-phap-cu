@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 114 - Phẩm Ngàn
+head:
+  - - meta
+    - name: Bài kệ 114 - Phẩm Ngàn
+      content: Ai Sống Một Trăm Năm,<Br>Không Thấy Câu Bất Tử,<Br>Tốt Hơn Sống Một Ngày,<Br>Thấy Được Câu Bất Tử.<Br>
 category:
-  - pham-ngan
-  - Phẩm Ngàn
-tag:
   - pham-ngan
 ---
 
-# Bài kệ 114 - Pham Ngan
+# Bài kệ 114 - Phẩm Ngàn
 
 ![An image](/img/pham-ngan/pham-ngan-114.jpg)
 

@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 15 - Phẩm Song Yếu
+head:
+  - - meta
+    - name: Bài kệ 15 - Phẩm Song Yếu
+      content: Nay Sầu, Đời Sau Sầu,<Br>Kẻ Ác, Hai Đời Sầu;<Br>Nó Sầu, Nó Ưu Não,<Br>Thấy Nghiệp Uế Mình Làm.<Br>
 category:
-  - pham-song-yeu
-  - Phẩm Song Yếu
-tag:
   - pham-song-yeu
 ---
 
-# Bài kệ 15 - Pham Song Yeu
+# Bài kệ 15 - Phẩm Song Yếu
 
 ![An image](/img/pham-song-yeu/pham-song-yeu-015.jpg)
 

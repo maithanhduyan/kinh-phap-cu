@@ -3,14 +3,15 @@ date: 2020-06-12 04:10:19
 update: 2020-06-12 04:10:19
 
 title: Bài kệ 65 - Phẩm Ngu
+head:
+  - - meta
+    - name: Bài kệ 65 - Phẩm Ngu
+      content: Người Trí, Dầu Một Khắc,<Br>Thân Cận Người Có Trí,<Br>Biết Ngay Chân Diệu Pháp,<Br>Như Lưỡi Với Vị Canh.<Br>
 category:
-  - pham-ngu
-  - Phẩm Ngu
-tag:
   - pham-ngu
 ---
 
-# Bài kệ 65 - Pham Ngu
+# Bài kệ 65 - Phẩm Ngu
 
 ![An image](/img/pham-ngu/pham-ngu-065.jpg)
 
