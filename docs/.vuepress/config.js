@@ -9,12 +9,16 @@ import { head } from './head'
 export default defineUserConfig({
   base: process.env.NODE_ENV === 'production' ? '/kinh-phap-cu/' : '/',
   lang: 'vi-VN',
-
   title: 'Kinh Pháp Cú',
   description: 'Kinh Pháp Cú',
 
   theme: defaultTheme({
+
     logo: '/img/icon/buddha_vector_icon.png',
+    repo: 'maithanhduyan/kinh-phap-cu',
+    docsRepo: 'maithanhduyan/kinh-phap-cu',
+    docsDir: 'docs',
+    docsBranch: 'master',
     head: head,
     navbar: navbar,
     sidebar: sidebar,
