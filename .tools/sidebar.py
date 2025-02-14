@@ -2,7 +2,7 @@ import json
 import os
 
 # Đọc dữ liệu từ file data.json
-with open("data_merged.json", "r", encoding="utf-8") as f:
+with open("data.json", "r", encoding="utf-8") as f:
     posts = json.load(f)
 
 # Nhóm các bài theo category_name và lưu lại thông tin cần thiết

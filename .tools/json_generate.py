@@ -523,5 +523,5 @@ json_output = json.dumps(baike_data, ensure_ascii=False, indent=2)
 print(json_output)
 
 # Nếu cần lưu vào file:
-with open("data_merged.json", "w", encoding="utf-8") as f:
+with open("data.json", "w", encoding="utf-8") as f:
     f.write(json_output)

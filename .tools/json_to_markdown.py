@@ -35,7 +35,7 @@ category:
         print(f"Created {file_path}")
 
 # Đọc dữ liệu từ file data.json
-with open("data_merged.json", "r", encoding="utf-8") as json_file:
+with open("data.json", "r", encoding="utf-8") as json_file:
     json_data = json.load(json_file)
 # json_data =""
 

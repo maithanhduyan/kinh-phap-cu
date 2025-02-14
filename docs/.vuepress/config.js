@@ -13,7 +13,8 @@ export default defineUserConfig({
   description: 'Kinh Pháp Cú',
 
   theme: defaultTheme({
-    hostname: 'https://maithanhduyan.github.io/kinh-phap-cu',
+    hostname: 'https://maithanhduyan.github.io/kinh-phap-cu/',
+    base: process.env.NODE_ENV === 'production' ? '/kinh-phap-cu/' : '/',
     logo: '/img/icon/buddha_vector_icon.png',
     head: head,
     navbar: navbar,
@@ -74,6 +75,50 @@ export default defineUserConfig({
           }
         },
 
+      ],
+
+      type: [
+        {
+          key: 'article',
+          // Remove archive articles
+          filter: (page) => !page.frontmatter.archive,
+          layout: 'Article',
+          frontmatter: () => ({
+            title: 'Articles',
+            sidebar: false,
+          }),
+          // Sort pages with time and sticky
+          sorter: (pageA, pageB) => {
+            if (pageA.frontmatter.sticky && pageB.frontmatter.sticky)
+              return pageB.frontmatter.sticky - pageA.frontmatter.sticky
+
+            if (pageA.frontmatter.sticky && !pageB.frontmatter.sticky) return -1
+
+            if (!pageA.frontmatter.sticky && pageB.frontmatter.sticky) return 1
+
+            if (!pageB.frontmatter.date) return 1
+            if (!pageA.frontmatter.date) return -1
+
+            return (
+              new Date(pageB.frontmatter.date).getTime() -
+              new Date(pageA.frontmatter.date).getTime()
+            )
+          },
+        },
+        {
+          key: 'timeline',
+          // Only article with date should be added to timeline
+          filter: (page) => page.frontmatter.date instanceof Date,
+          // Sort pages with time
+          sorter: (pageA, pageB) =>
+            new Date(pageB.frontmatter.date).getTime() -
+            new Date(pageA.frontmatter.date).getTime(),
+          layout: 'Timeline',
+          frontmatter: () => ({
+            title: 'Timeline',
+            sidebar: false,
+          }),
+        },
       ],
 
       hotReload: true,
