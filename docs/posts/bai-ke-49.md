@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 49 - Phẩm Hoa
       content: Như Ong Đến Với Hoa,<Br>Không Hại Sắc Và Hương,<Br>Che Chở Hoa, Lấy Nhụy.<Br>Bậc Thánh Đi Vào Làng.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-049.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-049.jpg }]
 category:
   - pham-hoa

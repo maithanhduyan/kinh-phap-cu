@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 325 - Phẩm Voi
       content: Người Ưa Ngủ, Ăn Lớn<Br>Nằm Lăn Lóc Qua Lại,<Br>Chẳng Khác Heo No Bụng,<Br>Kẻ Ngu Nhập Thai Mãi.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-325.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-325.jpg }]
 category:
   - pham-voi

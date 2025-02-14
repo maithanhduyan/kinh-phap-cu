@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 130 - Phẩm Hình Phạt
       content: Mọi Người Sợ Hình Phạt,<Br>Mọi Người Thích Sống Còn;<Br>Lấy Mình Làm Ví Dụ,<Br>Không Giết, Không Bảo Giết.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-130.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-130.jpg }]
 category:
   - pham-hinh-phat

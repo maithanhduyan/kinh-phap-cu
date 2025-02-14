@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 12 - Phẩm Song Yếu
       content: Chân Thật, Biết Chân Thật,<Br>Không Chân, Biết Không Chân <Br>Chúng Đạt Được Chân Thật,<Br>Do Chánh Tư, Chánh Hạnh.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-012.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-012.jpg }]
 category:
   - pham-song-yeu

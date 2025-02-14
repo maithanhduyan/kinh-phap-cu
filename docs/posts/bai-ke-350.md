@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 350 - Phẩm Tham Ái
       content: Ai Vui, An Tịnh Ý,<Br>Quán Bất Tịnh, Thường Niệm,<Br>Người Ấy Sẽ Diệt Ái,<Br>Cắt Đứt Ma Trói Buộc.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-350.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-350.jpg }]
 category:
   - pham-tham-ai

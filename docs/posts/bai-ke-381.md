@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 381 - Phẩm Tỳ Kheo
       content: Tỷ Kheo Nhiều Hân Hoan,<Br>Tịnh Tín Giáo Pháp Phật,<Br>Chứng Cảnh Giới Tịch Tịnh,<Br>Các Hạnh An Tịnh Lạc.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-381.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-381.jpg }]
 category:
   - pham-ty-kheo

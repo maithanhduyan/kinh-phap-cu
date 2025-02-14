@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 146 - Phẩm Già
       content: Cười Gì, Hân Hoan Gì,<Br>Khi Đời Mãi Bị Thiêu?<Br>Bị Tối Tăm Bao Trùm,<Br>Sao Không Tìm Ngọn Đèn?<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-146.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-146.jpg }]
 category:
   - pham-gia

@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 13 - Phẩm Song Yếu
       content: Như Mái Nhà Vụng Lợp,<Br>Mưa Liền Xâm Nhập Vào.<Br>Cũng Vậy Tâm Không Tu,<Br>Tham Dục Liền Xâm Nhập.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-013.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-013.jpg }]
 category:
   - pham-song-yeu

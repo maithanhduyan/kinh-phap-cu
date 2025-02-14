@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 207 - Phẩm An Lạc
       content: Sống Chung Với Người Ngu,<Br>Lâu Dài Bị Lo Buồn.<Br>Khổ Thay Gần Người Ngu,<Br>Như Thường Sống Kẻ Thù.<Br>Vui Thay, Gần Người Trí,<Br>Như Chung Sống Bà Con.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-an-lac/pham-an-lac-207.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-an-lac/pham-an-lac-207.jpg }]
 category:
   - pham-an-lac

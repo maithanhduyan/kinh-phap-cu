@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 349 - Phẩm Tham Ái
       content: Người Tà Ý Nhiếp Phục,<Br>Tham Sắc Bén Nhìn Tịnh,<Br>Người Ấy Ái Tăng Trưởng,<Br>Làm Giây Trói Mình Chặt.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-349.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-349.jpg }]
 category:
   - pham-tham-ai

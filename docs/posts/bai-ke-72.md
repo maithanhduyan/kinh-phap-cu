@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 72 - Phẩm Ngu
       content: Tự Nó Chịu Bất Hạnh,<Br>Khi Danh Đến Kẻ Ngu.<Br>Vận May Bị Tổn Hại,<Br>Ðầu Nó Bị Nát Tan.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-072.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-072.jpg }]
 category:
   - pham-ngu

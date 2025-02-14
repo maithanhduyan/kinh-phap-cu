@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 96 - Phẩm A La Hán
       content: Người Tâm Ý An Tịnh,<Br>Lời An, Nghiệp Cũng An,<Br>Chánh Trí, Chơn Giải Thoát,<Br>Tịnh Lạc Là Vị Ấy.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-a-la-han/pham-a-la-han-096.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-a-la-han/pham-a-la-han-096.jpg }]
 category:
   - pham-a-la-han

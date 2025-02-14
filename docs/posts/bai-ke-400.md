@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 400 - Phẩm Bà La Môn
       content: Không Hận, Hết Bổn Phận,<Br>Trì Giới, Không Tham Ái,<Br>Nhiếp Phục, Thân Cuối Cùng,<Br>Ta Gọi Bà-La-Môn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-400.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-400.jpg }]
 category:
   - pham-ba-la-mon

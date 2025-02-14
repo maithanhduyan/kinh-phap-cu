@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 251 - Phẩm Cấu Uế
       content: Lửa Nào Bằng Lửa Tham!<Br>Chấp Nào Bằng Sân Hận!<Br>Lưới Nào Bằng Lưới Si!<Br>Sông Nào Bằng Sông Ái!<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-251.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-251.jpg }]
 category:
   - pham-cau-ue

@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 392 - Phẩm Bà La Môn
       content: Từ Ai, Biết Chánh Pháp<Br>Bậc Chánh Giác Thuyết Giảng,<Br>Hãy Kính Lễ Vị Ấy,<Br>Như Phạm Chí Chờ Lửa.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-392.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-392.jpg }]
 category:
   - pham-ba-la-mon

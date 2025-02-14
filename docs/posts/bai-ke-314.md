@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 314 - Phẩm Địa Ngục
       content: Ác Hạnh Không Nên Làm,<Br>Làm Xong, Chịu Khổ Lụy,<Br>Thiện Hạnh, Ắt Nên Làm,<Br>Làm Xong, Không Ăn Năn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-314.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-314.jpg }]
 category:
   - pham-dia-nguc

@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 77 - Phẩm Hiền Trí
       content: Những Người Hay Khuyên Dạy,<Br>Ngăn Người Khác Làm Ác,<Br>Ðược Người Hiền Kính Yêu,<Br>Bị Người Ác Không Thích.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-077.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-077.jpg }]
 category:
   - pham-hien-tri

@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 150 - Phẩm Già
       content: Thành Này Làm Bằng Xương,<Br>Quét Tô Bằng Thịt Máu,<Br>Ở Đây Già Và Chết,<Br>Mạn, Lừa Đảo Chất Chứa.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-150.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-150.jpg }]
 category:
   - pham-gia

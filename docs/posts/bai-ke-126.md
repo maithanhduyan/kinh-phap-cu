@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 126 - Phẩm Ác
       content: Một Số Sinh Bào Thai,<Br>Kẻ Ác Sinh Địa Ngục,<Br>Người Thiện Lên Cõi Trời,<Br>Vô Lậu Chứng Niết Bàn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ac/pham-ac-126.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ac/pham-ac-126.jpg }]
 category:
   - pham-ac

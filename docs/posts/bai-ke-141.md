@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 141 - Phẩm Hình Phạt
       content: Không Phải Sống Lõa Thể<Br>Bện Tóc, Tro Trét Mình,<Br>Tuyệt Thực, Lăn Trên Đất,<Br>Sống Nhớp, Siêng Ngồi Xổm,<Br>Làm Con Người Được Sạch,<Br>Nếu Không Trừ Nghi Hoặc.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-141.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-141.jpg }]
 category:
   - pham-hinh-phat

@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 194 - Phẩm Phật Đà
       content: Vui Thay, Phật Ra Đời!<Br>Vui Thay, Pháp Được Giảng!<Br>Vui Thay, Tăng Hòa Hợp!<Br>Hòa Hợp Tu, Vui Thay!<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phat-da/pham-phat-da-194.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phat-da/pham-phat-da-194.jpg }]
 category:
   - pham-phat-da

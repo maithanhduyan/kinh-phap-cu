@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 5 - Phẩm Song Yếu
       content: Với Hận Diệt Hận Thù,<Br>Ðời Này Không Có Được.<Br>Không Hận Diệt Hận Thù,<Br>Là Định Luật Ngàn Thu.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-005.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-005.jpg }]
 category:
   - pham-song-yeu

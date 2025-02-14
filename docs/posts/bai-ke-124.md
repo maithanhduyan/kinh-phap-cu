@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 124 - Phẩm Ác
       content: Bàn Tay Không Thương Tích,<Br>Có Thể Cầm Thuốc Độc.<Br>Không Thương Tích, Tránh Độc,<Br>Không Làm, Không Có Ác.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ac/pham-ac-124.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ac/pham-ac-124.jpg }]
 category:
   - pham-ac

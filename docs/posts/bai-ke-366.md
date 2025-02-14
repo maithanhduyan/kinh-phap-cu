@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 366 - Phẩm Tỳ Kheo
       content: Tỷ Kheo Dầu Được Ít,<Br>Không Khinh Điều Mình Được,<Br>Sống Thanh Tịnh Không Nhác,<Br>Chư Thiên Khen Vị Này.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-366.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-366.jpg }]
 category:
   - pham-ty-kheo

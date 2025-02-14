@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 33 - Phẩm Tâm
       content: Tâm Hoảng Hốt Giao Động,<Br>Khó Hộ Trì, Khó Nhiếp,<Br>Người Trí Làm Tâm Thẳng,<Br>Như Thợ Tên, Làm Tên.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tam/pham-tam-033.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tam/pham-tam-033.jpg }]
 category:
   - pham-tam

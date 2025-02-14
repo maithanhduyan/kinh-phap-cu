@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 273 - Phẩm Đạo
       content: Tám Chánh, Đường Thù Thắng,<Br>Bốn Câu, Lý Thù Thắng.<Br>Ly Tham, Pháp Thù Thắng,<Br>Giữa Các Loài Hai Chân,<Br>Pháp Nhãn, Người Thù Thắng.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-273.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-273.jpg }]
 category:
   - pham-dao

@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 351 - Phẩm Tham Ái
       content: Ai Tới Đích, Không Sợ,<Br>Ly Ái, Không Nhiễm Ô<Br>Nhổ Mũi Tên Sanh Tử,<Br>Thân Này Thân Cuối Cùng.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-351.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-351.jpg }]
 category:
   - pham-tham-ai

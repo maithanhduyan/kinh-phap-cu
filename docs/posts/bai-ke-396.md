@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 396 - Phẩm Bà La Môn
       content: Ta Không Gọi Phạm Chí,<Br>Vì Chỗ Sanh, Mẹ Sanh.<Br>Chỉ Được Gọi Tên Suông<Br>Nếu Tâm Còn Phiền Não.<Br>Không Phiền Não, Chấp Trước<Br>Ta Gọi Bà-La-Môn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-396.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-396.jpg }]
 category:
   - pham-ba-la-mon

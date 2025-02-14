@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 189 - Phẩm Phật Đà
       content: Quy Y Ấy Không Ổn,<Br>Không Quy Y Tối Thượng.<Br>Quy Y Các Chỗ Ấy,<Br>Không Thoát Mọi Khổ Đau.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phat-da/pham-phat-da-189.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phat-da/pham-phat-da-189.jpg }]
 category:
   - pham-phat-da

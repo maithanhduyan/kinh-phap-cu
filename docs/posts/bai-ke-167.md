@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 167 - Phẩm Thế Gian
       content: Dầu Lợi Người Bao Nhiêu,<Br>Chớ Quên Phần Tư Lợi,<Br>Nhờ Thắng Trí Tư Lợi.<Br>Hãy Chuyên Tâm Lợi Mình.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-the-gian/pham-the-gian-167.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-the-gian/pham-the-gian-167.jpg }]
 category:
   - pham-the-gian

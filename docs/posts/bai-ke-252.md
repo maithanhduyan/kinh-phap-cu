@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 252 - Phẩm Cấu Uế
       content: Dễ Thay Thấy Lỗi Người,<Br>Lỗi Mình Thấy Mới Khó.<Br>Lỗi Người Ta Phanh Tìm,<Br>Như Sàng Trấu Trong Gạo,<Br>Còn Lỗi Mình, Che Đậy,<Br>Như Kẻ Gian Dấu Bài.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-252.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-252.jpg }]
 category:
   - pham-cau-ue

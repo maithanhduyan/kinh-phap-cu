@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 174 - Phẩm Thế Gian
       content: Ðời Này Thật Mù Quáng,<Br>Ít Kẻ Thấy Rõ Ràng.<Br>Như Chim Thoát Khỏi Lưới,<Br>Rất Ít Đi Thiên Giới.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-the-gian/pham-the-gian-174.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-the-gian/pham-the-gian-174.jpg }]
 category:
   - pham-the-gian

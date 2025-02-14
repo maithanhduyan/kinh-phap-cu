@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 113 - Phẩm Ngàn
       content: Ai Sống Một Trăm Năm,<Br>Không Thấy Pháp Sinh Diệt,<Br>Tốt Hơn Sống Một Ngày,<Br>Thấy Được Pháp Sinh Diệt.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-113.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-113.jpg }]
 category:
   - pham-ngan

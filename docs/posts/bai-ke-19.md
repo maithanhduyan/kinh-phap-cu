@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 19 - Phẩm Song Yếu
       content: Nếu Người Nói Nhiều Kinh,<Br>Không Hành Trì, Phóng Dật;<Br>Như Kẻ Chăn Bò Người,<Br>Không Phần Sa Môn Hạnh.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-019.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-019.jpg }]
 category:
   - pham-song-yeu

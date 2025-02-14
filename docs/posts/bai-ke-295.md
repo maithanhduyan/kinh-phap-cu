@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 295 - Phẩm Tạp Lục
       content: Sau Khi Giết Mẹ Cha,<Br>Hai Vua Bà-La-Môn,<Br>Giết Hổ Tướng Thứ Năm<Br>Vô Ưu, Phạm Chí Sống.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tap-luc/pham-tap-luc-295.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tap-luc/pham-tap-luc-295.jpg }]
 category:
   - pham-tap-luc

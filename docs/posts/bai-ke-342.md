@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 342 - Phẩm Tham Ái
       content: Người Bị Ái Buộc Ràng,<Br>Vùng Vẫy Và Hoảng Sợ,<Br>Như Thỏ Bị Sa Lưới.<Br>Họ Sanh Ái Trói Buộc,<Br>Chịu Khổ Đau Dài Dài.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-342.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-342.jpg }]
 category:
   - pham-tham-ai

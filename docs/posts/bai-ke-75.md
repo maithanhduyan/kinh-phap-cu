@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 75 - Phẩm Ngu
       content: Khác Thay Duyên Thế Lợi,<Br>Khác Thay Đường Niết Bàn.<Br>Tỷ Kheo, Đệ Tử Phật,<Br>Hãy Như Vậy Thắng Tri.<Br>Chớ Ưa Thích Cung Kính,<Br>Hãy Tu Hạnh Viễn Ly.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-075.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-075.jpg }]
 category:
   - pham-ngu

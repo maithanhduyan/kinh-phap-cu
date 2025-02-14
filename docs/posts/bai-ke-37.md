@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 37 - Phẩm Tâm
       content: Chạy Xa, Sống Một Mình,<Br>Không Thân, Ẩn Hang Sâu [1]<Br>Ai Điều Phục Được Tâm,<Br>Thoát Khỏi Ma Trói Buộc. [2]<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tam/pham-tam-037.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tam/pham-tam-037.jpg }]
 category:
   - pham-tam

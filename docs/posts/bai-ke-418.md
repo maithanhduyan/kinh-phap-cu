@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 418 - Phẩm Bà La Môn
       content: Bỏ Điều Ưa, Điều Ghét,<Br>Mát Lạnh, Diệt Sanh Y<Br>Bậc Anh Hùng Chiến Thắng,<Br>Nhiếp Phục Mọi Thế Giới,<Br>Ta Gọi Bà-La-Môn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-418.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-418.jpg }]
 category:
   - pham-ba-la-mon

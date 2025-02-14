@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 322 - Phẩm Voi
       content: Tốt Thay, Con La Thuần,<Br>Thuần Chủng Loài Ngựa Xinh.<Br>Ðại Tượng, Voi Có Ngà.<Br>Tự Điều Mới Tối Thượng.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-322.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-322.jpg }]
 category:
   - pham-voi

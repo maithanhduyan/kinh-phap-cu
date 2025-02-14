@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 341 - Phẩm Tham Ái
       content: Người Đời Nhớ Ái Dục,<Br>Ưa Thích Các Hỷ Lạc.<Br>Tuy Mong Cầu An Lạc,<Br>Họ Vẫn Phải Sanh Già.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-341.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-341.jpg }]
 category:
   - pham-tham-ai

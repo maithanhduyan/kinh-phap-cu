@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 63 - Phẩm Ngu
       content: Người Ngu Nghĩ Mình Ngu,<Br>Nhờ Vậy Thành Có Trí.<Br>Người Ngu Tưởng Có Trí,<Br>Thật Xứng Gọi Chí Ngu.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-063.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-063.jpg }]
 category:
   - pham-ngu

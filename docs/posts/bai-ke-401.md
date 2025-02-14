@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 401 - Phẩm Bà La Môn
       content: Như Nước Trên Lá Sen,<Br>Như Hột Cải Đầu Kim,<Br>Người Không Nhiễm Ái Dục,<Br>Ta Gọi Bà-La-Môn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-401.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-401.jpg }]
 category:
   - pham-ba-la-mon

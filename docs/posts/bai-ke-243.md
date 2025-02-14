@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 243 - Phẩm Cấu Uế
       content: Trong Hàng Cấu Uế Ấy,<Br>Vô Minh, Nhơ Tối Thượng,<Br>Ðoạn Nhơ Ấy, Tỷ Kheo,<Br>Thành Bậc Không Uế Nhiễm.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-243.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-243.jpg }]
 category:
   - pham-cau-ue

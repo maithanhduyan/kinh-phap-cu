@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 286 - Phẩm Đạo
       content: Mùa Mưa Ta Ở Đây<Br>Ðông, Hạ Cũng Ở Đây,<Br>Người Ngu Tâm Tưởng Vậy,<Br>Không Tự Giác Hiểm Nguy.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-286.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-286.jpg }]
 category:
   - pham-dao

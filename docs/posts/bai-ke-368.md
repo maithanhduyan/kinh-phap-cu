@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 368 - Phẩm Tỳ Kheo
       content: Tỷ Kheo Trú Từ Bi,<Br>Tín Thành Giáo Pháp Phật,<Br>Chứng Cảnh Giới Tịch Tỉnh.<Br>Các Hạnh An Tịnh Lạc.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-368.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-368.jpg }]
 category:
   - pham-ty-kheo

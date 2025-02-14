@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 354 - Phẩm Tham Ái
       content: Pháp Thí, Thắng Mọi Thí!<Br>Pháp Vị, Thắng Mọi Vị!<Br>Pháp Hỷ, Thắng Mọi Hỷ!<Br>Ái Diệt, Dứt Mọi Khổ!<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-354.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-354.jpg }]
 category:
   - pham-tham-ai

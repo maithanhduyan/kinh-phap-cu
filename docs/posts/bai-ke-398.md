@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 398 - Phẩm Bà La Môn
       content: Bỏ Đai Da , Bỏ Cương <Br>Bỏ Dây , Đồ Sở Thuộc ,<Br>Bỏ Then Chốt , Sáng Suốt,<Br>Ta Gọi Bà-La-Môn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-398.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-398.jpg }]
 category:
   - pham-ba-la-mon

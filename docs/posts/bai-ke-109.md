@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 109 - Phẩm Ngàn
       content: Thường Tôn Trọng, Kính Lễ<Br>Bậc Kỳ Lão Trưởng Thượng,<Br>Bốn Pháp Được Tăng Trưởng <Br>Thọ, Sắc, Lạc, Sức Mạnh.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-109.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-109.jpg }]
 category:
   - pham-ngan

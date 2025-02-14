@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 190 - Phẩm Phật Đà
       content: Ai Quy Y Ðức Phật,<Br>Chánh Pháp Và Chư Tăng,<Br>Ai Dùng Chánh Tri Kiến,<Br>Thấy Được Bốn Thánh Đế.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phat-da/pham-phat-da-190.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phat-da/pham-phat-da-190.jpg }]
 category:
   - pham-phat-da

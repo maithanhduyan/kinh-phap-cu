@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 34 - Phẩm Tâm
       content: Như Cá Quăng Lên Bờ,<Br>Vất Ra Ngoài Thủy Giới;<Br>Tâm Này Vùng Vẫy Mạnh,<Br>Hãy Đoạn Thế Lực Ma.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tam/pham-tam-034.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tam/pham-tam-034.jpg }]
 category:
   - pham-tam

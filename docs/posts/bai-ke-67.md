@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 67 - Phẩm Ngu
       content: Nghiệp Làm Không Chánh Thiện,<Br>Làm Rồi Sanh Ăn Năn,<Br>Mặt Nhuốm Lệ, Khóc Than,<Br>Lãnh Chịu Quả Dị Thục.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-067.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-067.jpg }]
 category:
   - pham-ngu

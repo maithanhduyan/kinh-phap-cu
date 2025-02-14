@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 289 - Phẩm Đạo
       content: Biết Rõ Ý Nghĩa Này,<Br>Bậc Trí Lo Trì Giới,<Br>Mau Lẹ Làm Thanh Tịnh,<Br>Con Đường Đến Niết-Bàn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-289.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-289.jpg }]
 category:
   - pham-dao

@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 88 - Phẩm Hiền Trí
       content: Hãy Cầu Vui Niết Bàn,<Br>Bỏ Dục, Không Sở Hữu,<Br>Kẻ Trí Tự Rửa Sạch,<Br>Cấu Uế Từ Nội Tâm.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-088.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-088.jpg }]
 category:
   - pham-hien-tri

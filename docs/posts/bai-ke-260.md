@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 260 - Phẩm Pháp Trụ
       content: Không Phải Là Trưởng Lão,<Br>Dầu Cho Có Bạc Đầu.<Br>Người Chỉ Tuổi Tác Cao,<Br>Ðược Gọi Là  “Lão Ngu.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-260.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-260.jpg }]
 category:
   - pham-phap-tru

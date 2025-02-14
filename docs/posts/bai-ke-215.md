@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 215 - Phẩm Hỷ Ái
       content: Dục Ái Sinh Sầu Ưu,<Br>Dục Ái Sinh Sợ Hãi,<Br>Ai Thoát Khỏi Dục Ái,<Br>Không Sầu, Đâu Sợ Hãi?<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hy-ai/pham-hy-ai-215.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hy-ai/pham-hy-ai-215.jpg }]
 category:
   - pham-hy-ai

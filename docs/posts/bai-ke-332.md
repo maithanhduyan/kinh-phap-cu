@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 332 - Phẩm Voi
       content: Vui Thay, Hiếu Kính Mẹ,<Br>Vui Thay, Hiếu Kính Cha,<Br>Vui Thay, Kính Sa Môn,<Br>Vui Thay, Kính Hiền Thánh.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-332.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-332.jpg }]
 category:
   - pham-voi

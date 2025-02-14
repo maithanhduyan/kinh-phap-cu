@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 348 - Phẩm Tham Ái
       content: Bỏ Quá, Hiện, Vị Lai,<Br>Ðến Bờ Kia Cuộc Đời,<Br>Ý Giải Thoát Tất Cả,<Br>Chớ Vướng Lại Sanh Già.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-348.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-348.jpg }]
 category:
   - pham-tham-ai

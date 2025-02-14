@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 267 - Phẩm Pháp Trụ
       content: Ai Vượt Qua Thiện Ác,<Br>Chuyên Sống Đời Phạm Hạnh,<Br>Sống Thẩm Sát Ở Đời,<Br>Mới Xứng Danh Tỷ Kheo.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-267.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-267.jpg }]
 category:
   - pham-phap-tru

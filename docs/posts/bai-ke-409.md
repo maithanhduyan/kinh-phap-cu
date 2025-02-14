@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 409 - Phẩm Bà La Môn
       content: Ở Đời, Vật Dài, Ngắn,<Br>Nhỏ, Lớn, Đẹp Hay Xấu<Br>Phàm Không Cho Không Lấy,<Br>Ta Gọi Bà-La-Môn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-409.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-409.jpg }]
 category:
   - pham-ba-la-mon

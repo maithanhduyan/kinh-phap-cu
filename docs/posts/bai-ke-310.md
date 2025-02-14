@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 310 - Phẩm Địa Ngục
       content: Mắc Họa, Đọa Ác Thú,<Br>Bị Hoảng Sợ, Ít Vui.<Br>Quốc Vương Phạt Trọng Hình.<Br>Vậy Chớ Theo Vợ Người.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-310.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-310.jpg }]
 category:
   - pham-dia-nguc

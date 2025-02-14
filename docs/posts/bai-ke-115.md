@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 115 - Phẩm Ngàn
       content: Ai Sống Một Trăm Năm,<Br>Không Thấy Pháp Tối Thượng,<Br>Tốt Hơn Sống Một Ngày,<Br>Thấy Được Pháp Tối Thượng.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-115.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-115.jpg }]
 category:
   - pham-ngan

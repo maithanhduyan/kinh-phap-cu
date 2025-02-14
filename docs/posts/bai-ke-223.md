@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 223 - Phẩm Phẩn Nộ
       content: Lấy Không Giận Thắng Giận,<Br>Lấy Thiện Thắng Không Thiện,<Br>Lấy Thí Thắng Xan Tham,<Br>Lấy Chơn Thắng Hư Ngụy.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phan-no/pham-phan-no-223.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phan-no/pham-phan-no-223.jpg }]
 category:
   - pham-phan-no

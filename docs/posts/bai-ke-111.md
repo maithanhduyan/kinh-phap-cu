@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 111 - Phẩm Ngàn
       content: Ai Sống Một Trăm Năm,<Br>Ác Tuệ, Không Thiền Định.<Br>Tốt Hơn Sống Một Ngày,<Br>Có Tuệ, Tu Thiền Định.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-111.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-111.jpg }]
 category:
   - pham-ngan

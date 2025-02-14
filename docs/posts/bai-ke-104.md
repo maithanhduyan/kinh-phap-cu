@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 104 - Phẩm Ngàn
       content: Tự Thắng, Tốt Đẹp Hơn,<Br>Hơn Chiến Thắng Người Khác.<Br>Người Khéo Điều Phục Mình,<Br>Thường Sống Tự Chế Ngự.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-104.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-104.jpg }]
 category:
   - pham-ngan

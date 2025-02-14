@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 83 - Phẩm Hiền Trí
       content: Người Hiền Bỏ Tất Cả,<Br>Người Lành Không Bàn Dục,<Br>Dầu Cảm Thọ Lạc Khổ,<Br>Bậc Trí Không Vui Buồn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-083.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-083.jpg }]
 category:
   - pham-hien-tri

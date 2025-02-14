@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 40 - Phẩm Tâm
       content: Biết Thân Như Đồ Gốm,<Br>Trú Tâm Như Thành Trì,<Br>Chống Ma Với Gươm Trí ;<Br>Giữ Chiến Thắng [3] Không Tham [4]<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tam/pham-tam-040.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tam/pham-tam-040.jpg }]
 category:
   - pham-tam

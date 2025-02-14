@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 84 - Phẩm Hiền Trí
       content: Không Vì Mình, Vì Người.<Br>Không Cầu Được Con Cái,<Br>Không Tài Sản Quốc Độ,<Br>Không Cầu Mình Thành Tựu,<Br>Với Việc Làm Phi Pháp.<Br>Vị Ấy Thật Trì Giới,<Br>Có Trí Tuệ, Đúng Pháp.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-084.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-084.jpg }]
 category:
   - pham-hien-tri

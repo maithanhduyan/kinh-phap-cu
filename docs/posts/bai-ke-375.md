@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 375 - Phẩm Tỳ Kheo
       content: Ðây Tỷ Kheo Có Trí,<Br>Tụ Tập Pháp Căn Bản<Br>Hộ Căn, Biết Vừa Đủ,<Br>Giữ Gìn Căn Bản Giới,<Br>Thường Gần Gũi Bạn Lành,<Br>Sống Thanh Tịnh Tinh Cần.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-375.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-375.jpg }]
 category:
   - pham-ty-kheo

@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 137 - Phẩm Hình Phạt
       content: Dùng Trượng Phạt Không Trượng,<Br>Làm Ác Người Không Ác.<Br>Trong Mười Loại Khổ Đau,<Br>Chịu Gấp Một Loại Khổ.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-137.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-137.jpg }]
 category:
   - pham-hinh-phat

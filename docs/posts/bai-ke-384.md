@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 384 - Phẩm Bà La Môn
       content: Nhờ Thường Trú Hai Pháp <Br>Ðến Được Bờ Bên Kia.<Br>Bà-La-Môn Có Trí,<Br>Mọi Kiết Sử Dứt Sạch.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-384.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-384.jpg }]
 category:
   - pham-ba-la-mon

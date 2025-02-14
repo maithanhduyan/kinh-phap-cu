@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 1 - Phẩm Song Yếu
       content: Ý Dẫn Đầu Các Pháp,<Br>Ý Làm Chủ, Ý Tạo;<Br>Nếu Với Ý Ô Nhiễm,<Br>Nói Lên Hay Hành Động,<Br>Khổ Não Bước Theo Sau,<Br> Như Xe, Chân Vật Kéo.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-001.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-001.jpg }]
 category:
   - pham-song-yeu

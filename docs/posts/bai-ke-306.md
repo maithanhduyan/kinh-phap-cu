@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 306 - Phẩm Địa Ngục
       content: Nói Láo Đọa Địa Ngục<Br>Có Làm Nói Không Làm,<Br>Cả Hai Chết Đồng Đẳng,<Br>Làm Người, Nghiệp Hạ Liệt.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-306.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-306.jpg }]
 category:
   - pham-dia-nguc

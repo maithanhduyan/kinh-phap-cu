@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 50 - Phẩm Hoa
       content: Không Nên Nhìn Lỗi Người,<Br>Người Làm Hay Không Làm.<Br>Nên Nhìn Tự Chính Mình.<Br>Có Làm Hay Không Làm.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-050.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-050.jpg }]
 category:
   - pham-hoa

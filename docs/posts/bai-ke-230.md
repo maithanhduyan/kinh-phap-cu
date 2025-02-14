@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 230 - Phẩm Phẩn Nộ
       content: Hạnh Sáng Như Vàng Ròng,<Br>Ai Dám Chê Vị Ấy?<Br>Chư Thiên Phải Khen Thưởng,<Br>Phạm Thiên Cũng Tán Dương.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phan-no/pham-phan-no-230.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phan-no/pham-phan-no-230.jpg }]
 category:
   - pham-phan-no

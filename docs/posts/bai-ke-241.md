@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 241 - Phẩm Cấu Uế
       content: Không Tụng Làm Nhớp Kinh,<Br>Không Đứng Dậy, Bẩn Nhà,<Br>Biếng Nhác Làm Nhơ Sắc,<Br>Phóng Dật Uế Người Canh.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-241.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-241.jpg }]
 category:
   - pham-cau-ue

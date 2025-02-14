@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 183 - Phẩm Phật Đà
       content: Không Làm Mọi Điều Ác.<Br>Thành Tựu Các Hạnh Lành,<Br>Tâm Ý Giữ Trong Sạch,<Br>Chính Lời Chư Phật Dạy.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phat-da/pham-phat-da-183.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phat-da/pham-phat-da-183.jpg }]
 category:
   - pham-phat-da

@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 7 - Phẩm Song Yếu
       content: Ai Sống Nhìn Tịnh Tướng,<Br>Không Hộ Trì Các Căn,<Br>Ăn Uống Thiếu Tiết Độ,<Br>Biếng Nhác, Chẳng Tinh Cần.<Br>Ma Uy Hiếp Kẻ Ấy,<Br>Như Cây Yếu Trước Gió.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-007.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-007.jpg }]
 category:
   - pham-song-yeu

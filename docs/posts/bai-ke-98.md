@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 98 - Phẩm A La Hán
       content: Làng Mạc Hay Rừng Núi<Br>Thung Lũng Hay Đồi Cao,<Br>La Hán Trú Chỗ Nào,<Br>Ðất Ấy Thật Khả Ái.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-a-la-han/pham-a-la-han-098.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-a-la-han/pham-a-la-han-098.jpg }]
 category:
   - pham-a-la-han

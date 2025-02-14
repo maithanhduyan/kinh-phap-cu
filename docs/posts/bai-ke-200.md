@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 200 - Phẩm An Lạc
       content: Vui Thay Chúng Ta Sống,<Br>Không Gì, Gọi Của Ta.<Br>Ta Sẽ Hưởng Hỷ Lạc,<Br>Như Chư Thiên Quang Âm.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-an-lac/pham-an-lac-200.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-an-lac/pham-an-lac-200.jpg }]
 category:
   - pham-an-lac

@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 201 - Phẩm An Lạc
       content: Chiến Thắng Sinh Thù Oán,<Br>Thất Bại Chịu Khổ Đau,<Br>Sống Tịch Tịnh An Lạc.<Br>Bỏ Sau Mọi Thắng Bại.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-an-lac/pham-an-lac-201.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-an-lac/pham-an-lac-201.jpg }]
 category:
   - pham-an-lac

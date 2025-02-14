@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 102 - Phẩm Ngàn
       content: Dầu Nói Trăm Câu Kệ<Br>Nhưng Không Gì Lợi Ích,<Br>Tốt Hơn Một Câu Pháp,<Br>Nghe Xong, Được Tịnh Lạc.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-102.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-102.jpg }]
 category:
   - pham-ngan

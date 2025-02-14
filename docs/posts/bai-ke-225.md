@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 225 - Phẩm Phẩn Nộ
       content: Bậc Hiền Không Hại Ai,<Br>Thân Thường Được Chế Ngự,<Br>Ðạt Được Cảnh Bất Tử,<Br>Ðến Đây, Không Ưu Sầu.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phan-no/pham-phan-no-225.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phan-no/pham-phan-no-225.jpg }]
 category:
   - pham-phan-no

@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 308 - Phẩm Địa Ngục
       content: Tốt Hơn Nuốt Hòn Sắt<Br>Cháy Đỏ Như Than Hồng,<Br>Hơn Ác Giới, Buông Lung<Br>Ăn Đồ Ăn Quốc Độ.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-308.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-308.jpg }]
 category:
   - pham-dia-nguc

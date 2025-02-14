@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 254 - Phẩm Cấu Uế
       content: Hư Không, Không Dấu Chân,<Br>Ngoài Đây, Không Sa Môn,<Br>Chúng Sanh Thích Hý Luận,<Br>Như Lai, Hý Luận Trừ.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-254.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-254.jpg }]
 category:
   - pham-cau-ue

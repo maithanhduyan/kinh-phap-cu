@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 408 - Phẩm Bà La Môn
       content: Nói Lên Lời Ôn Hòa,<Br>Lợi Ích Và Chân Thật,<Br>Không Mất Lòng Một Ai,<Br>Ta Gọi Bà-La-Môn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-408.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-408.jpg }]
 category:
   - pham-ba-la-mon

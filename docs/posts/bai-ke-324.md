@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 324 - Phẩm Voi
       content: Con Voi Tên Tài Hộ,<Br>Phát Dục, Khó Điều Phục,<Br>Trói Buộc, Không Ăn Uống.<Br>Voi Nhớ Đến Rừng Voi.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-324.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-324.jpg }]
 category:
   - pham-voi

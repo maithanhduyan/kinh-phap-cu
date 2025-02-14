@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 281 - Phẩm Đạo
       content: Lời Nói Được Thận Trọng,<Br>Tâm Tư Khéo Hộ Phòng,<Br>Thân Chớ Làm Điều Ác,<Br>Hãy Giữ Ba Nghiệp Tịnh,<Br>Chứng Đạo Thánh Nhân Dạy.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-281.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-281.jpg }]
 category:
   - pham-dao

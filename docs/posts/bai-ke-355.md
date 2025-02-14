@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 355 - Phẩm Tham Ái
       content: Tài Sản Hại Người Ngu.<Br>Không Người Tìm Bờ Kia<Br>Kẻ Ngu Vì Tham Giàu,<Br>Hại Mình Và Hại Người.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-355.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-355.jpg }]
 category:
   - pham-tham-ai

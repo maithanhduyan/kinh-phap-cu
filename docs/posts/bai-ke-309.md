@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 309 - Phẩm Địa Ngục
       content: Bốn Nạn Chờ Đợi Người,<Br>Phóng Dật Theo Vợ Người;<Br>Mắc Họa, Ngủ Không Yên,<Br>Bị Chê Là Thứ Ba,<Br>Ðọa Địa Ngục, Thứ Bốn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-309.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-309.jpg }]
 category:
   - pham-dia-nguc

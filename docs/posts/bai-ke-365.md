@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 365 - Phẩm Tỳ Kheo
       content: Không Khinh Điều Mình Được,<Br>Không Ganh Người Khác Được<Br>Tỷ Kheo Ganh Tị Người,<Br>Không Sao Chứng Thiền Ðịnh.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-365.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-365.jpg }]
 category:
   - pham-ty-kheo

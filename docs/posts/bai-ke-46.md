@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 46 - Phẩm Hoa
       content: Biết Thân Như Bọt Nước,<Br>Ngộ Thân Là Như Huyễn,<Br>Bẻ Tên Hoa Của Ma,<Br>Vượt Tầm Mắt Thần Chết.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-046.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-046.jpg }]
 category:
   - pham-hoa

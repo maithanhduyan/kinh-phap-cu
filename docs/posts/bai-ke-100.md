@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 100 - Phẩm Ngàn
       content: Dầu Nói Ngàn Ngàn Lời,<Br>Nhưng Không Gì Lợi Ích,<Br>Tốt Hơn Một Câu Nghĩa,<Br>Nghe Xong, Được Tịnh Lạc.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-100.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-100.jpg }]
 category:
   - pham-ngan

@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 117 - Phẩm Ác
       content: Nếu Người Làm Điều Ác,<Br>Chớ Tiếp Tục Làm Thêm.<Br>Chớ Ước Muốn Điều Ác,<Br>Chứa Ác, Tất Chịu Khổ.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ac/pham-ac-117.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ac/pham-ac-117.jpg }]
 category:
   - pham-ac

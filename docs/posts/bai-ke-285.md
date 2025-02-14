@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 285 - Phẩm Đạo
       content: Tự Cắt Dây Ái Dục,<Br>Như Tay Bẻ Sen Thu,<Br>Hãy Tu Đạo Tịch Tịnh,<Br>Niết-Bàn, Thiện Thệ Dạy.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-285.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-285.jpg }]
 category:
   - pham-dao

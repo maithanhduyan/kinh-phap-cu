@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 118 - Phẩm Ác
       content: Nếu Người Làm Điều Thiện,<Br>Nên Tiếp Tục Làm Thêm.<Br>Hãy Ước Muốn Điều Thiện,<Br>Chứa Thiện, Được An Lạc.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ac/pham-ac-118.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ac/pham-ac-118.jpg }]
 category:
   - pham-ac

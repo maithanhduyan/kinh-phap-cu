@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 203 - Phẩm An Lạc
       content: Ðói Ăn, Bệnh Tối Thượng,<Br>Các Hành, Khổ Tối Thượng,<Br>Hiểu Như Thực Là Vậy,<Br>Niết Bàn, Lạc Tối Thượng.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-an-lac/pham-an-lac-203.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-an-lac/pham-an-lac-203.jpg }]
 category:
   - pham-an-lac

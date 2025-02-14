@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 274 - Phẩm Đạo
       content: Ðường Này, Không Đường Khác<Br>Ðưa Đến Kiến Thanh Tịnh.<Br>Nếu Ngươi Theo Đường Này,<Br>Ma Quân Sẽ Mê Loạn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-274.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-274.jpg }]
 category:
   - pham-dao

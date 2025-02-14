@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 337 - Phẩm Tham Ái
       content: Ðây Điều Lành Ta Dạy,<Br>Các Người Tụ Họp Đây.<Br>Hãy Nhổ Tận Gốc Ái<Br>Như Nhổ Gốc Cỏ Bi.<Br>Chớ Để Ma Phá Hoại,<Br>Như Giòng Nước Cỏ Lau.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-337.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-337.jpg }]
 category:
   - pham-tham-ai

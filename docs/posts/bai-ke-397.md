@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 397 - Phẩm Bà La Môn
       content: Ðoạn Hết Các Kiết Sử,<Br>Không Còn Gì Lo Sợ<Br>Không Đắm Trước Buộc Ràng<Br>Ta Gọi Bà-La-Môn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-397.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-397.jpg }]
 category:
   - pham-ba-la-mon

@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 107 - Phẩm Ngàn
       content: Dầu Trải Một Trăm Năm,<Br>Thờ Lửa Tại Rừng Sâu,<Br>Chẳng Bằng Trong Giây Lát,<Br>Cúng Dường Bậc Tự Tu.<Br>Cúng Dường Vậy Tốt Hơn,<Br>Hơn Trăm Năm Tế Tự.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-107.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-107.jpg }]
 category:
   - pham-ngan

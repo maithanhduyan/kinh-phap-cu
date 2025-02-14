@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 234 - Phẩm Phẩn Nộ
       content: Bậc Trí Bảo Vệ Thân,<Br>Bảo Vệ Luôn Lời Nói<Br>Bảo Vệ Cả Tâm Tư,<Br>Ba Nghiệp Khéo Bảo Vệ.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phan-no/pham-phan-no-234.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phan-no/pham-phan-no-234.jpg }]
 category:
   - pham-phan-no

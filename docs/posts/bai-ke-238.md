@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 238 - Phẩm Cấu Uế
       content: Hãy Tự Làm Hòn Đảo,<Br>Tinh Cần Gấp Sáng Suốt.<Br>Trừ Cấu Uế, Thanh Tịnh,<Br>Chẳng Trở Lại Sanh Già.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-238.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-238.jpg }]
 category:
   - pham-cau-ue

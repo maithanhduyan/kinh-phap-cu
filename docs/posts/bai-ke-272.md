@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 272 - Phẩm Pháp Trụ
       content: Ta Hưởng An Ổn Lạc,<Br>Phàm Phu Chưa Hưởng Được.<Br>Tỷ Kheo, Chớ Tự Tin<Br>Khi Lậu Hoặc Chưa Diệt<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-272.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-272.jpg }]
 category:
   - pham-phap-tru

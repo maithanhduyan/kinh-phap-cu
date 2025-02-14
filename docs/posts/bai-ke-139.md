@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 139 - Phẩm Hình Phạt
       content: Hoặc Tai Họa Từ Vua,<Br>Hay Bị Vu Trọng Tội;<Br>Bà Con Phải Ly Tán,<Br>Tài Sản Bị Nát Tan.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-139.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-139.jpg }]
 category:
   - pham-hinh-phat

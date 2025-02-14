@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 235 - Phẩm Cấu Uế
       content: Ngươi Nay Giống Lá Héo,<Br>Diêm Sứ Đang Chờ Ngươi,<Br>Ngươi Đứng Trước Cửa Chết,<Br>Ðường Trường Thiếu Tư Lương.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-235.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-235.jpg }]
 category:
   - pham-cau-ue

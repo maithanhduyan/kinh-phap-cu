@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 25 - Phẩm Không Phóng Dật
       content: Nỗ Lực, Không Phóng Dật,<Br>Tự Điều, Khéo Chế Ngự.<Br>Bậc Trí Xây Hòn Đảo,<Br>Nước Lụt Khó Ngập Tràn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-khong-phong-dat/pham-khong-phong-dat-025.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-khong-phong-dat/pham-khong-phong-dat-025.jpg }]
 category:
   - pham-khong-phong-dat

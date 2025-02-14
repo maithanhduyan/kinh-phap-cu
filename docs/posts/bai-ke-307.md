@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 307 - Phẩm Địa Ngục
       content: Nhiều Người Khoác Cà Sa,<Br>Ác Hạnh Không Nhiếp Phục.<Br>Người Ác, Do Ác Hạnh,<Br>Phải Sanh Cõi Ðịa Ngục.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-307.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-307.jpg }]
 category:
   - pham-dia-nguc

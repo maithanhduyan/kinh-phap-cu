@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 361 - Phẩm Tỳ Kheo
       content: Lành Thay,Phòng Hộ Thân!<Br>Lành Thay, Phòng Hộ Lời,<Br>Lành Thay, Phòng Hộ Ý.<Br>Lành Thay, Phòng Tất Cả.<Br>Tỷ Kheo Phòng Tất Cả.<Br>Thoát Được Mọi Khổ Đau.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-361.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-361.jpg }]
 category:
   - pham-ty-kheo

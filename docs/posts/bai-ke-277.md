@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 277 - Phẩm Đạo
       content: Tất Cả Hành Vô Thường<Br>Với Tuệ, Quán Thấy Vậy<Br>Ðau Khổ Được Nhàm Chán;<Br>Chính Con Đường Thanh Tịnh.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-277.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-277.jpg }]
 category:
   - pham-dao

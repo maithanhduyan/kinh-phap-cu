@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 45 - Phẩm Hoa
       content: Hữu Học Chinh Phục Đất,<Br>Dạ Ma, Thiên Giới Này.<Br>Hữu Học Giảng Pháp Cú,<Br>Như Người Khéo Hái Hoa.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-045.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-045.jpg }]
 category:
   - pham-hoa

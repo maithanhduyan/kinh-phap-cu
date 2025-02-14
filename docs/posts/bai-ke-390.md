@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 390 - Phẩm Bà La Môn
       content: Ðối Với Bà-La-Môn,<Br>Ðây  Không Lợi Ích Nhỏ.<Br>Khi Ý Không Ái Luyến,<Br>Tâm Hại Được Chận Đứng,<Br>Chỉ Khi Ấy Khổ Diệt,<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-390.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-390.jpg }]
 category:
   - pham-ba-la-mon

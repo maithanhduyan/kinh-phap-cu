@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 353 - Phẩm Tham Ái
       content: Ta Hàng Phục Tất Cả,<Br>Ta Rõ Biết Tất Cả,<Br>Không Bị Nhiễm Pháp Nào.<Br>Ta Từ Bỏ Tất Cả<Br>Ái Diệt, Tự Giải Thoát.<Br>Ðã Tự Mình Thắng Trí,<Br>Ta Gọi Ai Thầy Ta?<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-353.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-353.jpg }]
 category:
   - pham-tham-ai

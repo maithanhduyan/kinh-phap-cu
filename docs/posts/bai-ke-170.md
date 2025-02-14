@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 170 - Phẩm Thế Gian
       content: Hãy Nhìn Như Bọt Nước,<Br>Hãy Nhìn Như Cảnh Huyễn!<Br>Quán Nhìn Đời Như Vậy,<Br>Thần Chết Không Bắt Gặp.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-the-gian/pham-the-gian-170.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-the-gian/pham-the-gian-170.jpg }]
 category:
   - pham-the-gian

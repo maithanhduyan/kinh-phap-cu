@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 298 - Phẩm Tạp Lục
       content: Ðệ Tử Gotama,<Br>Luôn Luôn Tự Tỉnh Giác,<Br>Vô Luận Ngày Hay Đêm,<Br>Tưởng Tăng Già Thường Niệm.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tap-luc/pham-tap-luc-298.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tap-luc/pham-tap-luc-298.jpg }]
 category:
   - pham-tap-luc

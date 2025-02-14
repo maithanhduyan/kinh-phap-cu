@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 168 - Phẩm Thế Gian
       content: Nỗ Lực, Chớ Phóng Dật!<Br>Hãy Sống Theo Chánh Hạnh;<Br>Người Chánh Hạnh Hưởng Lạc,<Br>Cả Đời Này, Đời Sau.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-the-gian/pham-the-gian-168.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-the-gian/pham-the-gian-168.jpg }]
 category:
   - pham-the-gian

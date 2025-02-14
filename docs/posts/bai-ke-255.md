@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 255 - Phẩm Cấu Uế
       content: Hư Không, Không Dấu Chân,<Br>Ngoài Đây, Không Sa Môn.<Br>Các Hành Không Thường Trú,<Br>Chư Phật Không Giao Động.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-255.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-255.jpg }]
 category:
   - pham-cau-ue

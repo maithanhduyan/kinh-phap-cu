@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 363 - Phẩm Tỳ Kheo
       content: Tỷ Kheo Chế Ngự Miệng,<Br>Vừa Lời, Không Cống Cao,<Br>Khi Trình Bày Pháp Nghĩa,<Br>Lời Lẽ Dịu Ngọt Ngào.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-363.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-363.jpg }]
 category:
   - pham-ty-kheo

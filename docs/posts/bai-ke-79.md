@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 79 - Phẩm Hiền Trí
       content: Pháp Hỷ Đem An Lạc,<Br>Với Tâm Tư Thuần Tịnh;<Br>Người Trí Thường Hoan Hỷ,<Br>Với Pháp Bậc Thánh Thuyết.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-079.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-079.jpg }]
 category:
   - pham-hien-tri

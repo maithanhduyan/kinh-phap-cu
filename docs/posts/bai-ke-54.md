@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 54 - Phẩm Hoa
       content: Hương Các Loại Hoa Thơm<Br>Không Ngược Bay Chiều Gió<Br>Nhưng Hương Người Đức Hạnh<Br>Ngược Gió Khắp Tung Bay<Br>Chỉ Có Bậc Chân Nhân<Br>Tỏa Khắp Mọi Phương Trời.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-054.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-054.jpg }]
 category:
   - pham-hoa

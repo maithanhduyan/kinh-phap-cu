@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 17 - Phẩm Song Yếu
       content: Nay Than, Đời Sau Than,<Br>Kẻ Ác, Hai Đời Than,<Br>Nó Than  ‘Ta Làm Ác’<Br>Ðọa Cõi Dữ, Than Hơn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-017.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-017.jpg }]
 category:
   - pham-song-yeu

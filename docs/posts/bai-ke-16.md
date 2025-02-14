@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 16 - Phẩm Song Yếu
       content: Nay Vui, Đời Sau Vui,<Br>Làm Phước, Hai Đời Vui,<Br>Nó Vui, Nó An Vui,<Br>Thấy Nghiệp Tịnh Mình Làm.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-016.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-016.jpg }]
 category:
   - pham-song-yeu

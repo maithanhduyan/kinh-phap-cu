@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 127 - Phẩm Ác
       content: Không Trên Trời, Giữa Biển,<Br>Không Lánh Vào Động Núi,<Br>Không Chỗ Nào Trên Đời,<Br>Trốn Được Quả Ác Nghiệp.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ac/pham-ac-127.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ac/pham-ac-127.jpg }]
 category:
   - pham-ac

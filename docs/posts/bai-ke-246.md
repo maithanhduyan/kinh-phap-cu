@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 246 - Phẩm Cấu Uế
       content: Ai Ở Đời Sát Sinh,<Br>Nói Láo Không Chân Thật,<Br>Ở Đời Lấy Không Cho,<Br>Qua Lại Với Vợ Người.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-246.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-246.jpg }]
 category:
   - pham-cau-ue

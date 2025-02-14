@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 159 - Phẩm Tự Ngã
       content: Hãy Tự Làm Cho Mình,<Br>Như Điều Mình Dạy Người.<Br>Khéo Tự Điều, Điều Người,<Br>Khó Thay, Tự Điều Phục!<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tu-nga/pham-tu-nga-159.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tu-nga/pham-tu-nga-159.jpg }]
 category:
   - pham-tu-nga

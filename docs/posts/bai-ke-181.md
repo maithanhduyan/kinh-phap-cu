@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 181 - Phẩm Phật Đà
       content: Người Trí Chuyên Thiền Định,<Br>Thích An Tịnh Viễn Ly,<Br>Chư Thiên Đều Ái Kính,<Br>Bậc Chánh Giác, Chánh Niệm.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phat-da/pham-phat-da-181.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phat-da/pham-phat-da-181.jpg }]
 category:
   - pham-phat-da

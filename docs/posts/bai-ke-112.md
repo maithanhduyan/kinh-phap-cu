@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 112 - Phẩm Ngàn
       content: Ai Sống Một Trăm Năm,<Br>Lười Nhác Không Tinh Tấn,<Br>Tốt Hơn Sống Một Ngày<Br>Tinh Tấn Tận Sức Mình.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-112.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-112.jpg }]
 category:
   - pham-ngan

@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 210 - Phẩm Hỷ Ái
       content: Chớ Gần Gũi Người Yêu,<Br>Trọn Đời Xa Kẻ Ghét.<Br>Yêu Không Gặp Là Khổ,<Br>Oán Phải Gặp Cũng Đau.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hy-ai/pham-hy-ai-210.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hy-ai/pham-hy-ai-210.jpg }]
 category:
   - pham-hy-ai

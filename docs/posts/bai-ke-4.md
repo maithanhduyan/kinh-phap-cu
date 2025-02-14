@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 4 - Phẩm Song Yếu
       content: Nó Mắng Tôi, Đánh Tôi,<Br>Nó Thắng Tôi, Cướp Tôi<Br>Không Ôm Hiềm Hận Ấy,<Br>Hận Thù Được Tự Nguôi.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-004.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-004.jpg }]
 category:
   - pham-song-yeu

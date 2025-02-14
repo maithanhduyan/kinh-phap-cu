@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 160 - Phẩm Tự Ngã
       content: Tự Mình Y Chỉ Mình,<Br>Nào Có Y Chỉ Khác.<Br>Nhờ Khéo Điều Phục Mình,<Br>Ðược Y Chỉ Khó Được.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tu-nga/pham-tu-nga-160.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tu-nga/pham-tu-nga-160.jpg }]
 category:
   - pham-tu-nga

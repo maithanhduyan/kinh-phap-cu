@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 153 - Phẩm Già
       content: Lang Thang Bao Kiếp Sống<Br>Ta Tìm Nhưng Chẳng Gặp,<Br>Người Xây Dựng Nhà Này,<Br>Khổ Thay, Phải Tái Sanh.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-153.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-153.jpg }]
 category:
   - pham-gia

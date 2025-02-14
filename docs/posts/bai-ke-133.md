@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 133 - Phẩm Hình Phạt
       content: Chớ Nói Lời Ác Độc,<Br>Nói Ác, Bị Nói Lại,<Br>Khổ Thay Lời Phẩn Nộ,<Br>Ðao Trượng Phản Chạm Mình.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-133.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-133.jpg }]
 category:
   - pham-hinh-phat

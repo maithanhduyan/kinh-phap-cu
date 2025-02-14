@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 15 - Phẩm Song Yếu
       content: Nay Sầu, Đời Sau Sầu,<Br>Kẻ Ác, Hai Đời Sầu;<Br>Nó Sầu, Nó Ưu Não,<Br>Thấy Nghiệp Uế Mình Làm.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-015.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-015.jpg }]
 category:
   - pham-song-yeu

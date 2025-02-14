@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 73 - Phẩm Ngu
       content: Ưa Danh Không Tương Xứng,<Br>Muốn Ngồi Trước Tỷ Kheo,<Br>Ưa Quyền Tại Tịnh Xá,<Br>Muốn Mọi Người Lễ Kính.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-073.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-073.jpg }]
 category:
   - pham-ngu

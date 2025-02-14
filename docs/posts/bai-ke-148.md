@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 148 - Phẩm Già
       content: Sắc Này Bị Suy Già,<Br>Ổ Tật Bệnh, Mỏng Manh,<Br>Nhóm Bất Tịnh, Đỗ Vỡ,<Br>Chết Chấm Dứt Mạng Sống.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-148.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-148.jpg }]
 category:
   - pham-gia

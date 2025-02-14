@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 11 - Phẩm Song Yếu
       content: Không Chân, Tưởng Chân Thật,<Br>Chân Thật, Thấy Không Chân <Br>Chúng Không Đạt Chân Thật,<Br>Do Tà Tư, Tà Hạnh.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-011.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-011.jpg }]
 category:
   - pham-song-yeu

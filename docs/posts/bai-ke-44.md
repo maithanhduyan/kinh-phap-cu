@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 44 - Phẩm Hoa
       content: Ai Chinh Phục Đất Này<Br>Dạ Ma, Thiên Giới Này?<Br>Ai Khéo Giảng Pháp Cú,<Br>Như Người Khéo Hái Hoa?<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-044.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-044.jpg }]
 category:
   - pham-hoa

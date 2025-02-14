@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 157 - Phẩm Tự Ngã
       content: Nếu Biết Yêu Tự Ngã,<Br>Phải Khéo Bảo Vệ Mình,<Br>Người Trí Trong Ba Canh,<Br>Phải Luôn Luôn Tỉnh Thức.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tu-nga/pham-tu-nga-157.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tu-nga/pham-tu-nga-157.jpg }]
 category:
   - pham-tu-nga

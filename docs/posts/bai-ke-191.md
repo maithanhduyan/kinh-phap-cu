@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 191 - Phẩm Phật Đà
       content: Thấy Khổ Và Khổ Tập,<Br>Thấy Sự Khổ Vượt Qua,<Br>Thấy Đường Thánh Tám Ngành,<Br>Ðưa Đến Khổ Não Tận.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phat-da/pham-phat-da-191.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phat-da/pham-phat-da-191.jpg }]
 category:
   - pham-phat-da

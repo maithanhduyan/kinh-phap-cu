@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 287 - Phẩm Đạo
       content: Người Tâm Ý Đắm Say<Br>Con Cái Và Súc Vật,<Br>Tử Thần Bắt Người Ấy,<Br>Như Lụt Trôi Làng Ngủ.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-287.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-287.jpg }]
 category:
   - pham-dao

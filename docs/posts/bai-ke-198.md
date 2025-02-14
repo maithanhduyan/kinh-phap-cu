@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 198 - Phẩm An Lạc
       content: Vui Thay, Chúng Ta Sống,<Br>Không Bệnh, Giữa Ốm Đau!<Br>Giữa Những Người Bệnh Hoạn,<Br>Ta Sống, Không Ốm Đau.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-an-lac/pham-an-lac-198.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-an-lac/pham-an-lac-198.jpg }]
 category:
   - pham-an-lac

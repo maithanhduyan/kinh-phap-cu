@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 62 - Phẩm Ngu
       content: Con Tôi, Tài Sản Tôi,<Br>Người Ngu Sanh Ưu Não,<Br>Tự Ta, Ta Không Có,<Br>Con Đâu, Tài Sản Đâu.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-062.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-062.jpg }]
 category:
   - pham-ngu

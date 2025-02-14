@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 380 - Phẩm Tỳ Kheo
       content: Tự Mình Y Chỉ Mình,<Br>Tự Mình Đi Đến Mình,<Br>Vậy Hãy Tự Điều Phục,<Br>Như Khách Buôn Ngựa Hiền.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-380.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-380.jpg }]
 category:
   - pham-ty-kheo

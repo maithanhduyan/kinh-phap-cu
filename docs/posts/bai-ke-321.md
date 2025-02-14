@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 321 - Phẩm Voi
       content: Voi Luyện, Đưa Dự Hội,<Br>Ngựa Luyện, Được Vua Cưỡi,<Br>Người Luyện, Bậc Tối Thượng<Br>Chịu Đựng Mọi Phỉ Báng.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-321.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-321.jpg }]
 category:
   - pham-voi

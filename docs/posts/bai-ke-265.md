@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 265 - Phẩm Pháp Trụ
       content: Ai Lắng Dịu Hoàn Toàn,<Br>Các Điều Ác Lớn Nhỏ,<Br>Vì Lắng Dịu Ác Pháp,<Br>Ðược Gọi Là Sa Môn.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-265.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-265.jpg }]
 category:
   - pham-phap-tru

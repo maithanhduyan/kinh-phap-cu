@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 9 - Phẩm Song Yếu
       content: Ai Mặc Áo Cà Sa.<Br>Tâm Chưa Rời Uế Trược,<Br>Không Tự Chế, Không Thực,<Br>Không Xứng Áo Cà Sa<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-009.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-009.jpg }]
 category:
   - pham-song-yeu

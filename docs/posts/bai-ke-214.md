@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 214 - Phẩm Hỷ Ái
       content: Hỷ Ái Sinh Sầu Ưu,<Br>Hỷ Ái Sinh Sợ Hãi.<Br>Ai Giải Thoát Hỷ Ái,<Br>Không Sầu, Đâu Sợ Hãi?<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hy-ai/pham-hy-ai-214.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hy-ai/pham-hy-ai-214.jpg }]
 category:
   - pham-hy-ai

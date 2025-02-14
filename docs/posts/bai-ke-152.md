@@ -7,6 +7,9 @@ head:
   - - meta
     - name: Bài kệ 152 - Phẩm Già
       content: Người Ít Nghe Kém Học,<Br>Lớn Già Như Trâu Đực.<Br>Thịt Nó Tuy Lớn Lên,<Br>Nhưng Tuệ Không Tăng Trưởng.<Br>
+  - - meta
+    - property: image
+      content: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-152.jpg
   - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-152.jpg }]
 category:
   - pham-gia
