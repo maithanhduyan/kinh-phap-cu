@@ -5,11 +5,9 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { navbar } from './navbar'
 import { sidebar } from './sidebar'
 import { head } from './head'
-const isProd = process.env.NODE_ENV === 'production'
 
 export default defineUserConfig({
-
-  base: isProd === 'production' ? '/kinh-phap-cu/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/kinh-phap-cu/' : '/',
   lang: 'vi-VN',
 
   title: 'Kinh Pháp Cú',
@@ -39,22 +37,29 @@ export default defineUserConfig({
 
   plugins: [
     blogPlugin({
-      // Chỉ xử lý các file dưới thư mục posts là bài viết
+      // Only files under posts are articles
       filter: ({ filePathRelative }) =>
         filePathRelative ? filePathRelative.startsWith('posts/') : false,
 
-      // Cấu hình lấy thông tin bài viết
+      // Getting article info
       getInfo: ({ frontmatter, title, data }) => ({
         title,
+        author: frontmatter.author || '',
         date: frontmatter.date || null,
         category: frontmatter.category || [],
+        tag: frontmatter.tag || [],
         excerpt:
           // Support manually set excerpt through frontmatter
           typeof frontmatter.excerpt === 'string'
             ? frontmatter.excerpt
             : data?.excerpt || '',
-        // Các trường thông tin khác...
       }),
+
+      // Generate excerpt for all pages excerpt those users choose to disable
+      excerptFilter: ({ frontmatter }) =>
+        !frontmatter.home &&
+        frontmatter.excerpt !== false &&
+        typeof frontmatter.excerpt !== 'string',
 
       category: [
         {
@@ -77,30 +82,44 @@ export default defineUserConfig({
           }
         },
 
-
       ],
 
-      type: [
-        {
-          key: 'article',
-          filter: (page) => !page.frontmatter.archive,
-          layout: 'Article',
-          frontmatter: () => ({
-            title: 'Article',
-            sidebar: false,
-          }),
-          // Sắp xếp bài viết theo ngày mới nhất đứng trước
-          sorter: (pageA, pageB) => {
-            if (!pageA.frontmatter.date) return 1
-            if (!pageB.frontmatter.date) return -1
-            return new Date(pageB.frontmatter.date) - new Date(pageA.frontmatter.date)
-          },
-        },
-      ],
+      // type: [
+      //   {
+      //     key: 'article',
+      //     // Remove archive articles
+      //     filter: (page) => !page.frontmatter.archive,
+      //     layout: 'Article',
+      //     frontmatter: () => ({
+      //       title: 'Article',
+      //       sidebar: true,
+      //     }),
+      //     // Sort pages with time and sticky
+      //     sorter: (pageA, pageB) => {
+      //       if (pageA.frontmatter.sticky && pageB.frontmatter.sticky)
+      //         return pageB.frontmatter.sticky - pageA.frontmatter.sticky
+
+      //       if (pageA.frontmatter.sticky && !pageB.frontmatter.sticky) return -1
+
+      //       if (!pageA.frontmatter.sticky && pageB.frontmatter.sticky) return 1
+
+      //       if (!pageB.frontmatter.date) return 1
+      //       if (!pageA.frontmatter.date) return -1
+
+      //       return (
+      //         new Date(pageB.frontmatter.date).getTime() -
+      //         new Date(pageA.frontmatter.date).getTime()
+      //       )
+      //     },
+      //   },
+
+      // ],
       hotReload: true,
     }),
   ],
 
-  bundler: viteBundler(),
-
+  bundler: viteBundler({
+    // viteOptions: {},
+    // vuePluginOptions: {},
+  }),
 })

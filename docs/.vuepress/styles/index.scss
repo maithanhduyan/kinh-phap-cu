@@ -12,14 +12,3 @@ body {
   font-family: "Be Vietnam Pro", sans-serif !important;
   font-size: 18px !important;
 }
-
-@media (min-width: 751px) {
-  #docsearch-container:lang(zh-CN) {
-    min-width: 184.66px;
-  }
-}
-
-// FIXME: Workaround solution
-div[class*="language-"] pre code {
-  color: var(--code-c-text);
-}
