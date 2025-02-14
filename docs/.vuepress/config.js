@@ -13,12 +13,8 @@ export default defineUserConfig({
   description: 'Kinh Pháp Cú',
 
   theme: defaultTheme({
-
+    base: process.env.NODE_ENV === 'production' ? '/kinh-phap-cu/' : '/',
     logo: '/img/icon/buddha_vector_icon.png',
-    repo: 'maithanhduyan/kinh-phap-cu',
-    docsRepo: 'maithanhduyan/kinh-phap-cu',
-    docsDir: 'docs',
-    docsBranch: 'master',
     head: head,
     navbar: navbar,
     sidebar: sidebar,
