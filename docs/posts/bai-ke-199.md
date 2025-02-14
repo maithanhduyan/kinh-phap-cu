@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 199 - Phẩm An Lạc
       content: Vui Thay, Chúng Ta Sống,<Br>Không Rộn Giữa Rộn Ràng;<Br>Giữa Những Người Rộn Ràng,<Br>Ta Sống, Không Rộn Ràng.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-an-lac/pham-an-lac-199.jpg }]
 category:
   - pham-an-lac
 ---

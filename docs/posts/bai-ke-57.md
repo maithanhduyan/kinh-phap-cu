@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 57 - Phẩm Hoa
       content: Nhưng Ai Có Giới Hạnh,<Br>An Trú Không Phóng Dật,<Br>Chánh Trí, Chơn Giải Thoát,<Br>Ác Ma Không Thấy Đường.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-057.jpg }]
 category:
   - pham-hoa
 ---

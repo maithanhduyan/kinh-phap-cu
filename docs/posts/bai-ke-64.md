@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 64 - Phẩm Ngu
       content: Người Ngu, Dầu Trọn Đời,<Br>Thân Cận Người Có Trí,<Br>Không Biết Được Chánh Pháp,<Br>Như Muỗng Với Vị Canh.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-064.jpg }]
 category:
   - pham-ngu
 ---

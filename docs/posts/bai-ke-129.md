@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 129 - Phẩm Hình Phạt
       content: Mọi Người Sợ Hình Phạt,<Br>Mọi Người Sợ Tử Vong.<Br>Lấy Mình Làm Ví Dụ<Br>Không Giết, Không Bảo Giết.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-129.jpg }]
 category:
   - pham-hinh-phat
 ---

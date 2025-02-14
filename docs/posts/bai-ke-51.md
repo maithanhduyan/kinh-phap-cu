@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 51 - Phẩm Hoa
       content: Như Bông Hoa Tươi Đẹp,<Br>Có Sắc Nhưng Không Hương.<Br>Cũng Vậy, Lời Khéo Nói,<Br>Không Làm, Không Kết Quả.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-051.jpg }]
 category:
   - pham-hoa
 ---

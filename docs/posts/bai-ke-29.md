@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 29 - Phẩm Không Phóng Dật
       content: Tinh Cần Giữa Phóng Dật,<Br>Tỉnh Thức Giữa Quần Mê.<Br>Người Trí Như Ngựa Phi,<Br>Bỏ Sau Con Ngựa Hèn.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-khong-phong-dat/pham-khong-phong-dat-029.jpg }]
 category:
   - pham-khong-phong-dat
 ---

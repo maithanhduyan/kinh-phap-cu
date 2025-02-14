@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 42 - Phẩm Tâm
       content: Kẻ Thù Hại Kẻ Thù,<Br>Oan Gia Hại Oan Gia,<Br>Không Bằng Tâm Hướng Tà, [5]<Br>Gây Ác Cho Tự Thân.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tam/pham-tam-042.jpg }]
 category:
   - pham-tam
 ---

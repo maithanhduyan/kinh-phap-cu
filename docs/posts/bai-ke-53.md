@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 53 - Phẩm Hoa
       content: Như Từ Một Đống Hoa,<Br>Nhiều Tràng Hoa Được Làm.<Br>Cũng Vậy, Thân Sanh Tử,<Br>Phải Làm Nhiều Việc Lành.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-053.jpg }]
 category:
   - pham-hoa
 ---

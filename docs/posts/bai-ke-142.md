@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 142 - Phẩm Hình Phạt
       content: Ai Sống Tự Trang Sức,<Br>Nhưng An Tịnh, Nhiếp Phục,<Br>Sống Kiên Trì, Phạm Hạnh,<Br>Không Hại Mọi Sinh Linh,<Br>Vị Ấy Là Phạm Chí,<Br>Hay Sa Môn, Khất Sĩ.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-142.jpg }]
 category:
   - pham-hinh-phat
 ---

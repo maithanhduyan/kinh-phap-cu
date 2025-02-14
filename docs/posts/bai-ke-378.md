@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 378 - Phẩm Tỳ Kheo
       content: Thân Tịnh, Lời An Tịnh,<Br>An Tịnh, Khéo Thiền Tịnh.<Br>Tỷ Kheo Bỏ Thế Vật,<Br>Xứng Danh “Bậc Tịch Tịnh.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-378.jpg }]
 category:
   - pham-ty-kheo
 ---

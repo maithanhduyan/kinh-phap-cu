@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 211 - Phẩm Hỷ Ái
       content: Do Vậy Chớ Yêu Ai,<Br>Ái Biệt Ly Là Ác;<Br>Những Ai Không Yêu Ghét,<Br>Không Thể Có Buộc Ràng.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hy-ai/pham-hy-ai-211.jpg }]
 category:
   - pham-hy-ai
 ---

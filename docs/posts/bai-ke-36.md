@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 36 - Phẩm Tâm
       content: Tâm Khó Thấy, Tế Nhị,<Br>Theo Các Dục Quay Cuồng.<Br>Người Trí Phòng Hộ Tâm,<Br>Tâm Hộ, An Lạc Đến.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tam/pham-tam-036.jpg }]
 category:
   - pham-tam
 ---

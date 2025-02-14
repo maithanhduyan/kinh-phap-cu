@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 248 - Phẩm Cấu Uế
       content: Vậy Người, Hãy Nên Biết,<Br>Không Chế Ngự Là Ác.<Br>Chớ Để Tham Phi Pháp,<Br>Làm Người Đau Khổ Dài.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-248.jpg }]
 category:
   - pham-cau-ue
 ---

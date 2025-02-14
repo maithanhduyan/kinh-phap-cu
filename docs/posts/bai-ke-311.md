@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 311 - Phẩm Địa Ngục
       content: Như Cỏ Sa  Vụng Nắm,<Br>Tất Bị Họa Đứt Tay<Br>Hạnh Sa Môn Tà Vạy,<Br>Tất Bị Đọa Địa Ngục.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-311.jpg }]
 category:
   - pham-dia-nguc
 ---

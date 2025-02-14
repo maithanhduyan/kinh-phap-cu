@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 134 - Phẩm Hình Phạt
       content: Nếu Tự Mình Yên Lặng,<Br>Như Chiếc Chuông Bị Bể.<Br>Ngươi Đã Chứng Niết Bàn<Br>Ngươi Không Còn Phẩn Nộ.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-134.jpg }]
 category:
   - pham-hinh-phat
 ---

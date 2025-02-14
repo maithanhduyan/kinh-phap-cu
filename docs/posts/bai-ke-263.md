@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 263 - Phẩm Pháp Trụ
       content: Ai Cắt Được, Phá Được<Br>Tận Gốc Nhổ Tâm Ấy<Br>Người Trí Ấy Diệt Sân,<Br>Ðược Gọi Người Hiền Thiện.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-263.jpg }]
 category:
   - pham-phap-tru
 ---

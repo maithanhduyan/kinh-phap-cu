@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 331 - Phẩm Voi
       content: Vui Thay, Bạn Lúc Cần!<Br>Vui Thay, Sống Biết Đủ,<Br>Vui Thay, Chết Có Đức!<Br>Vui Thay, Mọi Khổ Đoạn.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-331.jpg }]
 category:
   - pham-voi
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 290 - Phẩm Tạp Lục
       content: Nhờ Từ Bỏ Lạc Nhỏ,<Br>Thấy Được Lạc Lớn Hơn,<Br>Bậc Trí Bỏ Lạc Nhỏ,<Br>Thấy Được Lạc Lớn Hơn.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tap-luc/pham-tap-luc-290.jpg }]
 category:
   - pham-tap-luc
 ---

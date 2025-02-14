@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 257 - Phẩm Pháp Trụ
       content: Không Chuyên Chế, Đúng Pháp,<Br>Công Bằng, Dắt Dẫn Người,<Br>Bậc Trí Sống Đúng Pháp,<Br>Thật Xứng Danh Pháp Trụ.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-257.jpg }]
 category:
   - pham-phap-tru
 ---

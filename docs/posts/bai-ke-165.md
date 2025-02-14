@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 165 - Phẩm Tự Ngã
       content: Tự Mình, Làm Điều Ác,<Br>Tự Mình Làm Nhiễm Ô,<Br>Tự Mình Không Làm Ác,<Br>Tự Mình Làm Thanh Tịnh.<Br>Tịnh, Không Tịnh Tự Mình,<Br>Không Ai Thanh Tịnh Ai!<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tu-nga/pham-tu-nga-165.jpg }]
 category:
   - pham-tu-nga
 ---

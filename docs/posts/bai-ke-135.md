@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 135 - Phẩm Hình Phạt
       content: Với Gậy Người Chăn Bò,<Br>Lùa Bò Ra Bãi Cỏ;<Br>Cũng Vậy, Già Và Chết,<Br>Lùa Người Đến Mạng Chung.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-135.jpg }]
 category:
   - pham-hinh-phat
 ---

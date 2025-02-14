@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 30 - Phẩm Không Phóng Dật
       content: Ðế Thích Không Phóng Dật,<Br>Ðạt Ngôi Vị Thiên Chủ.<Br>Không Phóng Dật, Được Khen ;<Br>Phóng Dật, Thường Bị Trách.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-khong-phong-dat/pham-khong-phong-dat-030.jpg }]
 category:
   - pham-khong-phong-dat
 ---

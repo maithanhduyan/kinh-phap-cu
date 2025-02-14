@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 27 - Phẩm Không Phóng Dật
       content: Chớ Sống Đời Phóng Dật,<Br>Chớ Mê Say Dục Lạc.<Br>Không Phóng Dật, Thiền Định,<Br>Ðạt Được An Lạc Lớn.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-khong-phong-dat/pham-khong-phong-dat-027.jpg }]
 category:
   - pham-khong-phong-dat
 ---

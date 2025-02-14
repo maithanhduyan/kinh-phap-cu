@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 162 - Phẩm Tự Ngã
       content: Phá Giới Quá Trầm Trọng,<Br>Như Dây Leo Bám Cây<Br>Gieo Hại Cho Tự Thân,<Br>Như Kẻ Thù Mong Ước.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tu-nga/pham-tu-nga-162.jpg }]
 category:
   - pham-tu-nga
 ---

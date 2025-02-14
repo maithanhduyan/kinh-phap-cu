@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 48 - Phẩm Hoa
       content: Người Nhặt Các Loại Hoa,<Br>Ý Đắm Say Tham Nhiễm,<Br>Các Dục Chưa Thỏa Mãn,<Br>Ðã Bị Chết Chinh Phục.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-048.jpg }]
 category:
   - pham-hoa
 ---

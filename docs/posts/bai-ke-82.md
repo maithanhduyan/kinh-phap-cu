@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 82 - Phẩm Hiền Trí
       content: Như Hồ Nước Sâu Thẳm,<Br>Trong Sáng, Không Khuấy Đục,<Br>Cũng Vậy, Nghe Chánh Pháp,<Br>Người Trí Hưởng Tịnh Lạc.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-082.jpg }]
 category:
   - pham-hien-tri
 ---

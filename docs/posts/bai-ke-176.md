@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 176 - Phẩm Thế Gian
       content: Ai Vi Phạm Một Pháp,<Br>Ai Nói Lời Vọng Ngữ,<Br>Ai Bác Bỏ Đời Sau,<Br>Không Ác Nào Không Làm.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-the-gian/pham-the-gian-176.jpg }]
 category:
   - pham-the-gian
 ---

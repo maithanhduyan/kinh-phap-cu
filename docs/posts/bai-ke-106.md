@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 106 - Phẩm Ngàn
       content: Tháng Tháng Bỏ Ngàn Vàng,<Br>Tế Tự Cả Trăm Năm,<Br>Chẳng Bằng Trong Giây Lát,<Br>Cúng Dường Bậc Tự Tu.<Br>Cúng Dường Vậy Tốt Hơn,<Br>Hơn Trăm Năm Tế Tự.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-106.jpg }]
 category:
   - pham-ngan
 ---

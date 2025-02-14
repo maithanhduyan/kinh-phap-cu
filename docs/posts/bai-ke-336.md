@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 336 - Phẩm Tham Ái
       content: Ai Sống Trong Đời Này<Br>Ái Dục Được Hàng Phục<Br>Sầu Rơi Khỏi Người Ấy<Br>Như Giọt Nước Lá Sen.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-336.jpg }]
 category:
   - pham-tham-ai
 ---

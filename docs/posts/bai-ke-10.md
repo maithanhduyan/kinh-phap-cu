@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 10 - Phẩm Song Yếu
       content: Ai Rời Bỏ Uế Trược,<Br>Giới Luật Khéo Nghiêm Trì,<Br>Tự Chế, Sống Chơn Thực,<Br>Thật Xứng Áo Cà Sa.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-010.jpg }]
 category:
   - pham-song-yeu
 ---

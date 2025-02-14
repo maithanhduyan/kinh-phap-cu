@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 41 - Phẩm Tâm
       content: Không Bao Lâu Thân Này,<Br>Sẽ Nằm Dài Trên Đất,<Br>Bị Vất Bỏ, Vô Thức,<Br>Như Khúc Cây Vô Dụng.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tam/pham-tam-041.jpg }]
 category:
   - pham-tam
 ---

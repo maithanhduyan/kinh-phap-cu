@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 158 - Phẩm Tự Ngã
       content: Trước Hết Tự Đặt Mình,<Br>Vào Những Gì Thích Đáng.<Br>Sau Mới Giáo Hóa Người,<Br>Người Trí Khỏi Bị Nhiễm.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tu-nga/pham-tu-nga-158.jpg }]
 category:
   - pham-tu-nga
 ---

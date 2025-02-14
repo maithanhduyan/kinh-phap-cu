@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 184 - Phẩm Phật Đà
       content: Chư Phật Thường Giảng Dạy;<Br>Nhẫn, Khổ Hạnh Tối Thượng,<Br>Niết Bàn, Quả Tối Thượng;<Br>Xuất Gia Không Phá Người;<Br>Sa Môn Không Hại Người.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phat-da/pham-phat-da-184.jpg }]
 category:
   - pham-phat-da
 ---

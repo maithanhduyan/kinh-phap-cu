@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 206 - Phẩm An Lạc
       content: Lành Thay, Thấy Thánh Nhân,<Br>Sống Chung Thường Hưởng Lạc.<Br>Không Thấy Những Người Ngu,<Br>Thường Thường Được An Lạc.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-an-lac/pham-an-lac-206.jpg }]
 category:
   - pham-an-lac
 ---

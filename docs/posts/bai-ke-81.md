@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 81 - Phẩm Hiền Trí
       content: Như Đá Tảng Kiên Cố,<Br>Không Gió Nào Giao Động,<Br>Cũng Vậy, Giữa Khen Chê,<Br>Người Trí Không Giao Động.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-081.jpg }]
 category:
   - pham-hien-tri
 ---

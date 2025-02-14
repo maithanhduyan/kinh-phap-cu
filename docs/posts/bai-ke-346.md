@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 346 - Phẩm Tham Ái
       content: Người Có Trí Nói Rằng <Br>“Trói Buộc Này Thật Bền.<Br>Rì Kéo Xuống, Lún Xuống,<Br>Nhưng Thật Sự Khó Thoát.<Br>Người Trí Cắt Trừ Nó,<Br>Bỏ Dục Lạc, Không Màng.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-346.jpg }]
 category:
   - pham-tham-ai
 ---

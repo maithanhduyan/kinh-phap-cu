@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 240 - Phẩm Cấu Uế
       content: Như Sét Từ Sắt Sanh,<Br>Sắt Sanh Lại Ăn Sắt,<Br>Cũng Vậy, Quá Lợi Dưỡng<Br>Tự Nghiệp Dẫn Cõi Ác.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-240.jpg }]
 category:
   - pham-cau-ue
 ---

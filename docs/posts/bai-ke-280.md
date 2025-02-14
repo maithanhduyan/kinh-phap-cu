@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 280 - Phẩm Đạo
       content: Khi Cần, Không Nỗ Lực,<Br>Tuy Trẻ Mạnh, Nhưng Lười<Br>Chí Nhu Nhược, Biếng Nhác.<Br>Với Trí Tuệ Thụ Động,<Br>Sao Tìm Được Chánh Đạo?<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-280.jpg }]
 category:
   - pham-dao
 ---

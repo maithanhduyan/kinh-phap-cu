@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 284 - Phẩm Đạo
       content: Khi Nào Chưa Cắt Tiệt,<Br>Ái Dục Giữa Gái Trai,<Br>Tâm Ý Vẫn Buộc Ràng,<Br>Như Bò Con Vú Mẹ.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-284.jpg }]
 category:
   - pham-dao
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 245 - Phẩm Cấu Uế
       content: Khó Thay, Sống Xấu Hổ,<Br>Thường Thường Cầu Thanh Tịnh.<Br>Sống Vô Tư, Khiêm Tốn,<Br>Trong Sạch Và Sáng Suốt.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-245.jpg }]
 category:
   - pham-cau-ue
 ---

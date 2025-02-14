@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 414 - Phẩm Bà La Môn
       content: Vượt Đường Nguy Hiểm Này,<Br>Nhiếp Phục Luân Hồi, Si,<Br>Ðến Bờ Kia Thiền Định<Br>Không Dục Ái, Không Nghi,<Br>Không Chấp Trước, Tịch Tịnh,<Br>Ta Gọi Bà-La-Môn.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-414.jpg }]
 category:
   - pham-ba-la-mon
 ---

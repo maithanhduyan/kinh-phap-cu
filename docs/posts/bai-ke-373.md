@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 373 - Phẩm Tỳ Kheo
       content: Bước Vào Ngôi Nhà Trống,<Br>Tỷ Kheo Tâm An Tịnh,<Br>Thọ Hưởng Vui Siêu Nhân<Br>Tịnh Quán Theo Chánh Pháp.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-373.jpg }]
 category:
   - pham-ty-kheo
 ---

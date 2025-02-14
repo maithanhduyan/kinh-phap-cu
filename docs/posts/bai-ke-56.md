@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 56 - Phẩm Hoa
       content: Ít Giá Trị Hương Này,<Br>Hương Già La, Chiên Đàn;<Br>Chỉ Hương Người Đức Hạnh,<Br>Tối Thượng Tỏa Thiên Giới.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-056.jpg }]
 category:
   - pham-hoa
 ---

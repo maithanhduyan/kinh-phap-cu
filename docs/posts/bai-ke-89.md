@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 89 - Phẩm Hiền Trí
       content: Những Ai Với Chánh Tâm,<Br>Khéo Tu Tập Giác Chi,<Br>Từ Bỏ Mọi Ái Nhiễm,<Br>Hoan Hỷ Không Chấp Thủ.<Br>Không Lậu Hoặc, Sáng Chói,<Br>Sống Tịch Tịnh Ở Đời.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-089.jpg }]
 category:
   - pham-hien-tri
 ---

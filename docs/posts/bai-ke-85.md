@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 85 - Phẩm Hiền Trí
       content: Ít Người Giữa Nhân Loại,<Br>Ðến Được Bờ Bên Kia<Br>Còn Số Người Còn Lại,<Br>Xuôi Ngược Chạy Bờ Này.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-085.jpg }]
 category:
   - pham-hien-tri
 ---

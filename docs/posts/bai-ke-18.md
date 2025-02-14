@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 18 - Phẩm Song Yếu
       content: Nay Sướng, Đời Sau Sướng,<Br>Làm Phước, Hai Đời Sướng.<Br>Nó Sướng  ‘Ta Làm Thiện’,<Br>Sanh Cõi Lành, Sướng Hơn.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-018.jpg }]
 category:
   - pham-song-yeu
 ---

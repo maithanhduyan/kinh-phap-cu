@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 74 - Phẩm Ngu
       content: Mong Cả Hai Tăng, Tục,<Br>Nghĩ Rằng (Chính Ta Làm).<Br>Trong Mọi Việc Lớn Nhỏ,<Br>Phải Theo Mệnh Lệnh Ta ”<Br>Người Ngu Nghĩ Như Vậy<Br>Dục Và Mạn Tăng Trưởng.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-074.jpg }]
 category:
   - pham-ngu
 ---

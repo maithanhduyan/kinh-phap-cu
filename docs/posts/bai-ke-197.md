@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 197 - Phẩm An Lạc
       content: Vui Thay, Chúng Ta Sống,<Br>Không Hận, Giữa Hận Thù!<Br>Giữa Những Người Thù Hận,<Br>Ta Sống, Không Hận Thù!<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-an-lac/pham-an-lac-197.jpg }]
 category:
   - pham-an-lac
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 291 - Phẩm Tạp Lục
       content: Gieo Khổ Đau Cho Người,<Br>Mong Cầu Lạc Cho Mình,<Br>Bị Hận Thù Buộc Ràng<Br>Không Sao Thoát Hận Thù.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tap-luc/pham-tap-luc-291.jpg }]
 category:
   - pham-tap-luc
 ---

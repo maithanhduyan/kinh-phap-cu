@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 219 - Phẩm Hỷ Ái
       content: Khách Lâu Ngày Ly Hương,<Br>An Toàn Từ Xa Về,<Br>Bà Con Cùng Thân Hữu,<Br>Hân Hoan Đón Chào Mừng.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hy-ai/pham-hy-ai-219.jpg }]
 category:
   - pham-hy-ai
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 120 - Phẩm Ác
       content: Người Hiền Thấy Là Ác,<Br>Khi Thiện Chưa Chín Muồi.<Br>Khi Thiện Được Chín Muồi,<Br>Người Hiền Thấy Là Thiện.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ac/pham-ac-120.jpg }]
 category:
   - pham-ac
 ---

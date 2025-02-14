@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 213 - Phẩm Hỷ Ái
       content: Ái Luyến Sinh Sầu Ưu,<Br>Ái Luyến Sinh Sợ Hãi.<Br>Ai Giải Thoát Ái Luyến<Br>Không Sầu, Đâu Sợ Hãi?<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hy-ai/pham-hy-ai-213.jpg }]
 category:
   - pham-hy-ai
 ---

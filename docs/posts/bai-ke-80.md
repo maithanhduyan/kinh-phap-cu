@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 80 - Phẩm Hiền Trí
       content: Người Trị Thủy Dẫn Nước,<Br>Kẻ Làm Tên Nắn Tên,<Br>Người Thợ Mộc Uốn Gỗ,<Br>Bậc Trí Nhiếp Tự Thân.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-080.jpg }]
 category:
   - pham-hien-tri
 ---

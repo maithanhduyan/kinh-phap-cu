@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 270 - Phẩm Pháp Trụ
       content: Còn Sát Hại Sinh Linh,<Br>Ðâu Được Gọi Hiền Thánh.<Br>Không Hại Mọi Hữu Tình,<Br>Mới Được Gọi Hiền Thánh.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-270.jpg }]
 category:
   - pham-phap-tru
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 177 - Phẩm Thế Gian
       content: Keo Kiết Không Sanh Thiên,<Br>Kẻ Ngu Ghét Bố Thí,<Br>Người Trí Thích Bố Thí,<Br>Ðời Sau, Được Hưởng Lạc.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-the-gian/pham-the-gian-177.jpg }]
 category:
   - pham-the-gian
 ---

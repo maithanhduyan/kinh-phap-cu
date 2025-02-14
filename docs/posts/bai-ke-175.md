@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 175 - Phẩm Thế Gian
       content: Như Chim Thiên Nga Bay,<Br>Thần Thông Liệng Giữa Trời;<Br>Chiến Thắng Ma, Ma Quân,<Br>Kẻ Trí Thoát Đời Này.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-the-gian/pham-the-gian-175.jpg }]
 category:
   - pham-the-gian
 ---

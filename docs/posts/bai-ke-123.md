@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 123 - Phẩm Ác
       content: Ít Bạn Đường, Nhiều Tiền,<Br>Người Buôn Tránh Đường Hiểm.<Br>Muốn Sống, Tránh Thuốc Độc,<Br>Hãy Tránh Ác Như Vậy.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ac/pham-ac-123.jpg }]
 category:
   - pham-ac
 ---

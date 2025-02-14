@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 266 - Phẩm Pháp Trụ
       content: Chỉ Khất Thực Nhờ Người,<Br>Ðâu Phải Là Tỷ Kheo!<Br>Phải Theo Pháp Toàn Diện,<Br>Khất Sĩ Không, Không Đủ.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-266.jpg }]
 category:
   - pham-phap-tru
 ---

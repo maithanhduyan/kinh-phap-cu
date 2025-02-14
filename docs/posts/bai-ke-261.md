@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 261 - Phẩm Pháp Trụ
       content: Ai Chân Thật, Đúng Pháp,<Br>Không Hại, Biết Chế Phục,<Br>Bậc Trí Không Cấu Uế,<Br>Mới Xứng Danh Trưởng Lão.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-261.jpg }]
 category:
   - pham-phap-tru
 ---

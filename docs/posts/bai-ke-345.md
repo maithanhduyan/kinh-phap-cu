@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 345 - Phẩm Tham Ái
       content: Sắt, Cây, Gai Trói Buộc<Br>Người Trí Xem Chưa Bền.<Br>Tham Châu Báu, Trang Sức<Br>Tham Vọng Vợ Và Con.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-345.jpg }]
 category:
   - pham-tham-ai
 ---

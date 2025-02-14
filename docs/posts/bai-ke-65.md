@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 65 - Phẩm Ngu
       content: Người Trí, Dầu Một Khắc,<Br>Thân Cận Người Có Trí,<Br>Biết Ngay Chân Diệu Pháp,<Br>Như Lưỡi Với Vị Canh.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-065.jpg }]
 category:
   - pham-ngu
 ---

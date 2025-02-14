@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 389 - Phẩm Bà La Môn
       content: Chớ Có Đập Phạm Chí!<Br>Phạm Chí Chớ Đập Lại!<Br>Xấu Thay Đập Phạm Chí<Br>Ðập Trả Lại Xấu Hơn!<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-389.jpg }]
 category:
   - pham-ba-la-mon
 ---

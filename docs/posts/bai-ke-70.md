@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 70 - Phẩm Ngu
       content: Tháng Tháng Với Ngọn Cỏ,<Br>Người Ngu Có Ăn Uống<Br>Không Bằng Phần Mười Sáu<Br>Người Hiểu Pháp Hữu Vi.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-070.jpg }]
 category:
   - pham-ngu
 ---

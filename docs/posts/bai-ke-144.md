@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 144 - Phẩm Hình Phạt
       content: Như Ngựa Hiền Chạm Roi,<Br>Hãy Nhiệt Tâm, Hăng Hái,<Br>Với Tín, Giới, Tinh Tấn,<Br>Thiền Định Cùng Trạch Pháp.<Br>Minh Hạnh Đủ, Chánh Niệm,<Br>Ðoạn Khổ Này Vô Lượng.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-144.jpg }]
 category:
   - pham-hinh-phat
 ---

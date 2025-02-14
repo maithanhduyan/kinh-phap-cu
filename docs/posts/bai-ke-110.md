@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 110 - Phẩm Ngàn
       content: Dầu Sống Một Trăm Năm<Br>Ác Giới, Không Thiền Định,<Br>Tốt Hơn Sống Một Ngày,<Br>Trì Giới, Tu Thiền Định.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-110.jpg }]
 category:
   - pham-ngan
 ---

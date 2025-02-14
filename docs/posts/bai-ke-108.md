@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 108 - Phẩm Ngàn
       content: Suốt Năm Cúng Tế Vật,<Br>Ðể Cầu Phước Ở Đời.<Br>Không Bằng Một Phần Tư<Br>Kính Lễ Bậc Chánh Trực.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-108.jpg }]
 category:
   - pham-ngan
 ---

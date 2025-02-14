@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 338 - Phẩm Tham Ái
       content: Như Cây Bị Chặt Đốn,<Br>Gốc Chưa Hại Vẫn Bền<Br>Ái Tùy Miên Chưa Nhổ,<Br>Khổ Này Vẫn Sanh Hoài.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-338.jpg }]
 category:
   - pham-tham-ai
 ---

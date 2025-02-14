@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 93 - Phẩm A La Hán
       content: Ai Lậu Hoặc Đoạn Sạch,<Br>Ăn Uống Không Tham Đắm,<Br>Tự Tại Trong Hành Xứ,<Br>“Không, Vô Tướng Giải Thoát. ”<Br>Như Chim Giữa Hư Không,<Br>Dấu Chân Thật Khó Tìm.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-a-la-han/pham-a-la-han-093.jpg }]
 category:
   - pham-a-la-han
 ---

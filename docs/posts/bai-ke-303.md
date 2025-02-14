@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 303 - Phẩm Tạp Lục
       content: Tín Tâm, Sống Giới Hạnh<Br>Ðủ Danh Xưng Tài Sản,<Br>Chỗ Nào Người Ấy Đến,<Br>Chỗ Ấy Được Cung Kính.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tap-luc/pham-tap-luc-303.jpg }]
 category:
   - pham-tap-luc
 ---

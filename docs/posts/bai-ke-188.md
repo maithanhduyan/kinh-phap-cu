@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 188 - Phẩm Phật Đà
       content: Loài Người Sợ Hoảng Hốt,<Br>Tìm Nhiều Chỗ Quy Y,<Br>Hoặc Rừng Rậm, Núi Non,<Br>Hoặc Vườn Cây, Đền Tháp.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phat-da/pham-phat-da-188.jpg }]
 category:
   - pham-phat-da
 ---

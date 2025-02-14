@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 329 - Phẩm Voi
       content: Không Gặp Bạn Hiền Trí.<Br>Ðáng Sống Chung, Hạnh Lành<Br>Như Vua Bỏ Nước Bại,<Br>Hãy Sống Riêng Cô Độc,<Br>Như Voi Sống Rừng Voi.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-329.jpg }]
 category:
   - pham-voi
 ---

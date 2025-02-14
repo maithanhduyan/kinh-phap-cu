@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 236 - Phẩm Cấu Uế
       content: Hãy Tự Làm Hòn Đảo,<Br>Tinh Cần Gấp, Sáng Suốt.<Br>Trừ Cấu Uế, Thanh Tịnh,<Br>Ðến Thánh Địa Chư Thiên.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-236.jpg }]
 category:
   - pham-cau-ue
 ---

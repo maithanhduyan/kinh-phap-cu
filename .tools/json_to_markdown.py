@@ -19,6 +19,7 @@ head:
   - - meta
     - name: Bài kệ {item['number']} - {item['category_name'].replace('-', ' ').title()}
       content: {item['content'].replace(':', ' ').title()}
+  - [link, {{ as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/{item['img_url']} }}]
 category:
   - {item['pham']}
 ---

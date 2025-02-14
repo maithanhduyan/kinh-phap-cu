@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 269 - Phẩm Pháp Trụ
       content: Từ Bỏ Các Ác Pháp,<Br>Mới Thật Là Ẩn Sĩ.<Br>Ai Thật Hiểu Hai Đời<Br>Mới Được Gọi Ẩn Sĩ.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-269.jpg }]
 category:
   - pham-phap-tru
 ---

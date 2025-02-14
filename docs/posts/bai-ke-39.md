@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 39 - Phẩm Tâm
       content: Tâm Không Đầy Tràn Dục,<Br>Tâm Không (Hận) Công Phá,<Br>Ðoạn Tuyệt Mọi Thiện Ác,<Br>Kẻ Tỉnh Không Sợ Hãi.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tam/pham-tam-039.jpg }]
 category:
   - pham-tam
 ---

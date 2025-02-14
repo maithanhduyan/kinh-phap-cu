@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 20 - Phẩm Song Yếu
       content: Dầu Nói Ít Kinh Điển,<Br>Nhưng Hành Pháp, Tùy Pháp,<Br>Từ Bỏ Tham, Sân, Si,<Br>Tĩnh Giác, Tâm Giải Thoát,<Br>Không Chấp Thủ Hai Đời,<Br>Dự Phần Sa Môn Hạnh.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-020.jpg }]
 category:
   - pham-song-yeu
 ---

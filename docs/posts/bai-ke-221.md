@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 221 - Phẩm Phẩn Nộ
       content: Bỏ Phẫn Nộ, Ly Mạn,<Br>Vượt Qua Mọi Kiết Sử,<Br>Không Chấp Trước Danh Sắc.<Br>Khổ Không Theo Vô Sản.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phan-no/pham-phan-no-221.jpg }]
 category:
   - pham-phan-no
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 47 - Phẩm Hoa
       content: Người Nhặt Các Loại Hoa,<Br>Ý Đắm Say, Tham Nhiễm,<Br>Bị Thần Chết Mang Đi,<Br>Như Lụt Trôi Làng Ngủ.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-047.jpg }]
 category:
   - pham-hoa
 ---

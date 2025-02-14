@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 330 - Phẩm Voi
       content: Tốt Hơn Sống Một Mình,<Br>Không Kết Bạn Người Ngu.<Br>Ðộc Thân, Không Ác Hạnh<Br>Sống Vô Tư Vô Lự,<Br>Như Voi Sống Rừng Voi.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-330.jpg }]
 category:
   - pham-voi
 ---

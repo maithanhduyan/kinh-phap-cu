@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 26 - Phẩm Không Phóng Dật
       content: Chúng Ngu Si, Thiếu Trí,<Br>Chuyên Sống Đời Phóng Dật.<Br>Người Trí, Không Phóng Dật,<Br>Như Giữ Tài Sản Quý.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-khong-phong-dat/pham-khong-phong-dat-026.jpg }]
 category:
   - pham-khong-phong-dat
 ---

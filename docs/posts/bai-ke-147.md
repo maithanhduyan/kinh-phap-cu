@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 147 - Phẩm Già
       content: Hãy Xem Bong Bóng Đẹp,<Br>Chỗ Chất Chứa Vết Thương,<Br>Bệnh Hoạn Nhiều Suy Tư,<Br>Thật Không Gì Trường Cửu.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-147.jpg }]
 category:
   - pham-gia
 ---

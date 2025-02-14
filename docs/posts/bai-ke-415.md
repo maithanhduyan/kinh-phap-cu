@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 415 - Phẩm Bà La Môn
       content: Ai Ở Đời, Đoạn Dục,<Br>Bỏ Nhà, Sống Xuất Gia,<Br>Dục Hữu Được Đoạn Tận,<Br>Ta Gọi Bà-La-Môn.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-415.jpg }]
 category:
   - pham-ba-la-mon
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 357 - Phẩm Tham Ái
       content: Cỏ Làm Hại Ruộng Vườn,<Br>Sân Làm Hại Người Đời.<Br>Bố Thí Người Ly Sân,<Br>Do Vậy Được Quả Lớn.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-357.jpg }]
 category:
   - pham-tham-ai
 ---

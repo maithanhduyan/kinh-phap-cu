@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 220 - Phẩm Hỷ Ái
       content: Cũng Vậy Các Phước Nghiệp,<Br>Ðón Chào Người Làm Lành,<Br>Ðời Này Đến Đời Kia.<Br>Như Thân Nhân, Đón Chào.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hy-ai/pham-hy-ai-220.jpg }]
 category:
   - pham-hy-ai
 ---

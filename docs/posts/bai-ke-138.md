@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 138 - Phẩm Hình Phạt
       content: Hoặc Khổ Thọ Khốc Liệt,<Br>Thân Thể Bị Thương Vong,<Br>Hoặc Thọ Bệnh Kịch Liệt,<Br>Hay Loạn Ý Tán Tâm.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-138.jpg }]
 category:
   - pham-hinh-phat
 ---

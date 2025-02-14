@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 292 - Phẩm Tạp Lục
       content: Việc Đáng Làm, Không Làm,<Br>Không Đáng Làm, Lại Làm,<Br>Người Ngạo Mạn, Phóng Dật,<Br>Lậu Hoặc Ắt Tăng Trưởng.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tap-luc/pham-tap-luc-292.jpg }]
 category:
   - pham-tap-luc
 ---

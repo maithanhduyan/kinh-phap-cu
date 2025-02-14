@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 402 - Phẩm Bà La Môn
       content: Ai Tự Trên Đời Này,<Br>Giác Khổ, Diệt Trừ Khổ,<Br>Bỏ Gánh Nặng, Giải Thoát,<Br>Ta Gọi Bà-La-Môn.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-402.jpg }]
 category:
   - pham-ba-la-mon
 ---

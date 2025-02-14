@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 233 - Phẩm Phẩn Nộ
       content: Giữ Ý Đừng Phẫn Nộ,<Br>Phòng Ý, Khéo Bảo Vệ,<Br>Từ Bỏ Ý Nghĩ Ác,<Br>Với Ý, Nghĩ Hạnh Lành.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phan-no/pham-phan-no-233.jpg }]
 category:
   - pham-phan-no
 ---

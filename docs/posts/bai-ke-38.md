@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 38 - Phẩm Tâm
       content: Ai Tâm Không An Trú,<Br>Không Biết Chân Diệu Pháp,<Br>Tịnh Tín Bị Rúng Động,<Br>Trí Tuệ Không Viên Thành.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tam/pham-tam-038.jpg }]
 category:
   - pham-tam
 ---

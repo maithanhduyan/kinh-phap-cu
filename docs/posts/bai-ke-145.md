@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 145 - Phẩm Hình Phạt
       content: Người Trị Thủy Dẫn Nước,<Br>Kẻ Làm Tên Nắn Tên,<Br>Người Thợ Mộc Uốn Ván,<Br>Bậc Tự Điều, Điều Thân.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-145.jpg }]
 category:
   - pham-hinh-phat
 ---

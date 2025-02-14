@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 420 - Phẩm Bà La Môn
       content: Với Ai, Loài Trời, Người<Br>Cùng Với Càn Thát Bà,<Br>Không Biết Chỗ Thọ Sanh<Br>Lậu Tận Bậc La Hán.<Br>Ta Gọi Bà-La-Môn.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-420.jpg }]
 category:
   - pham-ba-la-mon
 ---

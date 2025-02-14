@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 237 - Phẩm Cấu Uế
       content: Ðời Ngươi Nay Sắp Tàn,<Br>Tiến Gần Đến Diêm Vương.<Br>Giữa Đường Không Nơi Nghỉ,<Br>Ðường Trường Thiếu Tư Lương.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-237.jpg }]
 category:
   - pham-cau-ue
 ---

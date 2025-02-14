@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 347 - Phẩm Tham Ái
       content: Người Đắm Say Ái Dục<Br>Tự Lao Mình Xuống Dòng<Br>Như Nhện Sa Lưới Dệt.<Br>Người Trí Cắt Trừ Nó,<Br>Bỏ Mọi Khổ, Không Màng.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-347.jpg }]
 category:
   - pham-tham-ai
 ---

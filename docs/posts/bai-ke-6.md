@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 6 - Phẩm Song Yếu
       content: Và Người Khác Không Biết,<Br>Chúng Ta Đây Bị Hại.<Br>Chỗ Ấy, Ai Hiểu Được<Br>Tranh Luận Được Lắng Êm.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-006.jpg }]
 category:
   - pham-song-yeu
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 282 - Phẩm Đạo
       content: Tu Thiền, Trí Tuệ Sanh,<Br>Bỏ Thiền, Trí Tuệ Diệt.<Br>Biết Con Đường Hai Ngả<Br>Ðưa Đến Hữu, Phi Hữu,<Br>Hãy Tự Mình Nỗ Lực,<Br>Khiến Trí Tuệ Tăng Trưởng.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dao/pham-dao-282.jpg }]
 category:
   - pham-dao
 ---

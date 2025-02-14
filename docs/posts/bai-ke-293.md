@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 293 - Phẩm Tạp Lục
       content: Người Siêng Năng Cần Mẫn,<Br>Thường Thường Quán Thân Niệm,<Br>Không Làm Việc Không Đáng,<Br>Gắng Làm Việc Đáng Làm,<Br>Người Tư Niệm Giác Tỉnh,<Br>Lậu Hoặc Được Tiêu Trừ.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tap-luc/pham-tap-luc-293.jpg }]
 category:
   - pham-tap-luc
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 166 - Phẩm Tự Ngã
       content: Chớ Theo Pháp Hạ Liệt.<Br>Chớ Sống Mặc, Buông Lung;<Br>Chớ Tin Theo Tà Kiến,<Br>Chớ Tăng Trưởng Tục Trần.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tu-nga/pham-tu-nga-166.jpg }]
 category:
   - pham-tu-nga
 ---

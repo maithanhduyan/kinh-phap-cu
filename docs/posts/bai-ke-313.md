@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 313 - Phẩm Địa Ngục
       content: Cần Phải Làm, Nên Làm<Br>Làm Cùng Tận Khả Năng<Br>Xuất Gia Sống Phóng Đãng,<Br>Chỉ Tăng Loạn Bụi Đời.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-313.jpg }]
 category:
   - pham-dia-nguc
 ---

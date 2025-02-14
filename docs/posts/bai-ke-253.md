@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 253 - Phẩm Cấu Uế
       content: Ai Thấy Lỗi Của Người,<Br>Thường Sanh Lòng Chỉ Trích,<Br>Người Ấy Lậu Hoặc Tăng,<Br>Rất Xa Lậu Hoặc Diệt.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-253.jpg }]
 category:
   - pham-cau-ue
 ---

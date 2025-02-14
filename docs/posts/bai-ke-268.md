@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 268 - Phẩm Pháp Trụ
       content: Im Lặng Nhưng Ngu Si,<Br>Ðâu Được Gọi Ẩn Sĩ?<Br>Như Người Cầm Cán Cân,<Br>Bậc Trí Chọn Điều Lành.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phap-tru/pham-phap-tru-268.jpg }]
 category:
   - pham-phap-tru
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 204 - Phẩm An Lạc
       content: Không Bệnh, Lợi Tối Thượng,<Br>Biết Đủ, Tiền Tối Thượng,<Br>Thành Tín Đối Với Nhau,<Br>Là Bà Con Tối Thượng.<Br>Niết Bàn, Lạc Tối Thượng.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-an-lac/pham-an-lac-204.jpg }]
 category:
   - pham-an-lac
 ---

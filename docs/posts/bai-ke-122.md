@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 122 - Phẩm Ác
       content: Chớ Chê Khinh Điều Thiện<Br>Cho Rằng “Chưa Đến Mình, ”<Br>Như Nước Nhỏ Từng Giọt,<Br>Rồi Bình Cũng Đầy Tràn.<Br>Người Trí Chứa Đầy Thiện,<Br>Do Chất Chứa Dần Dần.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ac/pham-ac-122.jpg }]
 category:
   - pham-ac
 ---

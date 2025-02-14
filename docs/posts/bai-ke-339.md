@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 339 - Phẩm Tham Ái
       content: Ba Mươi Sáu Dòng Ái ,<Br>Trôi Người Đốn Khả Ái.<Br>Các Tư Tưởng Tham Ái.<Br>Cuốn Trôi Người Tà Kiến.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-339.jpg }]
 category:
   - pham-tham-ai
 ---

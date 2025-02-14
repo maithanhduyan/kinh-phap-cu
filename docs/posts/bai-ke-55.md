@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 55 - Phẩm Hoa
       content: Hoa Chiên Đàn, Già La,<Br>Hoa Sen, Hoa Vũ Quý,<Br>Giữa Những Hương Hoa Ấy,<Br>Giới Hương Là Vô Thượng.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-055.jpg }]
 category:
   - pham-hoa
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 155 - Phẩm Già
       content: Lúc Trẻ, Không Phạm Hạnh,<Br>Không Tìm Kiếm Bạc Tiền.<Br>Như Cò Già Bên Ao,<Br>Ủ Rũ, Không Tôm Cá.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-155.jpg }]
 category:
   - pham-gia
 ---

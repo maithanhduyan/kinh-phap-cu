@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 370 - Phẩm Tỳ Kheo
       content: Ðoạn Năm , Từ Bỏ Năm ,<Br>Tu Tập Năm  Tối Thượng,<Br>Tỷ Kheo Cắt Năm Trói ,<Br>Xứng Danh Vượt “Bộc Lưu” .<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-370.jpg }]
 category:
   - pham-ty-kheo
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 143 - Phẩm Hình Phạt
       content: Thật Khó Tìm Ở Đời,<Br>Người Biết Thẹn, Tự Chế,<Br>Biết Tránh Né Chỉ Trích<Br>Như Ngựa Hiền Tránh Roi.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-143.jpg }]
 category:
   - pham-hinh-phat
 ---

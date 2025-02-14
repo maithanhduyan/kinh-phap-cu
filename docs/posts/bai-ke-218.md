@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 218 - Phẩm Hỷ Ái
       content: Ước Vọng Pháp Ly Ngôn<Br>Ý Cảm Xúc Thượng Quả<Br>Tâm Thoát Ly Ác Dục,<Br>Xứng Gọi Bậc Thượng Lưu.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hy-ai/pham-hy-ai-218.jpg }]
 category:
   - pham-hy-ai
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 132 - Phẩm Hình Phạt
       content: Chúng Sanh Cầu An Lạc,<Br>Không Dùng Trượng Hại Người,<Br>Ðể Tìm Lạc Cho Mình,<Br>Ðời Sau Được Hưởng Lạc.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-132.jpg }]
 category:
   - pham-hinh-phat
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 169 - Phẩm Thế Gian
       content: Hãy Khéo Sống Chánh Hạnh,<Br>Chớ Sống Theo Tà Hạnh!<Br>Người Chánh Hạnh Hưởng Lạc,<Br>Cả Đời Này, Đời Sau.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-the-gian/pham-the-gian-169.jpg }]
 category:
   - pham-the-gian
 ---

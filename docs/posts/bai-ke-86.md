@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 86 - Phẩm Hiền Trí
       content: Những Ai Hành Trì Pháp,<Br>Theo Chánh Pháp Khéo Dạy,<Br>Sẽ Đến Bờ Bên Kia,<Br>Vượt Ma Lực Khó Thoát.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-086.jpg }]
 category:
   - pham-hien-tri
 ---

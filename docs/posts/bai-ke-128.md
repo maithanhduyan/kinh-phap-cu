@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 128 - Phẩm Ác
       content: Không Trên Trời, Giữa Biển,<Br>Không Lánh Vào Động Núi,<Br>Không Chỗ Nào Trên Đời,<Br>Trốn Khỏi Tay Thần Chết.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ac/pham-ac-128.jpg }]
 category:
   - pham-ac
 ---

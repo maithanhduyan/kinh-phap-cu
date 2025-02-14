@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 364 - Phẩm Tỳ Kheo
       content: Vị Tỷ Kheo Thích Pháp,<Br>Mến Pháp, Suy Tư Pháp.<Br>Tâm Tư Niệm Chánh Pháp,<Br>Không Rời Bỏ Chánh Pháp.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-364.jpg }]
 category:
   - pham-ty-kheo
 ---

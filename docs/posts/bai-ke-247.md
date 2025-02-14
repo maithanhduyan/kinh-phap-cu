@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 247 - Phẩm Cấu Uế
       content: Uống Rượu Men, Rượu Nấu,<Br>Người Sống Đam Mê Vậy,<Br>Chính Ngay Tại Đời Này,<Br>Tự Đào Bới Gốc Mình.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-cau-ue/pham-cau-ue-247.jpg }]
 category:
   - pham-cau-ue
 ---

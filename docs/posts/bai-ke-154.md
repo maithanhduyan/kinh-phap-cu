@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 154 - Phẩm Già
       content: Ôi! Người Làm Nhà Kia<Br>Nay Ta Đã Thấy Ngươi!<Br>Ngươi Không Làm Nhà Nữa.<Br>Ðòn Tay Ngươi Bị Gẫy,<Br>Kèo Cột Ngươi Bị Tan<Br>Tâm Ta Đạt Tịch Diệt,<Br>Tham Ái Thảy Tiêu Vong.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-154.jpg }]
 category:
   - pham-gia
 ---

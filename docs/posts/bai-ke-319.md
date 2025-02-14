@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 319 - Phẩm Địa Ngục
       content: Có Lỗi, Biết Có Lỗi,<Br>Không Lỗi, Biết Là Không,<Br>Do Chấp Nhận Chánh Kiến,<Br>Chúng Sanh Đi Cõi Lành.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-319.jpg }]
 category:
   - pham-dia-nguc
 ---

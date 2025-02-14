@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 66 - Phẩm Ngu
       content: Người Ngu Si Thiếu Trí,<Br>Tự Ngã Thành Kẻ Thù.<Br>Làm Các Nghiệp Không Thiện,<Br>Phải Chịu Quả Đắng Cay.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngu/pham-ngu-066.jpg }]
 category:
   - pham-ngu
 ---

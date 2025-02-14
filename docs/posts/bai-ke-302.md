@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 302 - Phẩm Tạp Lục
       content: Vui Hạnh Xuất Gia Khó,<Br>Tại Gia Sinh Hoạt Khó,<Br>Sống Bạn Không Đồng, Khổ,<Br>Trôi Lăn Luân Hồi, Khổ,<Br>Vậy Chớ Sống Luân Hồi,<Br>Chớ Chạy Theo Đau Khổ.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tap-luc/pham-tap-luc-302.jpg }]
 category:
   - pham-tap-luc
 ---

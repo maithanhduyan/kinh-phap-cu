@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 164 - Phẩm Tự Ngã
       content: Kẻ Ngu Si Miệt Thị,<Br>Giáo Pháp Bậc La Hán,<Br>Bậc Thánh, Bậc Chánh Mạng.<Br>Chính Do Ác Kiến Này,<Br>Như Quả Loại Cây Lau<Br>Mang Quả Tự Hoại Diệt.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tu-nga/pham-tu-nga-164.jpg }]
 category:
   - pham-tu-nga
 ---

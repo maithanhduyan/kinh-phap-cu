@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 228 - Phẩm Phẩn Nộ
       content: Xưa, Vị Lai, Và Nay,<Br>Ðâu Có Sự Kiện Này,<Br>Người Hoàn Toàn Bị Chê,<Br>Người Trọn Vẹn Được Khen.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phan-no/pham-phan-no-228.jpg }]
 category:
   - pham-phan-no
 ---

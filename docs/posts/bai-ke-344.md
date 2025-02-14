@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 344 - Phẩm Tham Ái
       content: Lìa Rừng Lại Hướng Rừng <Br>Thoát Rừng Chạy Theo Rừng.<Br>Nên Xem Người Như Vậy,<Br>Ðược Thoát Khỏi Buộc Ràng.<Br>Lại Chạy Theo Ràng Buộc.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-344.jpg }]
 category:
   - pham-tham-ai
 ---

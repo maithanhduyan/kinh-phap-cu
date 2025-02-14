@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 320 - Phẩm Voi
       content: Ta Như Voi Giữa Trận,<Br>Hứng Chịu Cung Tên Rơi,<Br>Chịu Đựng Mọi Phỉ Báng.<Br>Ác Giới Rất Nhiều Người.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-320.jpg }]
 category:
   - pham-voi
 ---

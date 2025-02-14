@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 87 - Phẩm Hiền Trí
       content: Kẻ Trí Bỏ Pháp Đen,<Br>Tu Tập Theo Pháp Trắng.<Br>Bỏ Nhà, Sống Không Nhà,<Br>Sống Viễn Ly Khổ Lạc.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hien-tri/pham-hien-tri-087.jpg }]
 category:
   - pham-hien-tri
 ---

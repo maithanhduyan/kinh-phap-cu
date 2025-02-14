@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 151 - Phẩm Già
       content: Xe Vua Đẹp Cũng Già.<Br>Thân Này Rồi Sẽ Già,<Br>Pháp Bậc Thiện, Không Già.<Br>Như Vậy Bậc Chí Thiện<Br>Nói Lên Cho Bậc Thiện.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-151.jpg }]
 category:
   - pham-gia
 ---

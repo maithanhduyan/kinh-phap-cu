@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 335 - Phẩm Tham Ái
       content: Ai Sống Trong Đời Này,<Br>Bị Ái Dục Buộc Ràng<Br>Sầu Khổ Sẽ Tăng Trưởng,<Br>Như Cỏ Bi Gặp Mưa.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-tham-ai/pham-tham-ai-335.jpg }]
 category:
   - pham-tham-ai
 ---

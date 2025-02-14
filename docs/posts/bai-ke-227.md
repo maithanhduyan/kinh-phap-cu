@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 227 - Phẩm Phẩn Nộ
       content: A-Tu-La, Nên Biết,<Br>Xưa Vậy, Nay Cũng Vậy,<Br>Ngồi Im, Bị Người Chê,<Br>Nói Nhiều Bị Người Chê.<Br>Nói Vừa Phải, Bị Chê.<Br>Làm Người Không Bị Chê,<Br>Thật Khó Tìm Ở Đời.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phan-no/pham-phan-no-227.jpg }]
 category:
   - pham-phan-no
 ---

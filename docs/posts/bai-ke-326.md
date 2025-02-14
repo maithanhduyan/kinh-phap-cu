@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 326 - Phẩm Voi
       content: Trước Tâm Này Buông Lung,<Br>Chạy Theo Ái, Dục, Lạc.<Br>Nay Ta Chánh Chế Ngự,<Br>Như Cầm Móc Điều Voi.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-voi/pham-voi-326.jpg }]
 category:
   - pham-voi
 ---

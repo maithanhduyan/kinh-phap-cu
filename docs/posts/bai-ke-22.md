@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 22 - Phẩm Không Phóng Dật
       content: Biết Rõ Sai Biệt Ấy,<Br>Người Trí Không Phóng Dật,<Br>Hoan Hỷ, Không Phóng Dật,<Br>An Vui Hạnh Bậc Thánh.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-khong-phong-dat/pham-khong-phong-dat-022.jpg }]
 category:
   - pham-khong-phong-dat
 ---

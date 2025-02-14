@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 140 - Phẩm Hình Phạt
       content: Hoặc Phòng Ốc Nhà Cửa<Br>Bị Hỏa Tai Thiêu Đốt.<Br>Khi Thân Hoại Mạng Chung,<Br>Ác Tuệ Sanh Địa Ngục.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-140.jpg }]
 category:
   - pham-hinh-phat
 ---

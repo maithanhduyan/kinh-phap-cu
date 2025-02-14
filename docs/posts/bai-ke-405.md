@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 405 - Phẩm Bà La Môn
       content: Bỏ Trượng, Đối Chúng Sanh,<Br>Yếu Kém Hay Kiên Cường,<Br>Không Giết, Không Bảo Giết,<Br>Ta Gọi Bà-La-Môn.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-405.jpg }]
 category:
   - pham-ba-la-mon
 ---

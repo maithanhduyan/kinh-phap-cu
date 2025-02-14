@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 8 - Phẩm Song Yếu
       content: Ai Sống Quán Bất Tịnh,<Br>Khéo Hộ Trì Các Căn,<Br>Ăn Uống Có Tiết Độ,<Br>Có Lòng Tin, Tinh Cần,<Br>Ma Không Uy Hiếp Được,<Br>Như Núi Đá, Trước Gió.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-008.jpg }]
 category:
   - pham-song-yeu
 ---

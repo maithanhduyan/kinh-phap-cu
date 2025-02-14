@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 59 - Phẩm Hoa
       content: Cũng Vậy Giữa Quần Sanh,<Br>Uế Nhiễm, Mù, Phàm Tục,<Br>Ðệ Tử Bậc Chánh Giác,<Br>Sáng Ngời Với Tuệ Trí.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hoa/pham-hoa-059.jpg }]
 category:
   - pham-hoa
 ---

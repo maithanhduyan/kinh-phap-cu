@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 131 - Phẩm Hình Phạt
       content: Chúng Sanh Cầu An Lạc,<Br>Ai Dùng Trượng Hại Người,<Br>Ðể Tìm Lạc Cho Mình,<Br>Ðời Sau Không Được Lạc.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hinh-phat/pham-hinh-phat-131.jpg }]
 category:
   - pham-hinh-phat
 ---

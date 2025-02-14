@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 171 - Phẩm Thế Gian
       content: Hãy Đến Nhìn Đời Này,<Br>Như Xe Vua Lộng Lẫy,<Br>Người Ngu Mới Tham Đắm,<Br>Kẻ Trí Nào Đắm Say.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-the-gian/pham-the-gian-171.jpg }]
 category:
   - pham-the-gian
 ---

@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 156 - Phẩm Già
       content: Lúc Trẻ Không Phạm Hạnh,<Br>Không Tìm Kiếm Bạc Tiền;<Br>Như Cây Cung Bị Gẫy,<Br>Thở Than Những Ngày Qua.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-gia/pham-gia-156.jpg }]
 category:
   - pham-gia
 ---

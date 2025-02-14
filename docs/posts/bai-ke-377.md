@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 377 - Phẩm Tỳ Kheo
       content: Như Hoa Vassikà ,<Br>Quăng Bỏ Cánh Úa Tàn,<Br>Cũng Vậy Vị Tỷ Kheo,<Br>Hãy Giải Thoát Tham Sân.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ty-kheo/pham-ty-kheo-377.jpg }]
 category:
   - pham-ty-kheo
 ---

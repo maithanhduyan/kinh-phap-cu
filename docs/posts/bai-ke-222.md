@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 222 - Phẩm Phẩn Nộ
       content: Ai Chận Được Phẫn Nộ,<Br>Như Dừng Xe Đang Lăn,<Br>Ta Gọi Người Đánh Xe,<Br>Kẻ Khác, Cầm Cương Hờ.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-phan-no/pham-phan-no-222.jpg }]
 category:
   - pham-phan-no
 ---

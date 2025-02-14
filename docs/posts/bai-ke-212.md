@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 212 - Phẩm Hỷ Ái
       content: Do Ái Sinh Sầu Ưu,<Br>Do Ái Sinh Sợ Hãi,<Br>Ai Thoát Khỏi Tham Ái,<Br>Không Sầu, Đâu Sợ Hãi?<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-hy-ai/pham-hy-ai-212.jpg }]
 category:
   - pham-hy-ai
 ---

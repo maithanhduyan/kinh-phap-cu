@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 422 - Phẩm Bà La Môn
       content: Bậc Trâu Chúa, Thù Thắng<Br>Bậc Anh Hùng, Đại Sĩ,<Br>Bậc Chiến Thắng, Không Nhiễm,<Br>Bậc Tẩy Sạch, Giác Ngộ,<Br>Ta Gọi Bà-La-Môn.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ba-la-mon/pham-ba-la-mon-422.jpg }]
 category:
   - pham-ba-la-mon
 ---

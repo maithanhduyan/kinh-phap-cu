@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 103 - Phẩm Ngàn
       content: Dầu Tại Bãi Chiến Trường<Br>Thắng Ngàn Ngàn Quân Địch,<Br>Tự Thắng Mình Tốt Hơn,<Br>Thật Chiến Thắng Tối Thượng.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-ngan/pham-ngan-103.jpg }]
 category:
   - pham-ngan
 ---

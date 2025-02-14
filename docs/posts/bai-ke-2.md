@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 2 - Phẩm Song Yếu
       content: Ý Dẫn Đầu Các Pháp,<Br>Ý Làm Chủ, Ý Tạo;<Br>Nếu Với Ý Thanh Tịnh,<Br>Nói Lên Hay Hành Động,<Br>An Lạc Bước Theo Sau,<Br>Như Bóng, Không Rời Hình.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-song-yeu/pham-song-yeu-002.jpg }]
 category:
   - pham-song-yeu
 ---

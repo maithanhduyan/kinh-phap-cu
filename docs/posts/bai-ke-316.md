@@ -7,6 +7,7 @@ head:
   - - meta
     - name: Bài kệ 316 - Phẩm Địa Ngục
       content: Không Đáng Hổ, Lại Hổ.<Br>Việc Đáng Hổ, Lại Không.<Br>Do Chấp Nhận Tà Kiến,<Br>Chúng Sanh Đi Ác Thú.<Br>
+  - [link, { as: image, rel: preload, href: https://maithanhduyan.github.io/kinh-phap-cu/img/pham-dia-nguc/pham-dia-nguc-316.jpg }]
 category:
   - pham-dia-nguc
 ---
