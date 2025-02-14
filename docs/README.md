@@ -70,6 +70,6 @@ Việt dịch: Hòa Thượng Thích Minh Châu
 Bản chuyển dịch thơ của Tâm Minh Ngô Tằng Giao.
 
 Nội dung dưới đây được biên tập lại từ Kinh Pháp Cú.
-Check [Home Page Docs][default-theme-home] for more details.
+[ DIỆU PHÁP ÂM ][default-theme-home] xem thêm chi tiết.
 
 [default-theme-home]: https://dieuphapam.net/topics/423-bai-ke-kinh-phap-cu-voi-hinh-ve-minh-hoa.3187/
