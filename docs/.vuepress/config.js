@@ -13,7 +13,7 @@ export default defineUserConfig({
   description: 'Kinh Pháp Cú',
 
   theme: defaultTheme({
-    base: process.env.NODE_ENV === 'production' ? '/kinh-phap-cu/' : '/',
+    hostname: 'https://maithanhduyan.github.io/kinh-phap-cu',
     logo: '/img/icon/buddha_vector_icon.png',
     head: head,
     navbar: navbar,
